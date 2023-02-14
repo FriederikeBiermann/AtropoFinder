@@ -1,0 +1,130 @@
+Loading model from: /home/friederike/.local/share/deepbgc/data/0.1.0/detector/deepbgc.pkl
+Error unpickling model from path '/home/friederike/.local/share/deepbgc/data/0.1.0/detector/deepbgc.pkl'
+Traceback (most recent call last):
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/deepbgc/models/wrapper.py", line 178, in load
+    model = pickle.load(f)
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/deepbgc/models/rnn.py", line 259, in __setstate__
+    from keras.models import model_from_json
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/__init__.py", line 3, in <module>
+    from . import utils
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/utils/__init__.py", line 6, in <module>
+    from . import conv_utils
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/utils/conv_utils.py", line 9, in <module>
+    from .. import backend as K
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/backend/__init__.py", line 89, in <module>
+    from .tensorflow_backend import *
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py", line 5, in <module>
+    import tensorflow as tf
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/tensorflow/__init__.py", line 102, in <module>
+    from tensorflow_core import *
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/tensorflow_core/__init__.py", line 28, in <module>
+    from tensorflow.python import pywrap_tensorflow  # pylint: disable=unused-import
+  File "<frozen importlib._bootstrap>", line 1019, in _handle_fromlist
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/tensorflow/__init__.py", line 50, in __getattr__
+    module = self._load()
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/tensorflow/__init__.py", line 44, in _load
+    module = _importlib.import_module(self.__name__)
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/tensorflow_core/python/__init__.py", line 52, in <module>
+    from tensorflow.core.framework.graph_pb2 import *
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/tensorflow_core/core/framework/graph_pb2.py", line 16, in <module>
+    from tensorflow.core.framework import node_def_pb2 as tensorflow_dot_core_dot_framework_dot_node__def__pb2
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/tensorflow_core/core/framework/node_def_pb2.py", line 16, in <module>
+    from tensorflow.core.framework import attr_value_pb2 as tensorflow_dot_core_dot_framework_dot_attr__value__pb2
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/tensorflow_core/core/framework/attr_value_pb2.py", line 16, in <module>
+    from tensorflow.core.framework import tensor_pb2 as tensorflow_dot_core_dot_framework_dot_tensor__pb2
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/tensorflow_core/core/framework/tensor_pb2.py", line 16, in <module>
+    from tensorflow.core.framework import resource_handle_pb2 as tensorflow_dot_core_dot_framework_dot_resource__handle__pb2
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/tensorflow_core/core/framework/resource_handle_pb2.py", line 16, in <module>
+    from tensorflow.core.framework import tensor_shape_pb2 as tensorflow_dot_core_dot_framework_dot_tensor__shape__pb2
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/tensorflow_core/core/framework/tensor_shape_pb2.py", line 42, in <module>
+    serialized_options=None, file=DESCRIPTOR),
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/google/protobuf/descriptor.py", line 560, in __new__
+    _message.Message._CheckCalledFromGeneratedFile()
+TypeError: Descriptors cannot not be created directly.
+If this call came from a _pb2.py file, your generated code is out of date and must be regenerated with protoc >= 3.19.0.
+If you cannot immediately regenerate your protos, some other possible workarounds are:
+ 1. Downgrade the protobuf package to 3.20.x or lower.
+ 2. Set PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python (but this will use pure-Python parsing and will be much slower).
+
+More information: https://developers.google.com/protocol-buffers/docs/news/2022-05-06#python-updates
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/deepbgc/main.py", line 113, in main
+    run(argv)
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/deepbgc/main.py", line 102, in run
+    args.func.run(**args_dict)
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/deepbgc/command/pipeline.py", line 133, in run
+    min_bio_domains=min_bio_domains
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/deepbgc/pipeline/detector.py", line 35, in __init__
+    self.model = SequenceModelWrapper.load(model_path)
+  File "/home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/deepbgc/models/wrapper.py", line 188, in load
+    raise ValueError("Error unpickling model from path '{}'".format(path), e)
+ValueError: ("Error unpickling model from path '/home/friederike/.local/share/deepbgc/data/0.1.0/detector/deepbgc.pkl'", TypeError('Descriptors cannot not be created directly.\nIf this call came from a _pb2.py file, your generated code is out of date and must be regenerated with protoc >= 3.19.0.\nIf you cannot immediately regenerate your protos, some other possible workarounds are:\n 1. Downgrade the protobuf package to 3.20.x or lower.\n 2. Set PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python (but this will use pure-Python parsing and will be much slower).\n\nMore information: https://developers.google.com/protocol-buffers/docs/news/2022-05-06#python-updates'))
+================================================================================
+DeepBGC failed with ValueError: Error unpickling model from path '/home/friederike/.local/share/deepbgc/data/0.1.0/detector/deepbgc.pkl'
+================================================================================
+Descriptors cannot not be created directly.
+If this call came from a _pb2.py file, your generated code is out of date and must be regenerated with protoc >= 3.19.0.
+If you cannot immediately regenerate your protos, some other possible workarounds are:
+ 1. Downgrade the protobuf package to 3.20.x or lower.
+ 2. Set PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python (but this will use pure-Python parsing and will be much slower).
+
+More information: https://developers.google.com/protocol-buffers/docs/news/2022-05-06#python-updates
+================================================================================
+Loading model from: /home/friederike/.local/share/deepbgc/data/0.1.0/detector/deepbgc.pkl
+From /home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:74: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+From /home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+From /home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+From /home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+From /home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+From /home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+From /home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:181: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+From /home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:186: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+From /home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:190: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+From /home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:199: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+From /home/friederike/anaconda3/envs/deepbgc/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:206: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+Loading model from: /home/friederike/.local/share/deepbgc/data/0.1.0/classifier/product_class.pkl
+Loading model from: /home/friederike/.local/share/deepbgc/data/0.1.0/classifier/product_activity.pkl
+Processing input file 1/1: all_output_BGCs_threshold_15.fasta
+================================================================================
+Processing record #1: output_BGCs_threshold_15
+Trimming long record locus "output_BGCs_threshold_15" to "output_BGCs_thre..."
+Updating record molecule type to DNA
+Finding genes in record: output_BGCs_threshold_15
+Detecting Pfam domains in "output_BGCs_threshold_15" using HMMER hmmscan, this might take a while...
+HMMER hmmscan Pfam detection done in 0h6m8s
+Added 6083 Pfam domains (556 unique PFAM_IDs)
+Detecting BGCs using deepbgc model in output_BGCs_threshold_15
+Detected 116 BGCs using deepbgc model in output_BGCs_threshold_15
+Classifying 116 BGCs using product_class model in output_BGCs_threshold_15
+Classifying 116 BGCs using product_activity model in output_BGCs_threshold_15
+Saving processed record output_BGCs_threshold_15
+================================================================================
+Detected 116 total BGCs using deepbgc model
+Number of BGCs with predicted product_class: 
+ Terpene: 69
+ Polyketide: 69
+ no confident class: 42
+ RiPP: 4
+Number of BGCs with predicted product_activity: 
+ antibacterial: 96
+ no confident class: 19
+ cytotoxic: 1
+================================================================================
+Saved DeepBGC result to: all_output_BGCs_threshold_15

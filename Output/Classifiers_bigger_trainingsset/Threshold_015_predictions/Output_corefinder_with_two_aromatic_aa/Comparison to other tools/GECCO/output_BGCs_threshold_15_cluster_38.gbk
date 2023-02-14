@@ -1,0 +1,170 @@
+LOCUS       output_BGCs_threshold_15_cluster_38 3458 bp    DNA     linear   UNK 30-JAN-2023
+DEFINITION  output_BGCs_threshold_15 <unknown description>.
+ACCESSION   output_BGCs_threshold_15_cluster_38
+VERSION     output_BGCs_threshold_15_cluster_38
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+REFERENCE   1
+  AUTHORS   Laura M Carroll, Martin Larralde, Jonas Simon Fleck, Ruby
+            Ponnudurai, Alessio Milanese, Elisa Cappio Barazzone, Georg Zeller
+  TITLE     Accurate de novo identification of biosynthetic gene clusters with
+            GECCO
+  JOURNAL   bioRxiv (2021.05.03.442509)
+  REMARK    doi:10.1101/2021.05.03.442509
+COMMENT     ##GECCO-Data-START##
+            version                :: GECCO v0.9.6
+            creation_date          :: 2023-01-30T10:03:43.517522
+            cluster_type           :: Unknown
+            alkaloid_probability   :: 0.000
+            nrp_probability        :: 0.020
+            polyketide_probability :: 0.059
+            ripp_probability       :: 0.010
+            saccharide_probability :: 0.045
+            terpene_probability    :: 0.395
+            ##GECCO-Data-END##
+FEATURES             Location/Qualifiers
+     CDS             1..1227
+                     /inference="ab initio prediction:Pyrodigal:2.0.4"
+                     /transl_table=11
+                     /locus_tag="output_BGCs_threshold_15_2449"
+                     /translation="MPSVISTPTRRSAYLRLFSLPGTRAFTTGNLLARLPMGMFSVSAV
+                     VMIAGSRGSYALAGAVTATGLAATGLAGPWIARLIDRHGQARIAVPATLLSVLGSLALL
+                     LCVRFGAPDWTLFAAYAATAATPNIGGLSRARWAHLLRDDSGALHTANAFEQAADELCF
+                     MLGPVLASFLTGTFFPEAGTLTGAVLLLAGMLLFTAQRATEPPVGARSKAPSPLRSPGI
+                     RPLLACFVATGMVFGSMEVGTIAFADAHGHRAVAGAVLALQAAGSCAAGLVFGARRPAG
+                     VRLGHCLAAMAVLMTLPWAAAGAAGSLPGLAGALLVAGMATAPTMVTAMTLVQRRTPAD
+                     RLNEGMSLVVTGLLTGIACGSAAGGWTAQHLSPGTALAVPATAAALALLVHTASTGARR
+                     NVSADGPED*"
+                     /function="transporter activity"
+                     /colour="100 149 237"
+                     /ApEinfo_fwdcolor="#6495ed"
+                     /ApEinfo_revcolor="#6495ed"
+     misc_feature    88..903
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF07690"
+                     /db_xref="InterPro:IPR011701"
+                     /db_xref="GO:0022857"
+                     /db_xref="GO:0055085"
+                     /note="e-value: 5.313588293166968e-09"
+                     /note="p-value: 1.9210369823452523e-12"
+                     /function="Major facilitator superfamily"
+                     /standard_name="PF07690"
+     CDS             complement(1202..2413)
+                     /inference="ab initio prediction:Pyrodigal:2.0.4"
+                     /transl_table=11
+                     /locus_tag="output_BGCs_threshold_15_2450"
+                     /translation="MSYDTETVDESFAGRPHDVYRRWREEGGVRKVRFSGAAPLAGWVV
+                     TGHAACRAALADPRLSKDGATEAYARHEGLPGGGPGGALTTHMLNSDPPRHTRLRRLVQ
+                     QAFTQRRVAELRPRIEAHVTALLDAVDRADEAGEVDLIARFALPLPLAVIFELLGADPG
+                     AHGILQVRGHTVGGDGGDGEVSVPTAETMLERLRELVEDKRAHPGDDLLSALLAARADG
+                     ERLTGQEVTSMAFLLVIAGHQTTVNLVANGLYALLTHPGQLAAVRADPALVPGLTEEVL
+                     RHESPFALASLRYTTEPVTIAGTTIPAGEFVQIALAAANRDPAVFADPDRFDVTRDASR
+                     HLAFGHGIHHCLGAPLARLQAEIAFTHVLRRFPGLRLAGRERAPEWQDNPRHRGLLSLP
+                     VRLR*"
+                     /function="binding"
+                     /function="catalytic activity"
+                     /colour="129 14 21"
+                     /ApEinfo_fwdcolor="#810e15"
+                     /ApEinfo_revcolor="#810e15"
+     misc_feature    1298..1834
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF00067"
+                     /db_xref="InterPro:IPR001128"
+                     /db_xref="GO:0004497"
+                     /db_xref="GO:0005506"
+                     /db_xref="GO:0016705"
+                     /db_xref="GO:0020037"
+                     /note="e-value: 2.9319955533957547e-26"
+                     /note="p-value: 1.060012853722254e-29"
+                     /function="Cytochrome P450"
+                     /standard_name="PF00067"
+     CDS             complement(2415..3458)
+                     /inference="ab initio prediction:Pyrodigal:2.0.4"
+                     /transl_table=11
+                     /locus_tag="output_BGCs_threshold_15_2451"
+                     /translation="MRRTLFHPRLAALFRDHLGQDVFRLEPDTVGIAGYEVADRILAAR
+                     RATETERPTFKPLHGRSISRGEASSVMRTIGGDVREALKRSRPGPEDVDLSGVWPLRGH
+                     LFLRDLILGKDPYRLRILMSRNLELTPKLTWAVIAAGAALPGRVGRRGAPLTAIAGLTA
+                     DAGGYHERRYAMGMYRRAAAPVCFTVSTLVANALWLGSPFDPDTPNRHILHESMRLLPP
+                     SWNILRNASPEYPAVDDRIGAGDDVLLLPLLTHRDPKLWEDPHEFRPERWESLDPDTAP
+                     GYLPFGHSSERCWGRHMVMPLAELLLDLIRGSGLAVSPDQRSAKVPLVGLLGVEDVQVT
+                     KVRRAAA*"
+                     /function="binding"
+                     /function="catalytic activity"
+                     /colour="129 14 21"
+                     /ApEinfo_fwdcolor="#810e15"
+                     /ApEinfo_revcolor="#810e15"
+     misc_feature    2538..2825
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF00067"
+                     /db_xref="InterPro:IPR001128"
+                     /db_xref="GO:0004497"
+                     /db_xref="GO:0005506"
+                     /db_xref="GO:0016705"
+                     /db_xref="GO:0020037"
+                     /note="e-value: 8.241471523811974e-17"
+                     /note="p-value: 2.9795630960997736e-20"
+                     /function="Cytochrome P450"
+                     /standard_name="PF00067"
+ORIGIN
+        1 atgccctccg tcatatccac gccgacgcgc cggagcgcct acctccggct cttctccctc
+       61 cccggtacgc gcgcgttcac caccggcaat ctgctcgccc ggctgccgat gggcatgttc
+      121 agcgtgagcg ccgtcgtgat gatcgccggt tcccggggct cgtacgccct cgccggtgcc
+      181 gtcaccgcga ccggactcgc cgcgaccggg ctggccgggc cctggatcgc ccggctgatc
+      241 gaccggcacg gacaggcccg gatcgccgtg cccgccacgc ttctctccgt gctcggcagc
+      301 ctcgcgctgc tgctgtgcgt gcgcttcggc gctcccgact ggaccctgtt cgccgcctac
+      361 gccgcgaccg cggccacccc caacatcggc ggactctccc gcgcccgctg ggcccatctg
+      421 ctgcgcgacg actccggcgc gctgcacacc gcgaacgcct tcgagcaggc cgccgacgag
+      481 ctgtgcttca tgctcggccc ggtgctcgcg tccttcctga ccggcacgtt cttcccggag
+      541 gcgggcacgc tcaccggggc ggtgctgctg ctcgccggca tgctgctgtt caccgcgcag
+      601 cgcgccaccg agccgccggt cggcgcccgt tcgaaggcgc cgtcgccgct gcgcagcccc
+      661 ggcatccggc cgctgctggc ctgcttcgtc gcgaccggca tggtgttcgg ctcgatggag
+      721 gtcggcacga tcgccttcgc cgacgcgcac ggccaccgcg cggtggccgg tgccgtcctc
+      781 gcactccagg cggcgggctc gtgcgcggcg ggcctggtgt tcggggcgcg caggccggcg
+      841 ggggtgcggc tcggccactg cctggccgcc atggccgtcc tgatgaccct gccgtgggcg
+      901 gcggccgggg cggccggctc gctgccgggg ctcgcgggcg cgctgctggt cgcgggcatg
+      961 gcgaccgcgc cgacgatggt gacggcgatg accctggtgc agcggcgcac cccggccgac
+     1021 cggctgaacg agggcatgag cctggtggtg accgggctgc tcaccggcat cgcctgcggc
+     1081 tcggcggccg gcggctggac ggcccagcac ctctcccccg gcaccgccct cgccgtcccg
+     1141 gccaccgcgg ccgcgctcgc gctgctcgtc cacacggcat cgacgggcgc ccggcggaac
+     1201 gtcagcgcag acggaccgga agactgagca ggccgcggtg ccgagggttg tcctgccact
+     1261 cgggggcacg ctcgcgaccg gcgagacgca ggccggggaa gcgtcgcagt acgtgggtga
+     1321 aagcgatctc ggcctgcagc cgggccagcg gtgcgcccag gcagtgatgg atgccgtggc
+     1381 cgaacgccag gtgccgggag gcgtcgcggg tgacgtcgaa gcggtcgggg tccgcgaaga
+     1441 ccgccgggtc ccggttggcg gccgccaacg cgatctgcac gaactccccg gccgggatcg
+     1501 tcgtaccggc gatcgtcacc ggctcggtgg tgtagcgcag gctcgcgagc gcgaacgggc
+     1561 tctcgtggcg caggacttcc tcggtcaggc cggggacgag cgcgggatcg gcgcgtacgg
+     1621 cggcgagctg cccgggatgc gtgagcagcg cgtacaggcc gttggcgacg agattgaccg
+     1681 tggtctggtg gcccgcgatc accagcagga acgccatcga ggtgacctcc tgcccggtga
+     1741 ggcgctcgcc gtcggcgcgg gcggcgagga gagcggagag caggtcgtcg ccggggtggg
+     1801 cgcgcttgtc ctcgaccagc tcccgcagcc gctccagcat ggtctcggcg gtcgggacgg
+     1861 acacctcccc gtctcccccg tccccgccca ccgtgtggcc cctgacctgg aggatcccgt
+     1921 gcgcgccggg gtccgcgccg agcagctcga agatcaccgc gagcggcagc ggcagcgcga
+     1981 accgggcgat caggtcgacc tcgcccgcct cgtccgcccg gtccaccgcg tcgaggagtg
+     2041 cggtgacgtg ggcctcgatc cgggggcgca gctccgccac ccgccgctgg gtgaacgcct
+     2101 gttgcaccag ccggcgcagg cgcgtgtggc gcggcgggtc ggagttgagc atgtgcgtgg
+     2161 tgagcgctcc gcccggaccg ccgcccggca ggccctcgtg gcgggcgtac gcctcagtcg
+     2221 cgccgtcctt gctcagccgg gggtcggcga gcgccgcccg gcaggcggcg tgcccggtga
+     2281 cgacccagcc ggccaagggg gcggcgccgg agaaacggac cttgcgcacc ccgccctcct
+     2341 cgcgccagcg ccggtagacg tcgtgcgggc gaccggcgaa ggactcgtcc accgtctccg
+     2401 tgtcgtacga catctcaggc agcggcacgg cgcaccttcg tcacctgtac gtcctccacg
+     2461 ccgagcagtc cgacgagcgg gaccttggcg gagcgctggt cggggctgac cgcgaggccg
+     2521 gacccgcgga tcaggtccag gagcagttcg gcgagcggca tcaccatgtg ccggccccag
+     2581 cagcgctcgg aggagtggcc gaaggggagg tagccggggg cggtgtcggg atcgaggctc
+     2641 tcccagcgct ccgggcggaa ctcgtgcggg tcctcccaca gcttggggtc ccggtgcgtc
+     2701 aggaggggca ggagcaggac gtcgtcaccc gcgccgatgc ggtcgtcgac ggcggggtac
+     2761 tcgggggagg cgttgcgcag gatgttccag gacggcggca gcagccgcat ggactcgtgg
+     2821 aggatgtgcc ggttcggggt gtcggggtcg aacggcgagc cgagccagag cgcgttcgcg
+     2881 accagggtgg agaccgtgaa gcacaccggg gccgccgcgc gccggtacat gcccatggcg
+     2941 taccggcgct cgtggtagcc gccggcgtcg gccgtcagcc ccgcgatcgc ggtcagcggg
+     3001 gcgccgcgcc gcccgacccg ccccgggagc gcggcgcccg ccgcgatcac cgcccaggtg
+     3061 agcttggggg tcagttcgag gttgcggctc atcaggatcc gcagccggta ggggtccttg
+     3121 ccgaggatca ggtcccgcag gaacagatgc cccctgagcg gccagacccc ggacaggtcg
+     3181 acgtcctcgg gcccggggcg ggacctcttc agcgcctcgc gtacgtcgcc gccgatggtc
+     3241 cgcatcaccg aggaggcctc gccgcgtgag atcgaccgtc cgtgcagtgg cttgaacgtg
+     3301 ggccgctcgg tctcggtggc ccggcgggcg gcgaggatcc ggtcggcgac ctcgtacccg
+     3361 gcgatgccga cggtgtcggg ttcgagccgg aagacgtcct gcccgagatg gtcccggaac
+     3421 agggcggcaa gccgtgggtg gaacaacgtg cggcgcat
+//

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ANY94468.1</td>
+              <td>cytochrome_P450</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001584/1">BGC0001584</a></td>
+              <td>Polyketide</td>
+              <td>40.0</td>
+              <td>25.9</td>
+              <td>71.0</td>
+              <td>3.96e-13</td>
+          </tr>
+    
+          <tr>
+              <td>BAI44340.1</td>
+              <td>P450</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000677/1">BGC0000677</a></td>
+              <td>Terpene</td>
+              <td>39.0</td>
+              <td>25.9</td>
+              <td>68.0</td>
+              <td>3.09e-12</td>
+          </tr>
+    
+          <tr>
+              <td>AAL06697.1</td>
+              <td>P450_hydroxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000965/1">BGC0000965</a></td>
+              <td>Polyketide:Iterative type I + Polyketide:Enediyne type I</td>
+              <td>37.0</td>
+              <td>25.9</td>
+              <td>64.0</td>
+              <td>4.09e-11</td>
+          </tr>
+    
+          <tr>
+              <td>ALU98459.1</td>
+              <td>cytochrome_P450</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001397/1">BGC0001397</a></td>
+              <td>NRP + Polyketide</td>
+              <td>37.0</td>
+              <td>25.9</td>
+              <td>64.0</td>
+              <td>4.09e-11</td>
+          </tr>
+    
+          <tr>
+              <td>DAC76738.1</td>
+              <td>cytochrome_P450</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001885/1">BGC0001885</a></td>
+              <td>Polyketide</td>
+              <td>36.0</td>
+              <td>28.2</td>
+              <td>64.0</td>
+              <td>4.18e-11</td>
+          </tr>
+    
+          <tr>
+              <td>ADE22337.1</td>
+              <td>cytochrome_P450-type_monooxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000065/1">BGC0000065</a></td>
+              <td>Polyketide:Iterative type I</td>
+              <td>33.0</td>
+              <td>23.9</td>
+              <td>62.0</td>
+              <td>2.47e-10</td>
+          </tr>
+    
+          <tr>
+              <td>DAC76739.1</td>
+              <td>cytochrome_P450</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001885/1">BGC0001885</a></td>
+              <td>Polyketide</td>
+              <td>34.0</td>
+              <td>28.8</td>
+              <td>60.0</td>
+              <td>9.89e-10</td>
+          </tr>
+    
+          <tr>
+              <td>AFW60202.1</td>
+              <td>benzoxazinone_synthesis5</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000810/1">BGC0000810</a></td>
+              <td>Alkaloid</td>
+              <td>36.0</td>
+              <td>28.8</td>
+              <td>48.0</td>
+              <td>9.73e-06</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

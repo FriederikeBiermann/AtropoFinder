@@ -1,0 +1,72 @@
+ExtraTreesClassifier  score: 0.9997253501785224
+ExtraTreesClassifier  balanced Accuracy Score: 0.96875
+ExtraTreesClassifier  crossvalidation scores: [0.96652881 0.96140061 0.96140061 1.         0.91639103]
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      3625
+           1       1.00      0.94      0.97        16
+
+    accuracy                           1.00      3641
+   macro avg       1.00      0.97      0.98      3641
+weighted avg       1.00      1.00      1.00      3641
+
+RandomForestClassifier  score: 0.9997253501785224
+RandomForestClassifier  balanced Accuracy Score: 0.96875
+RandomForestClassifier  crossvalidation scores: [0.96652881 0.96140061 0.91639103 0.96652874 0.79944904]
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      3625
+           1       1.00      0.94      0.97        16
+
+    accuracy                           1.00      3641
+   macro avg       1.00      0.97      0.98      3641
+weighted avg       1.00      1.00      1.00      3641
+
+AdaBoostClassifier  score: 0.9997253501785224
+AdaBoostClassifier  balanced Accuracy Score: 0.96875
+AdaBoostClassifier  crossvalidation scores: [0.96652881 0.96140061 0.96140061 1.         0.96140061]
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      3625
+           1       1.00      0.94      0.97        16
+
+    accuracy                           1.00      3641
+   macro avg       1.00      0.97      0.98      3641
+weighted avg       1.00      1.00      1.00      3641
+
+BaggingClassifier  score: 0.9978028014281791
+BaggingClassifier  balanced Accuracy Score: 0.9677844827586206
+BaggingClassifier  crossvalidation scores: [0.91135091 0.92829564 0.96140061 0.93722406 0.91639103]
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      3625
+           1       0.68      0.94      0.79        16
+
+    accuracy                           1.00      3641
+   macro avg       0.84      0.97      0.89      3641
+weighted avg       1.00      1.00      1.00      3641
+
+DecisionTreeClassifier  score: 0.9920351551771491
+DecisionTreeClassifier  balanced Accuracy Score: 0.9648879310344828
+DecisionTreeClassifier  crossvalidation scores: [0.93722421 0.96140061 0.88420182 0.96140061 0.88420182]
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      1.00      3625
+           1       0.35      0.94      0.51        16
+
+    accuracy                           0.99      3641
+   macro avg       0.67      0.96      0.75      3641
+weighted avg       1.00      0.99      0.99      3641
+
+MLPClassifier  score: 0.9983521010711343
+MLPClassifier  balanced Accuracy Score: 0.9680603448275862
+MLPClassifier  crossvalidation scores: [0.96652881 0.96140061 0.96140061 0.91639103 0.92829564]
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      3625
+           1       0.75      0.94      0.83        16
+
+    accuracy                           1.00      3641
+   macro avg       0.87      0.97      0.92      3641
+weighted avg       1.00      1.00      1.00      3641
+

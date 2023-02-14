@@ -1,0 +1,3038 @@
+LOCUS       1931363432-1-6669       6669 bp    dna              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   1931363432
+VERSION     1931363432
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     source          1..6668
+                     /GBFeature_key="source"
+                     /GBFeature_location="complement(0..105782)"
+                     /GBFeature_intervals="{'GBInterval_from': '1',
+                     'GBInterval_to': '105783', 'GBInterval_accession':
+                     'NZ_JADKYP010000021.1', 'organism': 'Nocardia sp. BSTN01',
+                     'mol_type': 'genomic DNA', 'strain': 'BSTN01',
+                     'isolation_source': 'water stored on latex collecting cup
+                     from wastes of rubber industry', 'db_xref':
+                     'taxon:2783665', 'country': 'India: Tripura', 'lat_lon':
+                     '23.61 N 91.32 E', 'collection_date': '2016-02-02',
+                     'collected_by': 'Biraj Sarkar', 'identified_by': 'S. Mandal
+                     & B. Sarkar'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'organism',
+                     'GBQualifier_value': 'Nocardia sp. BSTN01'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'mol_type',
+                     'GBQualifier_value': 'genomic DNA'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'strain',
+                     'GBQualifier_value': 'BSTN01'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'isolation_source',
+                     'GBQualifier_value': 'water stored on latex collecting cup
+                     from wastes of rubber industry'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'db_xref',
+                     'GBQualifier_value': 'taxon:2783665'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'country',
+                     'GBQualifier_value': 'India: Tripura'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'lat_lon',
+                     'GBQualifier_value': '23.61 N 91.32 E'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'collection_date',
+                     'GBQualifier_value': '2016-02-02'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'collected_by',
+                     'GBQualifier_value': 'Biraj Sarkar'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'identified_by',
+                     'GBQualifier_value': 'S. Mandal & B. Sarkar'}"
+     source          1..105782
+                     /GBInterval_from="1"
+                     /GBInterval_to="105783"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /organism="Nocardia sp. BSTN01"
+                     /mol_type="genomic DNA"
+                     /strain="BSTN01"
+                     /isolation_source="water stored on latex collecting cup
+                     from wastes of rubber industry"
+                     /db_xref="taxon:2783665"
+                     /country="India: Tripura"
+                     /lat_lon="23.61 N 91.32 E"
+                     /collection_date="2016-02-02"
+                     /collected_by="Biraj Sarkar"
+                     /identified_by="S. Mandal & B. Sarkar"
+     gene            complement(191..724)
+                     /GBInterval_from="724"
+                     /GBInterval_to="191"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18405"
+                     /old_locus_tag="IRT45_18405"
+     CDS             complement(191..724)
+                     /GBInterval_from="724"
+                     /GBInterval_to="191"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18405"
+                     /old_locus_tag="IRT45_18405"
+                     /inference="COORDINATES: protein motif:HMM:NF012514.2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="NUDIX hydrolase"
+                     /protein_id="WP_194807087.1"
+                     /translation="MSAVERPLYERDPDAYAAHIAEGNATLPRKLVSADVLLLDQHGQI
+                     LLVDPNYKPGWDLPGGNVKANEPPDIGAQRELHEELGLDLPTSDLHLLCVDWVSPHSKW
+                     DDWLKFIFGGIELTDTQLASLHINDPELTAYELCSPNQAQQRLNTALWKRVDAALHARQ
+                     TGQVAYLHDGLPPR"
+     gene            complement(791..2227)
+                     /GBInterval_from="2227"
+                     /GBInterval_to="791"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18410"
+                     /old_locus_tag="IRT45_18410"
+     CDS             complement(791..2227)
+                     /GBInterval_from="2227"
+                     /GBInterval_to="791"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18410"
+                     /old_locus_tag="IRT45_18410"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="helix-turn-helix transcriptional regulator"
+                     /protein_id="WP_194807088.1"
+                     /translation="MEPASGRHPLSCRGCRRELAADNTTRLCGTCTSNTRQHLIEPPAL
+                     MPGFWDHPPIKQALAERHMGRIIAAYRRHPAHGAAVRQADVARWAGISQVRISRIETGP
+                     PIRHMDSLVFWAKLLGIPYHLLWFQMPGHSYPAPAPPRTSAPAPVTGPYRLLRLDTHLP
+                     AEHRDMAVVQSLRSADLTMGGGHLYSELTHYLTSDLAPRLFFGEDDADPALFVVAAGLV
+                     EMAGWMAHDAGHDERARRQFTRARELAKIGPDRQLPVHILASLSHIDLHNGQPKSAIRH
+                     AYDAESALSKAPSSPELKARLFAMQARGLAALGEARQTHAMLDRAADALHSSTAYPLSP
+                     WVSRFDNASLATEAARCARQLGQLHRAAEHAQHVLELRPPERARARAFAQLTLATILAQ
+                     QGHPEQACTMATEVIANTTDMASHVLVRHLSDLAGHLKPYRSSPTVIAFGEHLRETIRA
+                     RTWIPAMVINQTSTRLTTMT"
+     gene            2407..3594
+                     /GBInterval_from="2407"
+                     /GBInterval_to="3594"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18415"
+                     /old_locus_tag="IRT45_18415"
+     CDS             2407..3594
+                     /GBInterval_from="2407"
+                     /GBInterval_to="3594"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18415"
+                     /old_locus_tag="IRT45_18415"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014349836.1"
+                     /GO_function="GO:0020037 - heme binding [Evidence IEA];
+                     GO:0005506 - iron ion binding [Evidence IEA]; GO:0016705 -
+                     oxidoreductase activity, acting on paired donors, with
+                     incorporation or reduction of molecular oxygen [Evidence
+                     IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="cytochrome P450"
+                     /protein_id="WP_228534566.1"
+                     /translation="MDLDRSTMVCPRRYPFGADHHTLDLEPDYGDCGSVAQVVLPSGLT
+                     AWLVIEHALVRQVLADPVFSRELANRPEVARLSTEVLPAAAILATDPPRHTRLRTLIAR
+                     MFAPGQVDATGPRIAELAVDLLEDLVAAGPPADLLTGWVEPYAAAVVCEIFDVPAHFRE
+                     QVFTLSDALTARDATPQALAAARAECEDLARAMAEENPGGLFGLLGDSAEFDDEVINLV
+                     IACLIGGRGSPTVFLSSAIFALLRERRHYQLLVDRPEAIPAAVEELLRFVPVGVGGGFT
+                     RVARADVQLGPVLVRAGDAVIPAMHAAGRDPAVFDDPDRLVLDRGAKVAHLAFGHGPHY
+                     CVGAHLARLQARIALHTLTTRLPDLRLTDSAEPVSWRHGRVVRALERLEVTWTPA"
+     gene            3579..4328
+                     /GBInterval_from="3579"
+                     /GBInterval_to="4328"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18420"
+                     /old_locus_tag="IRT45_18420"
+     CDS             3579..4328
+                     /GBInterval_from="3579"
+                     /GBInterval_to="4328"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18420"
+                     /old_locus_tag="IRT45_18420"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014349837.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ferredoxin"
+                     /protein_id="WP_194807089.1"
+                     /translation="MDTRLIVDHHRCTGTGVCVSIAPQHLRLVDGTAHPVEGTTLGRDD
+                     ARAAAACCPSEALTIDTNNPAVFRVPEPIVTLGPAGTDAHAEADKHSSTVRLVESFTDT
+                     MACAAADPGVHALVAAGYLALDEAGVAVDSWTDQHFTHSGVLRLERCWESRTKPMCFAI
+                     HRTVPRTSVRAVATHPATRTFAARYAPSARQLSMRAKPLAALAAAHRDVDACIASTDIV
+                     ARFPQLEVVDEFQPTMVWLLYRKASDE"
+     gene            4321..5184
+                     /GBInterval_from="4321"
+                     /GBInterval_to="5184"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18425"
+                     /old_locus_tag="IRT45_18425"
+     CDS             4321..5184
+                     /GBInterval_from="4321"
+                     /GBInterval_to="5184"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18425"
+                     /old_locus_tag="IRT45_18425"
+                     /inference="COORDINATES: protein motif:HMM:NF015411.2"
+                     /GO_function="GO:0050661 - NADP binding [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="NAD(P)-binding domain-containing protein"
+                     /protein_id="WP_194807090.1"
+                     /translation="MSDQSVVAVLGAGIMANTVANTLAANGFELRRYNRTTSAIEGPAI
+                     VCASPAQAAEDATAIWSFVHDDTASRAVWFGTDGALTAVEHGAVVIESSTLSAEYADYW
+                     IRTADSLAARPVLAPVTGSRPAAAHGTLVAFVAGAPDAIDAANPLLRMLSRDVIRVGSA
+                     ADAARLKLVNNALAATILTGLAEALTAAAALGLDRDRVAQVWRQYGWAAPVANAYTSAM
+                     LSGEHELSDCSLKVIAKDLAYTLAGLGAATPPVLAAVADRFQRALAANLGDLEMSAIIE
+                     TYKALS"
+     gene            5181..6341
+                     /GBInterval_from="5181"
+                     /GBInterval_to="6341"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18430"
+                     /old_locus_tag="IRT45_18430"
+     CDS             5181..6341
+                     /GBInterval_from="5181"
+                     /GBInterval_to="6341"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18430"
+                     /old_locus_tag="IRT45_18430"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807091.1"
+                     /translation="MTTVTIRDWFTHTATVPAEARCQVNQQLAAYSDTVQACATRYLGK
+                     QVTVCVSGSLARGEPAVRREHNRYRLASDVDLVAIIDTTETAAQAENFRNSVLRHHPQI
+                     ETTVFATGRRDLARVAGRFGADLYSAATRPLAGPVPDPAVMPRLGKREGLEGITHQLAT
+                     RYDPDNSGGDNPWRVKTVLEALRAVADHRPGPHRFSDLPSDPAVRERLDPAIVAQLVRA
+                     RENSTALPITIAEAYRCVIASACWLFGVPATHRDLIDALHTIEQGTHLLDGFQAAVLAA
+                     TIVLDGPITYRRSAASALHVIATAIDPSALITAHDSLRALTAISPIDICRGLEHPNHVL
+                     CQHIQGLRRDYYAWLGPHNFGTHPVAEYRGPALANLAPSTRSADHG"
+     gene            6334..6669
+                     /GBInterval_from="6334"
+                     /GBInterval_to="6669"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18435"
+                     /old_locus_tag="IRT45_18435"
+     CDS             6334..6669
+                     /GBInterval_from="6334"
+                     /GBInterval_to="6669"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18435"
+                     /old_locus_tag="IRT45_18435"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="cupin domain-containing protein"
+                     /protein_id="WP_194807092.1"
+                     /translation="MDDWPDWIHQLPTVDISFPGEGKLLACKHGQVVLWSFPTGAQVPV
+                     HSHGPQLGFVVTGSVALTLDDQECVIEAGGHFTIGDRVLHGATVAPGTLVVEIFAEHDR
+                     HTAIPTT"
+     gene            6666..7832
+                     /GBInterval_from="6666"
+                     /GBInterval_to="7832"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18440"
+                     /old_locus_tag="IRT45_18440"
+     CDS             6666..7832
+                     /GBInterval_from="6666"
+                     /GBInterval_to="7832"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18440"
+                     /old_locus_tag="IRT45_18440"
+                     /inference="COORDINATES: protein motif:HMM:NF014081.2"
+                     /GO_function="GO:0016787 - hydrolase activity [Evidence
+                     IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="amidohydrolase family protein"
+                     /protein_id="WP_194807093.1"
+                     /translation="MTPRVLHATRVVTGLGTVHAPGTVVVDDKHIAWVGTPNQLPDTWT
+                     TNKAHQIHLPQATLLPGLIDAHVHLAFDHSPDPRRAAVKLSTAVQQLLHAGITTARDLG
+                     APHHTDISAIAETSGPRILSAGVPLTVLGGHCDEFGGSVTSSADIDRVVSRNAERGAAW
+                     IKVMVTGGFTSRGHCSPYAPQFTDIQLADIVAAARDHDLPVAAHAHGTAGIRQAVDAGV
+                     DSVEHCTWMTENGFHLDHGIVNAIAEQRILVCPTINHLARQASGRLPWPVRRAHLDIML
+                     SAGVRIVPGSDSGIPHTPHHMYGHSLPAYTDLGFSPAEVVDLATRRAAEALRVSHLTGT
+                     LTAGRAADLIAVPGDPTRELHVLTTPILVMTSGHIHYLDTNAEEETPR"
+     gene            7829..8629
+                     /GBInterval_from="7829"
+                     /GBInterval_to="8629"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18445"
+                     /old_locus_tag="IRT45_18445"
+     CDS             7829..8629
+                     /GBInterval_from="7829"
+                     /GBInterval_to="8629"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18445"
+                     /old_locus_tag="IRT45_18445"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014351187.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="class I SAM-dependent methyltransferase"
+                     /protein_id="WP_194807094.1"
+                     /translation="MSGPTLSSEYASPTPLQVRIETHARYSEHPDDPVAAVTSVLDLSG
+                     DESVADIGCGDGRFLAHLAQSGHCGRLIGVDTSPAMVEAARKIPGVEALPGDAERLPFA
+                     DRSICRTTARHMLYHVPHPVKALREFRRITRDGGMVAVAVNHPQTCARTRELVTRRAHE
+                     YGLVPVEELANTVNSDALPEMMATVFPDVQVHRFDNALVFDRPEPLIRLAEAVFSFCGI
+                     SADNPHRPDILAAVTTDIADWFTAHPGQVWRDPKGYIIATATVE"
+     gene            8662..9645
+                     /GBInterval_from="8662"
+                     /GBInterval_to="9645"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /gene="galE"
+                     /locus_tag="IRT45_RS18450"
+                     /old_locus_tag="IRT45_18450"
+     CDS             8662..9645
+                     /GBInterval_from="8662"
+                     /GBInterval_to="9645"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /gene="galE"
+                     /locus_tag="IRT45_RS18450"
+                     /old_locus_tag="IRT45_18450"
+                     /EC_number="5.1.3.2"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_019664071.1"
+                     /GO_function="GO:0003978 - UDP-glucose 4-epimerase activity
+                     [Evidence IEA]"
+                     /GO_process="GO:0006012 - galactose metabolic process
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="UDP-glucose 4-epimerase GalE"
+                     /protein_id="WP_228534567.1"
+                     /translation="MLVTGGAGYIGSVVAHDLVNAGHDVEIIDNLSTGHASNLPPQAIF
+                     HQRSIHDVAEILTPQAGFDGVLHFAASIEVAESVRNPDKYWHNNIEGTLALLRAIRAAA
+                     VPRLIFSSTGSMYVGNGETAFDEHAEVKPRNPYAATKAFIDQMITGECGASAALGAASL
+                     RYFNAAGAVFTDSGVHLGERHDPESHLIPILLQAAGGQRESFTMFGTDYPTSDGTAVRD
+                     YIHVSDLSSAHLLALEAVQPGRHDIYNLGNGNGYTNAEVLRTVKEVTGIDFPVTHVGRR
+                     PGDPAVCIASSDLAHRELGWKPQRPQLDAIISDAWGFHQFLDNIAQ"
+     gene            9889..10140
+                     /GBInterval_from="9889"
+                     /GBInterval_to="10140"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18455"
+                     /old_locus_tag="IRT45_18455"
+     CDS             9889..10140
+                     /GBInterval_from="9889"
+                     /GBInterval_to="10140"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18455"
+                     /old_locus_tag="IRT45_18455"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807096.1"
+                     /translation="MTDIAPLAASTRAVFGDPGVHAVVRAGRTVHAVVLGQWVGDEQAP
+                     ELLCHTGVSGWSPTVLEAMRADVTCALLGQVQMRGVSG"
+     gene            complement(10162..11391)
+                     /GBInterval_from="11391"
+                     /GBInterval_to="10162"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18460"
+                     /old_locus_tag="IRT45_18460"
+     CDS             complement(10162..11391)
+                     /GBInterval_from="11391"
+                     /GBInterval_to="10162"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18460"
+                     /old_locus_tag="IRT45_18460"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_086557956.1"
+                     /GO_function="GO:0004803 - transposase activity [Evidence
+                     IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="IS256 family transposase"
+                     /protein_id="WP_194807097.1"
+                     /translation="MTSVQPIDPSKMLSDQLAVASPDLLREMMSTFIQSLMSNEADSMC
+                     GAGYGERSDDRVNSRNGYRHRDFDTRVGTVDVAIPKLRSGSYFPDWLLERRKRAERALT
+                     SVVATCYLLGVSTRRMEKLVESLGVTKLSKSQVSVMAAELDAQVEAFRTRPLDQGPYTF
+                     VAADALVLKVRENGRVVNVHALVATGVNADGYREILGIQVTSGEDGAGWLVFFRDLVAR
+                     GLSGVSLVTSDAHAGLVAAIGATLPGAAWQRCRTHYTVNLMSITPKSSWPWVRTLLHSV
+                     FDQADAESVGAQYDRVLDALGEKLPKVAAHLDAARADLLSFTAFPRQIWRQIWSNNPQE
+                     RLNKEIRRRTDVVGIFPDRQAIIRLVGAVLAEQHDEWIEGRRYLGLDVLTRSRGLTDEQ
+                     EDTTTPALTA"
+     gene            complement(11452..12716)
+                     /GBInterval_from="12716"
+                     /GBInterval_to="11452"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18465"
+                     /old_locus_tag="IRT45_18465"
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+     CDS             complement(11452..12716)
+                     /GBInterval_from="12716"
+                     /GBInterval_to="11452"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18465"
+                     /old_locus_tag="IRT45_18465"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_086558126.1"
+                     /GO_function="GO:0004803 - transposase activity [Evidence
+                     IEA]"
+                     /note="frameshifted; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="IS110 family transposase"
+     gene            complement(13141..14091)
+                     /GBInterval_from="14091"
+                     /GBInterval_to="13141"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18470"
+                     /old_locus_tag="IRT45_18470"
+     CDS             complement(13141..14091)
+                     /GBInterval_from="14091"
+                     /GBInterval_to="13141"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18470"
+                     /old_locus_tag="IRT45_18470"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807098.1"
+                     /translation="MRENLRYTEALRHANPGTSEHGSRPDSTESASPAPTLLDVLHTEV
+                     ARLTTTDATDTPTVLKITYESLDLTTAADRLLEETLLDTDPARFWPGPNGLGRLRDELE
+                     VALAWLETAPSLPELTVQDERVTMLAPLNMATQLYPGQLSDPLTHGEFVELVVIQARIA
+                     AVGCKAIWLHASDLLTRGAKCARDHDDVAACRVAALMARELADPHSINPQRSIDRRVLL
+                     AANDKHSRDELLADQKLMNLLYNAAAATARANGWSRMTDITAACMKADQTWACERWGYK
+                     ADIALIAATKKFSIRRIQRQSQTVIEIRPRPGRRV"
+     gene            complement(14370..19943)
+                     /GBInterval_from="19943"
+                     /GBInterval_to="14370"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18475"
+                     /old_locus_tag="IRT45_18475"
+     CDS             complement(14370..19943)
+                     /GBInterval_from="19943"
+                     /GBInterval_to="14370"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18475"
+                     /old_locus_tag="IRT45_18475"
+                     /inference="COORDINATES: protein motif:HMM:NF020332.2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="conjugative relaxase TrwC/TraI family protein"
+                     /protein_id="WP_228534568.1"
+                     /translation="MHWACDGKVTATLHKILAGDSYRYYLRQVAAADATDRGPGSLSDY
+                     YSAHGERPGTWWGNGLAALNLSPGDEVTEAQMRALFGQGRHPDTETITARIITAETVKG
+                     TSLKAAGEMAQRATRLGNPYRTYSGDNEFRKRCGVAFSAHNIAAGVDARAAIPDEARAR
+                     IRTDVATEMFIEHYERPPLDDRELSGFVAKISRPKSAAVAGFDITFSPVKSVSALWAIA
+                     PIEVSERVASAHDAAVDDALGWLQEHGIFTRAGRNGVRQLDVDGIVAARFVHRESRCGD
+                     PDLHTHVLIANRVRGADGRWRTLDAAVIYRLNVTISEIYNTRLEHHLRADLGVEFTEHP
+                     GTNPSKRPIREIDGIPPTLIRYWSRRDAAIRNRLGELTVDFHQQIGREPTPVEVWNLAQ
+                     VATLQTRPAKHLSRSWAEQRRDWRAQAVTVLGDHHALDQVVATTLNRAPAPSPVVDEDR
+                     IADIAGEVVEVVSAQRSVWQHHHIRAETERRTRALTDRDTWASIVDSVVGEALSPRNSL
+                     ARGDPEIAAEPDLATVPEPFQRRDGASVYTRSGSQTYTSAHQLDIEYRLAELSVQPGAR
+                     TIDESFVAAAIDDYNTDPANQGKKLNAGQTAMVTRFAISPARIAVASAPAGTGKTTAMR
+                     VLVDAWCASGGTVLGLAPEAAPAAVLAEATRVRVETVDRLLHILNQHRPLSGQGIEPAS
+                     RDFPAAVPRWVTQIDDRTLVIIDEHIKLSDRKRLQLFEFLTACGATIRCVGDDKQLPAI
+                     DAGGAGIDFAHTPDAITLTHVVRFADTAEATVGLALRDGDPSGLGFYLDHRRIHSGSAA
+                     AVADKAYGAWFADQHAGRDAIMLAPTHDIVTDLNDRARADRLARTTETTPATTLLADGL
+                     SASAGDIVCTRRNNRGLPVGERDWVRNGYRWRIDTVHPDGTLTVTHLRPGNTTGATTVL
+                     PASYVGLHVRLGYAMTIDSAQGTTADTCHTVLTGTESRNQLYVAVTRGIHSNHLYVPTT
+                     IDGSEASFWTESAVLPHTAVEVLQDILAREATPTSAHTALRDALDPYRRLGRAVDIYLD
+                     AVGVATEHALGPDALTQIDHDAETLLPGLTDAPAYPTLRQHLAILALAGHDPATALCEA
+                     IDDRELDTANDPAAVLDWRLDTSGAHSTGTGPLPWLHGLPQRLSDPAIAGQLHARRRIV
+                     ADLTTQITTDARTWVAATAPVWARPLLGNQNLIAELAVWRAAHHVPDTDLRPTGPARFP
+                     TRERDHQARLNTRVTDALGDLHTATHTWEPLAKRLDTRITSDPWWPVLAAHLDTAAAAG
+                     LDIDTLLTDAATPRPLPDDMPAAALWSRLRLDPAALTIPTGHLLRPDWTPHLHDILGPE
+                     AAEHVINDPAWPRLVAAIDTAPSGWTPHDLIATAHELLLTATDDNTTPPRADQLAIALA
+                     WRVEILTHHPTENTTPTTETDATMAPKPSEPDENPTARPVRENADPAPAAIVGAIGELV
+                     STGRLDDARHAFTRLTAHLHDTDRDLLRRVITTLSTRAYPVAVARLRWAADHYPDHRAF
+                     ILAAIPTTDPHLYQPIDTTRPTHDPRTAARDHREWTDQTRRRPPRPDRGRDAFDAYTRS
+                     FADLDVDPAHLPVPEGTGTTRHQPARATPERAEAASFLAGTGYTVDYDRYAVADHHGLP
+                     CLSCGLERALLDTPLPPDNHCDDGLCSTCRDDNRPGIPDHNPVDHMNARCTFITTHHSP
+                     AAALSLLRKTWRHTTNPADRATIETFARAVHTPSTATEDPNLRSGFDPTNPIHLLTDAA
+                     LRDSVRTVELRIHLADDEATMYGPAPGTSDATNPLDTHWLAEELTELQAELTRRAHLTP
+                     EQSATEDAQRTRLADGSDTWSRFEPPAPEFDSGRDGDGPEFH"
+     gene            complement(20460..21902)
+                     /GBInterval_from="21902"
+                     /GBInterval_to="20460"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18480"
+                     /old_locus_tag="IRT45_18480"
+     CDS             complement(20460..21902)
+                     /GBInterval_from="21902"
+                     /GBInterval_to="20460"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18480"
+                     /old_locus_tag="IRT45_18480"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807100.1"
+                     /translation="MTETSTFLDAIAHLDYSITSDRRAARRTFTTALTHTTPGEREVLD
+                     AMVDTFTLYPFRTALLRLEAAFRYHEPKRELLARLLPDTDPGLYVREREERIAILEQRA
+                     RANGSSVDEEAFRDYAPLTAAETAPTSIRLWRNPPARVYLAPSRATDKSRMTPEQITAR
+                     VRARGKRRPAPIEPDVVTGYIAEDLHRDTMAREIARTRATEQRFRDLGLLAEPAPSASL
+                     RVQGAQQRSDEDVQARWDLEFVHHVAEQHTHDAAAAEHSRRVSHDNALAYADARTGVRG
+                     DLRPELPFHGDSVDYTREAMTPISGWRCVACFIERSTRDQRLIHSVGGRRRSDDGLCDS
+                     CRSDDRTPRLPELPAGFTATDLTRTYCRFLATSYPGAATALLAETRRRAPRWLTAIIDE
+                     HLPQPEHIEQAADSKADVETGAAQAKPVTRRRRGPVTGAGQRQARCEGCTRIRAIHDDG
+                     FCTECRVWLGLVTPPTRQTVAA"
+     gene            complement(22316..22873)
+                     /GBInterval_from="22873"
+                     /GBInterval_to="22316"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18485"
+                     /old_locus_tag="IRT45_18485"
+     CDS             complement(22316..22873)
+                     /GBInterval_from="22873"
+                     /GBInterval_to="22316"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18485"
+                     /old_locus_tag="IRT45_18485"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_008262692.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="single-stranded DNA-binding protein"
+                     /protein_id="WP_194807101.1"
+                     /translation="MAGDTVLTVTGNLTDSPELRFTPAGAAVANFTVASTPRYFDRTAG
+                     EWKDGDPLFLRCNLWRQAAENLAESLSRGARVIVTGRLKQRSFTTREGDKRTVVELDVD
+                     EIGPSLRYATAKVTRISAGTSGGPRTDRAVTAHRDGFGGPAVDTSTGFGQPATSPSRGE
+                     DPWREPVMAGAAAGFGDDAPPF"
+     gene            complement(22967..24658)
+                     /GBInterval_from="24658"
+                     /GBInterval_to="22967"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18490"
+                     /old_locus_tag="IRT45_18490"
+     CDS             complement(22967..24658)
+                     /GBInterval_from="24658"
+                     /GBInterval_to="22967"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18490"
+                     /old_locus_tag="IRT45_18490"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ParB/RepB/Spo0J family partition protein"
+                     /protein_id="WP_194807102.1"
+                     /translation="MSPTTLTVVPDIEPAAASATPIGDATGAESATSAESAENERDPHP
+                     AGEAELEVPPNATAAYMDPRELVIAENVRTGFDVAEHPKQADSIREFGVGAPVLAEREP
+                     DGSVHVLDGQVRVLIAQAVGLARVPVWITDAPVDVDVKQRRIDRTMAQINLNERRIPLT
+                     QADYAAGVALMLDLGASPTRVAKGLQQTKRAEVRKLAAVGRSATGRELADAGQYSLDQL
+                     AVIADYDNLGDADAVEKLTTTSRYNFSYTAKAIAADRDETRRRLHASLPYGAYGFGILT
+                     DEPGPDDAYLPATDLTRADGEPVTDTDVYADPARWVVWVDVEENGELVDTATGTLVDPD
+                     TVDWDTQHDRDTEPGDGLRRADGLAWRDRWIPAYYLPADQLDTTGLQRPVPQAADPQEA
+                     LAAAERAAAAREEARLARRRVRELNKRGVAAAERREEFLTKYIQRSKPPVQAAHFVAEY
+                     LARNLAPGALQLMTKLLGVGSSTEELVKVIGAASTNRAWVLALGMVLANREVTLDKSLW
+                     RTRSQTTTRYLHLLADIATADDDFALVDVEQAAAGDIDFHDIPIDK"
+     gene            complement(24756..24995)
+                     /GBInterval_from="24995"
+                     /GBInterval_to="24756"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18495"
+                     /old_locus_tag="IRT45_18495"
+     CDS             complement(24756..24995)
+                     /GBInterval_from="24995"
+                     /GBInterval_to="24756"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18495"
+                     /old_locus_tag="IRT45_18495"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807103.1"
+                     /translation="MPSANSVPTLSRAQFDRLEHRGAAGTSATLTEMDPAVADRWRAEH
+                     AGWRGRHWAYLDDEHGVLRLHPINVTRASSQAAA"
+     gene            complement(25055..26095)
+                     /GBInterval_from="26095"
+                     /GBInterval_to="25055"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18500"
+                     /old_locus_tag="IRT45_18500"
+     CDS             complement(25055..26095)
+                     /GBInterval_from="26095"
+                     /GBInterval_to="25055"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18500"
+                     /old_locus_tag="IRT45_18500"
+                     /inference="COORDINATES: protein motif:HMM:NF025200.2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF4192 domain-containing protein"
+                     /protein_id="WP_194807104.1"
+                     /translation="MIQPTTLRMSAPGEFIAAVPALLGFYPVDSLVVALLERRPPADEV
+                     CIKVVARHDLHVSDSRLTAVVAQLADVAANENASAVLVLIVDSTAQPTSAPPGRHTHTL
+                     DILDRALTTRGVVLASAWATRVIDAGAPWWSLLDATESGVVPDPDATTLAAAFVVAGHP
+                     IRRSREELTRLIEPDPALADQVRALLHADTGIHTQSAASEITATVATVVEHIDTLAAGS
+                     TLTPAEMAALAVALRTAAVRHCLLGLAGTARVDAAERLWALLTRSLPDPERAHAAALLA
+                     FSAYHRGDGALASIALDAALDSDPQHRFARSLDTTLRDATAPPSLHAVVTYAHDIADAL
+                     GVDLHR"
+     gene            complement(26179..26820)
+                     /GBInterval_from="26820"
+                     /GBInterval_to="26179"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18505"
+                     /old_locus_tag="IRT45_18505"
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+     CDS             complement(26179..26820)
+                     /GBInterval_from="26820"
+                     /GBInterval_to="26179"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18505"
+                     /old_locus_tag="IRT45_18505"
+                     /inference="COORDINATES: protein motif:HMM:NF014533.2"
+                     /note="incomplete; partial in the middle of a contig;
+                     missing N-terminus; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DNA-protecting protein DprA"
+     gene            complement(27038..27721)
+                     /GBInterval_from="27721"
+                     /GBInterval_to="27038"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18510"
+                     /old_locus_tag="IRT45_18510"
+     CDS             complement(27038..27721)
+                     /GBInterval_from="27721"
+                     /GBInterval_to="27038"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18510"
+                     /old_locus_tag="IRT45_18510"
+                     /inference="COORDINATES: protein motif:HMM:NF014533.2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DNA-processing protein DprA"
+                     /protein_id="WP_228534577.1"
+                     /translation="MLLTPEDPDWPTAAVADLERANVTAPVALWVRGPLALTVCVDRTV
+                     AVTGARAASDYGIHVAHDMATYFAERGWCVLSGAGYGIDTAAHQAALLLSAPTIAVVAA
+                     GVDRAYPTGNTPLFDQLAERGLIVSEYPPGSPPTKSRFPERNRLVAALSTGLVICEAGA
+                     RSSTLDTASWARRLHRRIAAVPGPIYSATSTGCHHLLREHTAHLAASGSDALDIVTDLG
+                     AGPAS"
+     gene            complement(28450..28935)
+                     /GBInterval_from="28935"
+                     /GBInterval_to="28450"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18515"
+                     /old_locus_tag="IRT45_18515"
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+     CDS             complement(28450..28935)
+                     /GBInterval_from="28935"
+                     /GBInterval_to="28450"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18515"
+                     /old_locus_tag="IRT45_18515"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_018160041.1"
+                     /note="incomplete; partial in the middle of a contig;
+                     missing N-terminus; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TIGR04338 family metallohydrolase"
+     gene            complement(28947..29711)
+                     /GBInterval_from="29711"
+                     /GBInterval_to="28947"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18520"
+                     /old_locus_tag="IRT45_18520"
+     CDS             complement(28947..29711)
+                     /GBInterval_from="29711"
+                     /GBInterval_to="28947"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18520"
+                     /old_locus_tag="IRT45_18520"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_011726753.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF2786 domain-containing protein"
+                     /protein_id="WP_194807167.1"
+                     /translation="MADTDRVLTRIGALMRQAEGTDNPHEAEAFLARAQQLATQHSIDL
+                     AVARAAAADRGRARPMPGMRRIEIGAKHTKGLATYVQLFVAIAHANDVRVDAAHNSTWV
+                     IAFGLGSDIDTTQLLYTHLLAQMVRGSRAYLNSAAHQRHPVAGVTARLAYQRAFAARVG
+                     QRLRDERDQARADALTPTSPAAAGTALALRDKDIELRDYYTAHSTAKGTWPGHRRAGGH
+                     APAAGEAGDRDGQRARLHGLSEIDGPRKGLPS"
+     gene            complement(29711..30391)
+                     /GBInterval_from="30391"
+                     /GBInterval_to="29711"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18525"
+                     /old_locus_tag="IRT45_18525"
+     CDS             complement(29711..30391)
+                     /GBInterval_from="30391"
+                     /GBInterval_to="29711"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18525"
+                     /old_locus_tag="IRT45_18525"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807108.1"
+                     /translation="MPDTPGGAIPGPVPVPQRLAEAPVAAGMVVPYITMTHRDPAKPVW
+                     GAVNPARLQQIWQHSLCQVCGQRLHGPWVVVYIRPQDYLRGIGPEPALHPECGLYSKRT
+                     CPMLAGQSDHYNRHPSRRPCGDPECTCRLWAPPNPQPGEGRREGQPAEAWYEAWIAIED
+                     YTLIRAPGSEHSMAMFGVELRPASRLRKLRKIRDAAPTDTGDQPLDLLAAIIATRTLFT
+                     RDGE"
+     gene            complement(30548..30790)
+                     /GBInterval_from="30790"
+                     /GBInterval_to="30548"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18530"
+                     /old_locus_tag="IRT45_18530"
+     CDS             complement(30548..30790)
+                     /GBInterval_from="30790"
+                     /GBInterval_to="30548"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18530"
+                     /old_locus_tag="IRT45_18530"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807109.1"
+                     /translation="MSESTVKPLSRDETVALLVEALGPYIASTRRALGIAHTMATVVGG
+                     EPLTLLNHAIADYRTHERLVRVTYRALRSSASAHE"
+     gene            complement(30873..31622)
+                     /GBInterval_from="31622"
+                     /GBInterval_to="30873"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18535"
+                     /old_locus_tag="IRT45_18535"
+     CDS             complement(30873..31622)
+                     /GBInterval_from="31622"
+                     /GBInterval_to="30873"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18535"
+                     /old_locus_tag="IRT45_18535"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_019050229.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_228534579.1"
+                     /translation="MTFYKPGQDPDLDALHGGALANPHGHGYAIHTGKTILVGHGMNSD
+                     DVIAEFAEQRTKHPGGPALFHSRYATHGDRDTSNCHPFTVGGDPRTVLAHNGVLPPNVH
+                     PAAGDARSDTRIAAEDFLPTKPFGSLDSWAGRDRFEHWLGSNKVVILTTDPAYKHPAYV
+                     FGERHGRWVGGTWYSNDSYLIREWASADTDYIGFCEHCGAFEDDPFGPHCGWCGYCADC
+                     AHPFPRCACPQFDGVDRYADLLGLPTH"
+     gene            complement(31619..32836)
+                     /GBInterval_from="32836"
+                     /GBInterval_to="31619"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS36985"
+     CDS             complement(31619..32836)
+                     /GBInterval_from="32836"
+                     /GBInterval_to="31619"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS36985"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014351073.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_228534569.1"
+                     /translation="MLSSTLTDRRCEDCSHPIDDTTTVLTVEGDHLCRACADRLDTCDD
+                     CATPTRDRRSTVHDTDVCTECSIGWRRCRDCDRFDSDLVRVIGHGEVCDDCADSYLVCD
+                     DCGSRADGLNETESGTDVCGRCEDADYRRCPGCEILIRCWEDYCDYCANQRPDHHGIHS
+                     YDYKPEPDFHGTGPLYLGLELEIKTPRDVFDEAVELAIDQLGDIGYLKEDGSIQPCGYE
+                     LVTHPMSYKYARQHFPWPLLNRLRILGAYTDTSVGIHVHVSRAGFSSPAHAYRWLKFVY
+                     RNESHVKTLARRDSEEWAVFDPGARANAAAHAKSNAERAFRYQAINVRPEHTFELRVFA
+                     SSLNTREVQAALAFADASVEYTRTLSAADIARRRGWEWAAFTAWLAARPEYRCLTDELE
+                     AFACAS"
+     gene            complement(33017..33952)
+                     /GBInterval_from="33952"
+                     /GBInterval_to="33017"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18545"
+                     /old_locus_tag="IRT45_18545"
+     CDS             complement(33017..33952)
+                     /GBInterval_from="33952"
+                     /GBInterval_to="33017"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18545"
+                     /old_locus_tag="IRT45_18545"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_008182253.1"
+                     /GO_function="GO:0004803 - transposase activity [Evidence
+                     IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="IS481 family transposase"
+                     /protein_id="WP_194807169.1"
+                     /translation="MIRRANRRLAVLQHAEEVSGNVTATCRYYGISRNVFYRWKRRYED
+                     EGIDGLKDRSSAPLHCPNVTQPEVVAKIIHLRQHYHFGPLKISMYLQRYHDVSISQSAV
+                     WRILKRLGMNRLPASQRYKRHKQRWKRYEKQRPGHHVQVDVKFIEPITTGPHRRKRFYQ
+                     YTAIDDCTRLRVLRIYPRSDQKTAIQFLDYLIARLPFQIEKIQTDNGAEFQSAFHWHVI
+                     DQGIGHTYIKPATPRLNGKVERSHRIDAEEFYRLLDGVVIDDAGLFNDKLKEWEDYYNY
+                     HRPHGGLGGQTPYERLLQKTQAHTVTGHRQ"
+     gene            complement(34000..34746)
+                     /GBInterval_from="34746"
+                     /GBInterval_to="34000"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18550"
+                     /old_locus_tag="IRT45_18550"
+     CDS             complement(34000..34746)
+                     /GBInterval_from="34746"
+                     /GBInterval_to="34000"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18550"
+                     /old_locus_tag="IRT45_18550"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014351072.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="class II glutamine amidotransferase"
+                     /protein_id="WP_194807111.1"
+                     /translation="MCLLTYYPAGAAIDKGALRFGADANPDGHGFAIVAGGRIITGHGM
+                     NADTVIGTFARTRADHLDGPALFHSRYATRGAVDLSNCHPFRLGGDARTVLAHNGTLPK
+                     RVHPRAYDRRSDTRIAAEDYLPRQPFGPIDTVAGARGLSGWLGSSKLVILTVDPAYAHT
+                     AYVFGERAGQWVGGIWYSNRSFLPPEQRWPARRRTVCGYCLDRDLERTSRYCRTCGWCF
+                     DCRSVLFSCTCELAIKLPEVVDSLGS"
+     gene            complement(34734..35780)
+                     /GBInterval_from="35780"
+                     /GBInterval_to="34734"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18555"
+                     /old_locus_tag="IRT45_18555"
+     CDS             complement(34734..35780)
+                     /GBInterval_from="35780"
+                     /GBInterval_to="34734"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18555"
+                     /old_locus_tag="IRT45_18555"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_019050226.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_228534570.1"
+                     /translation="MTRTADEAELCAHCLTGWAGCVSCQELTGPQLRTDTDDPVCARCA
+                     SVLFAACFSCGRFTADSRYISGGHRACPRCASRFHACPACGTLVQPGHRCEACGNRGKV
+                     WNYTYRPDPRFHGTGPLYLGLELEIIVPEHRLDTCATLATDHLAGLGYLKRDSSIRPSG
+                     FELVTHPLSYRYAIESFPWPLLDQLHRLGCEADASVGLHVHASRAGFDNPAHVYRWLKL
+                     LYRNEEAVTRLARRRTHYAQFDSAARARARDTAKGPQHALGLERYQAINPLPRNTLEVR
+                     VFASSLDVQQVQAALAFTAASIDYTRGLRVADIRAGAWDWARFATWVTTRPDYQPLAAE
+                     MEALQCAC"
+     gene            complement(36103..36678)
+                     /GBInterval_from="36678"
+                     /GBInterval_to="36103"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18560"
+                     /old_locus_tag="IRT45_18560"
+     CDS             complement(36103..36678)
+                     /GBInterval_from="36678"
+                     /GBInterval_to="36103"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18560"
+                     /old_locus_tag="IRT45_18560"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807112.1"
+                     /translation="MTESQLVEVADIASVVSRCLSDLEPVFEQIDWAEDEIARAQRRHP
+                     RHRNTLYHSFGLLMPTHERMRQEFVYRSHCRELLDRVAGGLSPVPGTAAEVALAVMAAS
+                     QRAPLNTAAFGLYTRTWIQAGFPPLESVTDSHQHYEAIAKSRIDDLEAETRTRLSVADR
+                     VLRSIDCPGRHHGQPADDCEYARSSLAA"
+     gene            36857..37264
+                     /GBInterval_from="36857"
+                     /GBInterval_to="37264"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18565"
+                     /old_locus_tag="IRT45_18565"
+     CDS             36857..37264
+                     /GBInterval_from="36857"
+                     /GBInterval_to="37264"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18565"
+                     /old_locus_tag="IRT45_18565"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807113.1"
+                     /translation="MNDPQASRSKRGRDAGNLAGQLRHSREVMDRRRAVERRREQNVSD
+                     AVREYWSAWQAISTIEQRRDRRVRALRDKIGHLEQAAATEIAVHHDRQAAAVARMNEQG
+                     CSTDDIAELLEISLKGAQRRSPTTGRRAGRA"
+     gene            complement(37455..38021)
+                     /GBInterval_from="38021"
+                     /GBInterval_to="37455"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18570"
+                     /old_locus_tag="IRT45_18570"
+     CDS             complement(37455..38021)
+                     /GBInterval_from="38021"
+                     /GBInterval_to="37455"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18570"
+                     /old_locus_tag="IRT45_18570"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807114.1"
+                     /translation="MQSVPAIRASGTSTVYGTDYYSGVGVSSLGPVPVMGSSLVERTQS
+                     SYLAQSLAPEPGFRGAGRLTTLAVVLSLPAVGYFAAGAVLISRPQPDVSTASIVMGTFG
+                     LALFLALPSLLILWFAFRRLRRSARIRRGAPAAYAVWRAGVYCHRCGMCFWPFAPAAGI
+                     PVRHPVPPGGFQGIVWNAGGYLNDA"
+     gene            39031..39306
+                     /GBInterval_from="39031"
+                     /GBInterval_to="39306"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18575"
+                     /old_locus_tag="IRT45_18575"
+     CDS             39031..39306
+                     /GBInterval_from="39031"
+                     /GBInterval_to="39306"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18575"
+                     /old_locus_tag="IRT45_18575"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="type II toxin-antitoxin system VapC family toxin"
+                     /protein_id="WP_194807115.1"
+                     /translation="MGSALIRLARRGELEFDQARELIAAFSTHSVERIREPVDSVAAVG
+                     MIDHAAYADAGYIVLAQRLAYPLMTLDDGMQKAARIHGVEVISASG"
+     gene            39537..39899
+                     /GBInterval_from="39537"
+                     /GBInterval_to="39899"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18580"
+                     /old_locus_tag="IRT45_18580"
+     CDS             39537..39899
+                     /GBInterval_from="39537"
+                     /GBInterval_to="39899"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18580"
+                     /old_locus_tag="IRT45_18580"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="OB-fold domain-containing protein"
+                     /protein_id="WP_228534571.1"
+                     /translation="MYAPLTAGCSSCASDVLERVPSSGAGSVVSWRVVERAGAGGVLAQ
+                     STVAIVELDEGPWVYTSLEGEVPLLADRPVRVHFQPRPRDDRFPVFVVCADRRHRQCSR
+                     ESVTSSGSDGRGHASR"
+     gene            39886..40251
+                     /GBInterval_from="39886"
+                     /GBInterval_to="40251"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18585"
+                     /old_locus_tag="IRT45_18585"
+     CDS             39886..40251
+                     /GBInterval_from="39886"
+                     /GBInterval_to="40251"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18585"
+                     /old_locus_tag="IRT45_18585"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807117.1"
+                     /translation="MRRGEPGVARCYSQAWVRTSLQQCRLLERDGYLDPHARSIVVFAI
+                     HWAPFGGADSSELLVRFGVARRRFLQMLQAALAPGRTDNRETRGLKQHLLAALDYAWNP
+                     SRDPALLPDLVNGDRAS"
+     gene            complement(40349..40852)
+                     /GBInterval_from="40852"
+                     /GBInterval_to="40349"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18590"
+                     /old_locus_tag="IRT45_18590"
+     CDS             complement(40349..40852)
+                     /GBInterval_from="40852"
+                     /GBInterval_to="40349"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18590"
+                     /old_locus_tag="IRT45_18590"
+                     /inference="COORDINATES: protein motif:HMM:NF012334.2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="SDR family NAD(P)-dependent oxidoreductase"
+                     /protein_id="WP_194807118.1"
+                     /translation="MAHNRFDGRIALVTGGTSGMGLATARRLRDEGARVIVTGRDPARL
+                     AAAAQELGPEALTIAAETTDLDALFDTIRNRYGRLDVLFVNAGIGFFPPTDAVTEADFD
+                     RVVGVNIKGVFFTIQPGLVRGVVHHRSGPARRRRLGGPGSGRGNLTSRSAVVTAERGRA
+                     LLQD"
+     gene            complement(40922..41260)
+                     /GBInterval_from="41260"
+                     /GBInterval_to="40922"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18595"
+                     /old_locus_tag="IRT45_18595"
+     CDS             complement(40922..41260)
+                     /GBInterval_from="41260"
+                     /GBInterval_to="40922"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18595"
+                     /old_locus_tag="IRT45_18595"
+                     /inference="COORDINATES: protein motif:HMM:NF037627.2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807119.1"
+                     /translation="MHLHWTAAAPAVVAAYRADAAQGDPEFDRVITELSSVSSEFAELW
+                     ARHDVGAPTQAVHAVRHPDAGELYFDTTTLIVADHPDLHLVLYNPRPGTETEQRPRLPA
+                     PERSAAPA"
+     gene            complement(41505..42818)
+                     /GBInterval_from="42818"
+                     /GBInterval_to="41505"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18600"
+                     /old_locus_tag="IRT45_18600"
+     CDS             complement(41505..42818)
+                     /GBInterval_from="42818"
+                     /GBInterval_to="41505"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18600"
+                     /old_locus_tag="IRT45_18600"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014984652.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="dihydrolipoamide acetyltransferase family
+                     protein"
+                     /protein_id="WP_194807120.1"
+                     /translation="MSDITMPRLSDTMEDGVVATWLKQVGDTVTRGEVLAEIETDKALM
+                     ELEAYDDGVLERIIAAPGTRVPIGEPIAILGDGTAPAASPAPSSTVQQAESAATRQPAQ
+                     ERSEPADTAAEQRRIAQQPSPADAAPARSAASSDAVRRKSSPLARKIAQELGVDIATVT
+                     GTGPGGRITRLDVENAHAAESSDAAQTTAAPERAEPGTTATPASGDYDEIPLTTIQRVS
+                     ATRLTESKQQAPHIYLTSAIDVTELLAFRTRINETLADTGAGKVSVNDLLVKAVATALR
+                     ASPAVNVSFAGDTLRRHHGIHLGVAVATPAGLLVPVIRDADRKTVSAIAAETRDKAERA
+                     RDRKLRAEEMTGGTFTISNLGMYGIEHFTAVINPPEAAILAIGAATDELRLDGDEVVSR
+                     KVLRVTMSADHRAIDGAVAAQFLAQLKELVEHPLRIVT"
+     gene            complement(42831..43814)
+                     /GBInterval_from="43814"
+                     /GBInterval_to="42831"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18605"
+                     /old_locus_tag="IRT45_18605"
+     CDS             complement(42831..43814)
+                     /GBInterval_from="43814"
+                     /GBInterval_to="42831"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18605"
+                     /old_locus_tag="IRT45_18605"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_019928611.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="alpha-ketoacid dehydrogenase subunit beta"
+                     /protein_id="WP_228534580.1"
+                     /translation="MTYREALRETLREEMRRDDDILLIGEEIGVFEGSYKITAGLLNEF
+                     GDKRVRDTPIAEEGFVGAAIGAAMLGLRPVVEIMTINFSLLALDQIVNHAAKIYGMFGG
+                     QTSVPMVIRTPGGGGQQLGATHSQNIELYYAFVPGLKVVAPSTPADARALLKAAIDDDD
+                     PVLFLENLSLYNTKGDVPDDLPPAQIGKAAVTREGTDITLIGYSRMATVCTQVAEKLAA
+                     EGISAEVIDLRSLRPLDRDTIVASARKTGCAVIGEDDWLTYGIGAEIAASISDGAFDYL
+                     DAPVRRVAMAEVPLPYAKPLEKLALPSVESLYTAAVETLAAVGKRR"
+     gene            complement(43833..44894)
+                     /GBInterval_from="44894"
+                     /GBInterval_to="43833"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /gene="pdhA"
+                     /locus_tag="IRT45_RS18610"
+                     /old_locus_tag="IRT45_18610"
+     CDS             complement(43833..44894)
+                     /GBInterval_from="44894"
+                     /GBInterval_to="43833"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /gene="pdhA"
+                     /locus_tag="IRT45_RS18610"
+                     /old_locus_tag="IRT45_18610"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014984654.1"
+                     /GO_component="GO:0045250 - cytosolic pyruvate
+                     dehydrogenase complex [Evidence IEA]"
+                     /GO_function="GO:0004739 - pyruvate dehydrogenase
+                     (acetyl-transferring) activity [Evidence IEA]"
+                     /GO_process="GO:0006086 - acetyl-CoA biosynthetic process
+                     from pyruvate [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="pyruvate dehydrogenase (acetyl-transferring) E1
+                     component subunit alpha"
+                     /protein_id="WP_228534581.1"
+                     /translation="MADRTASQTASFEARVAAEDPGTLRKLYRDMLFVRRFEERTAQSY
+                     QQAKIGGYCHLNLGEEATVVGLGAAMRPTDYLFTNYREHGYALAKGIEPGRVMAELYGR
+                     STGTSKGWGGSMHMYDTQTRLLGGYAIVGGQVPLAVGAALAIDYRGGDDVVVCQMGEGT
+                     TNIGAFHESLNLAALWNLPIVFLVVNNQTGMGTTVEKSSAEPDLWKRAAAYRMRGERVD
+                     GTDVLAVRDTAEQLIDTARREGKPALLEAVSHRLKGHSVVDPAKYRTEETVAAARSHDP
+                     IEIWKSALLKIGALSDDSATALDAEIIAEVAAAVEFADSSPHPQPSSLFDYTYATPVPG
+                     DSRRLPADPLFTV"
+     gene            complement(45014..46450)
+                     /GBInterval_from="46450"
+                     /GBInterval_to="45014"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /gene="lpdA"
+                     /locus_tag="IRT45_RS18615"
+                     /old_locus_tag="IRT45_18615"
+     CDS             complement(45014..46450)
+                     /GBInterval_from="46450"
+                     /GBInterval_to="45014"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /gene="lpdA"
+                     /locus_tag="IRT45_RS18615"
+                     /old_locus_tag="IRT45_18615"
+                     /EC_number="1.8.1.4"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014984655.1"
+                     /GO_function="GO:0004148 - dihydrolipoyl dehydrogenase
+                     activity [Evidence IEA]"
+                     /GO_process="GO:0045454 - cell redox homeostasis [Evidence
+                     IEA]; GO:0051068 - dihydrolipoamide metabolic process
+                     [Evidence IEA]; GO:0006096 - glycolytic process [Evidence
+                     IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="dihydrolipoyl dehydrogenase"
+                     /protein_id="WP_228534582.1"
+                     /translation="MVIGGGPGGYVAAIRAAQRGLHVAVVEKERPGGVCLNWGCIPTKA
+                     MLRSAEVFETLSTAADFGVYADDVRFDFAAVRRRKDGIVGRLTGGVAGLLRANGVTVIE
+                     GHARFTGPTTVEVFQPGPSPVFADGPRYAAAPTGTPTRTVTATDVIVATGSVPAVLPVP
+                     GADLPGVITSDGAFGLTEVPRRLVVIGGSAVGVEWAGLFAAFGAEVTVVEMQDRLVPAE
+                     DTEIGAALGRSFTERGITVLTGCTVTGIDRTGDALVLDVNGATTRKVAADVVLVGVGRR
+                     PNTADLDLKYAGIDTDARGFIPVDDRLRTTVEHVYAIGDVTGKALLAHVASHQGLTAAD
+                     VIAGHDAHIDYTVIPAATFTHPEIASVGLTEDAARAGGQEVITAKFPFAALGRAEALGD
+                     TQGFCKIVAGARHREVLGVHIIGPSASDLIAEGALAISLEATLDELADTIHAHPTLGEI
+                     GMEAALTGLGLPVHIAPRSR"
+     gene            complement(46643..47797)
+                     /GBInterval_from="47797"
+                     /GBInterval_to="46643"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18620"
+                     /old_locus_tag="IRT45_18620"
+     CDS             complement(46643..47797)
+                     /GBInterval_from="47797"
+                     /GBInterval_to="46643"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18620"
+                     /old_locus_tag="IRT45_18620"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_019928594.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="helix-turn-helix domain-containing protein"
+                     /protein_id="WP_228534583.1"
+                     /translation="MARACGSDIAELTARLMAAVFTDNPEWTDYSAVSRTDLQEGCRRF
+                     LTRVLELLAARGAGAERDDVAAAIGRQRAAQGVPLEAMQRTFRLGGRIVWEALMDRAGD
+                     MSPADLRDIGTAMWAVVDGMSSALVTSYRGAELDRVRRDERRRHALIEDVLSGRGRDAA
+                     FAAYAARELDLPAGGDYLVVVARGEPQPLRLGTESALAAMGIRSVRHDRGDHTVGIVAL
+                     ERHSPQQVAELLGPLVLGRAGLSPTVDGLAEVDVAHALATLALDTAPKGRETTLTLLDD
+                     RYPEALLVRAPDLAQRLVQRCLGPILVLPARERDVLLRTLTVWLAENGSAAHAAPRLHC
+                     HRNTVINRLQRAATLLGRPLEGRRHQFELTLALTARDLLDHSAG"
+     gene            complement(47979..48215)
+                     /GBInterval_from="48215"
+                     /GBInterval_to="47979"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18625"
+                     /old_locus_tag="IRT45_18625"
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+     CDS             complement(47979..48215)
+                     /GBInterval_from="48215"
+                     /GBInterval_to="47979"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18625"
+                     /old_locus_tag="IRT45_18625"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005632293.1"
+                     /note="incomplete; partial in the middle of a contig;
+                     missing C-terminus; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="SDR family NAD(P)-dependent oxidoreductase"
+     gene            complement(48241..49227)
+                     /GBInterval_from="49227"
+                     /GBInterval_to="48241"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18630"
+                     /old_locus_tag="IRT45_18630"
+     CDS             complement(48241..49227)
+                     /GBInterval_from="49227"
+                     /GBInterval_to="48241"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18630"
+                     /old_locus_tag="IRT45_18630"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005185618.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_228534584.1"
+                     /translation="MRGILDDPRLELAGVYAYSDDKVGVDAGRLCGRPDTGVLATSDID
+                     ALLALDADTVIYTPFMADLDHATRLLESGLDLISTNLFLNVGGIQGETEQKLAAACERG
+                     NSSLHITGINPGWVNAVTTALTAVCRDVRSISIFESADVSVYESAETWQALGISRPEAT
+                     PELIEIAKLWMSTFRDSVRRMGVALGYEFDDIDFSIEYATAAETVDLGWIRIEKDTIAA
+                     VRGGWTGTVGEKSVVRSNVAWYLTKALNESWEFDDDHYYIVIEGEPEVRTRIRFVPPDS
+                     WGNHEWDTMTAMPAVNSVFDVARAPAGISTLKEVGLPCAPADLWLSR"
+     gene            complement(49449..50315)
+                     /GBInterval_from="50315"
+                     /GBInterval_to="49449"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18635"
+                     /old_locus_tag="IRT45_18635"
+     CDS             complement(49449..50315)
+                     /GBInterval_from="50315"
+                     /GBInterval_to="49449"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18635"
+                     /old_locus_tag="IRT45_18635"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_011209596.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="MerR family transcriptional regulator"
+                     /protein_id="WP_194807123.1"
+                     /translation="MSDASPPDNDATGFSVRTVAERIGIPTATLRSWNQRYGIGPSQHR
+                     RGRHRLYSEADIARLERMVVLVRGGSSPARAAESVRGPLPVAGDHASLLEAAFASDPTT
+                     LQSLLLAHIRAFGVVDTWDRLCRPAFAEIVQRQGAGIGCIDVEHLLSWCITAALHRAVP
+                     PPADAPATPVLLACTSGEAHSLPLEVLRAALAERDVPATMLGPNVPTPALGDALDRGAP
+                     DSVAVLWSQQESTALLSAVRTCADRGARVLLAGPGWQDVPAPDTAEIVDDLRSALAELS
+                     HAHPAGV"
+     gene            50635..51192
+                     /GBInterval_from="50635"
+                     /GBInterval_to="51192"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18640"
+                     /old_locus_tag="IRT45_18640"
+     CDS             50635..51192
+                     /GBInterval_from="50635"
+                     /GBInterval_to="51192"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18640"
+                     /old_locus_tag="IRT45_18640"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005516979.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="lipocalin family protein"
+                     /protein_id="WP_194807174.1"
+                     /translation="MVVFGAVAAPAGASPAAGPAPVPALDLSRYVGTWYQVAAVPQYFN
+                     LVCARDTRAEYAALPNGDVSVHNSCTTWSGANNEIQGAARAVDPVTGAQLRVAFPGVPT
+                     QESLDGPPNYVVTALGPDYSWALVTDPYRISGFVLSRTPALDADQWNRVVAAIVAAGEQ
+                     PCLYLTSPVTGGRGDITPLCRL"
+     gene            51240..52562
+                     /GBInterval_from="51240"
+                     /GBInterval_to="52562"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18645"
+                     /old_locus_tag="IRT45_18645"
+     CDS             51240..52562
+                     /GBInterval_from="51240"
+                     /GBInterval_to="52562"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18645"
+                     /old_locus_tag="IRT45_18645"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014987697.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="deoxyribodipyrimidine photo-lyase"
+                     /protein_id="WP_194807124.1"
+                     /translation="MGVAVALFTRDLRVHDNPMLTAAQRAGDAVVPLFILDESLVTGAE
+                     AAPNRVRFLAAALDELDGELRTRGGHLVLRRGKVVDEVERIVAQTQAESVHLAAEVSYY
+                     GKRRESALRDRLEPHGCQVHTHAATVTSVDLDAIEPSTGRDHFAIFTPYFRRWESARHR
+                     RPLPPPADLEVPRLDGEQPGLDKLRTVRSSPDLRVGGETTGRKMLRRWLSDPVTAYDDA
+                     NDDLAADATSHLSPYLHFGCLSAAEVVSRLDMSDPGAHSFARQLAWRDFHHQVLAARPA
+                     AAWSDYRSGPVEIREDEQAFEAWTHGRTGFPIVDAPMRQLRDEGWMPGRARLITASFLA
+                     KTLRLDWRIGAAQFRYWLVDGDVANNQMNWQWVAGTGTDTRPNRMLNPLRQAHRFDPEG
+                     EYVRRWLPELAHLSGAAVHRPWREDIDDATYPAPIVEVPGM"
+     gene            52587..54059
+                     /GBInterval_from="52587"
+                     /GBInterval_to="54059"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18650"
+                     /old_locus_tag="IRT45_18650"
+     CDS             52587..54059
+                     /GBInterval_from="52587"
+                     /GBInterval_to="54059"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18650"
+                     /old_locus_tag="IRT45_18650"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_019926057.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="SDR family oxidoreductase"
+                     /protein_id="WP_194807125.1"
+                     /translation="MRCVVFGATGYIGGRLVPELLAAGHEVRVLARTPAKLDDAAWRDS
+                     VEVLRGDVLCADDVAAACAEADVLYYLVHSLTRTDFDDVDRRAATLVAEQAARAGIRRI
+                     VYLGGIVPPGQRLSRHLSSRAEVGRILLAGSVPVIAMQAAVIIGSGSASFEMLRYLTER
+                     LPVMVTPRWVRNRIQPIAVRDVLYYLTRAAELPPDVRGAFDIGGPDVLTYEQMMRDYAE
+                     VARLPRRVIVPVPVLTPWLSAQWVDLVTPVPKAIAVPLMESLVNDVVCEDHAIAERIPD
+                     PARGLIDYRTAVELALTRIRDLDVPTRWSDADQLGREPSSPLPTDPAWSGGSLYVDVRE
+                     RHTRADPATLWAVIESIGGEYGWYSFPLAWSLRGWIDRLAGGAGLRRGRRDPHRLHAGE
+                     ALDWWRVERIERPRILVLRAEMRVPGRAWLELRVDSAARGTVYRQRAVFDPHGLAGHLY
+                     WKAIAPFHALIFGGMTRNITGAAEEAVSQPVS"
+     gene            complement(54016..54987)
+                     /GBInterval_from="54987"
+                     /GBInterval_to="54016"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18655"
+                     /old_locus_tag="IRT45_18655"
+     CDS             complement(54016..54987)
+                     /GBInterval_from="54987"
+                     /GBInterval_to="54016"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18655"
+                     /old_locus_tag="IRT45_18655"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005626301.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phytoene/squalene synthase family protein"
+                     /protein_id="WP_194807126.1"
+                     /translation="MSPIAFLDNGRADPQLQRSYRACRTLNARHGKTFFLATRLLAPDQ
+                     RPAIHALYGFARRADDLLDDIDPRRPISERAARLDALAAQFTTEDADADAVLPAVLHTA
+                     HSYRIAASLFDSFLESMRMDLTVTDYPDRRALDRYVYGSAEVIGLQVLPVLGTVCPVDE
+                     AAPYAAALGKAFQLTNFLRDVDEDLVRDRVYLPADELAAHGVDRDLLLWCQAHRRTDAR
+                     VRRALITQHSHTRGIYDYARAGIALLDPRSRPCVAAALTLYSEILDRIESLDFDIFVHR
+                     ARVGIPRRAAVGTRGLAAAVWSRSRVGGAMKPAGTQPLPPLR"
+     gene            complement(54998..56536)
+                     /GBInterval_from="56536"
+                     /GBInterval_to="54998"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /gene="crtI"
+                     /locus_tag="IRT45_RS18660"
+                     /old_locus_tag="IRT45_18660"
+     CDS             complement(54998..56536)
+                     /GBInterval_from="56536"
+                     /GBInterval_to="54998"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /gene="crtI"
+                     /locus_tag="IRT45_RS18660"
+                     /old_locus_tag="IRT45_18660"
+                     /EC_number="1.-.-.-"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_007775608.1"
+                     /GO_function="GO:0016166 - phytoene dehydrogenase activity
+                     [Evidence IEA]"
+                     /GO_process="GO:0016117 - carotenoid biosynthetic process
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phytoene desaturase family protein"
+                     /protein_id="WP_194807127.1"
+                     /translation="MRTTIGLSNRVVVVGAGLAGLSAALHLAGRGRTVTVLERDSVPGG
+                     RTGRVDVDGYRLDTGPTVLTMPHLVEETFAAVGERMDDRLSLVPVDPAYRAHFADGRQL
+                     EVHSDAERMAAAITEFAGAGQAAGYRRLRAWLIQLYRTEFDSFIGANFDSPFSALRPSL
+                     GRLAAMGGFRRWDRAVAQHIDDPELRRLFTFQSLYAGVAPSRAIAAYAVIAYMDTIAGV
+                     WFPRGGMRALPDALAAAAHEAGVEIRYDTAVASLDRTGSRIRTIVTDTGERIPCDAVVL
+                     TTELSDTYRLTGHSPRRPLRPTAAPSAVVLHVGCEAMPRAAHHHLLFGRAWDEAFDDII
+                     ARGSVMTDPSLLVTRPTAGDPSLAPPGRDLLYILAPVPNAVRGPINWDRFGPAYAQEVL
+                     TTVQDRLPIPLTDPWLLHITTPADWARRGMLAGSPFALAHTVTQTGPFRPANMIRGLEN
+                     VVLAGGSTVPGVGIPPVLISGRLAADRVTGPMPSAQPARRRASALSTSTAAIIR"
+     gene            complement(56548..57624)
+                     /GBInterval_from="57624"
+                     /GBInterval_to="56548"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18665"
+                     /old_locus_tag="IRT45_18665"
+     CDS             complement(56548..57624)
+                     /GBInterval_from="57624"
+                     /GBInterval_to="56548"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18665"
+                     /old_locus_tag="IRT45_18665"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_019927768.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="polyprenyl synthetase family protein"
+                     /protein_id="WP_228534585.1"
+                     /translation="MADHPVNVADGVARWRAAVQDRVLTELATFLRENRIGAVHGIAVD
+                     DIARRYVAGGKCLRSTFMYIGWLCGEAPDAAALRAAAALELVHAFALIQDDVMDESALR
+                     RGAPTGHVAFADAHRDRRMPGDAARFGDSAAVLLGDICLVWADKMLRDSGIRPDCLYRV
+                     WPRFDAMRIELAVGQFGDLLNDVRTEPDFGQVLALARAKSGNYTVRRPLELGAAMAGCD
+                     EPTLSALSRYGRAVGEAFQMRDDLLGVFGSVDATGKPGDGDLTQRKATTVVIAARQLAE
+                     PAARSELDTLLSAPVVDAGATDRLRAVITASGAPARIEAMISDRIGEARHAAESASLPE
+                     PMRRVLDGMGLICVTRHP"
+     gene            58008..58505
+                     /GBInterval_from="58008"
+                     /GBInterval_to="58505"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18670"
+                     /old_locus_tag="IRT45_18670"
+     CDS             58008..58505
+                     /GBInterval_from="58008"
+                     /GBInterval_to="58505"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18670"
+                     /old_locus_tag="IRT45_18670"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014985492.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="protein kinase"
+                     /protein_id="WP_194807128.1"
+                     /translation="MSRSSARRALFALVSGGGIALTSAALPAAPAQADSTSCPAPGATS
+                     VADTGADAACSATSTGGSAAAAYGINGTASADAGPTSLSLAIAQGGGTARSASGPWSGP
+                     AAIAVGSGATADLSGVRPGLAIGIAGPGATVTVSGVGTPECTGGPGFAGDFQTFQGCLS
+                     MR"
+     gene            58817..60082
+                     /GBInterval_from="58817"
+                     /GBInterval_to="60082"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18675"
+                     /old_locus_tag="IRT45_18675"
+     CDS             58817..60082
+                     /GBInterval_from="58817"
+                     /GBInterval_to="60082"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18675"
+                     /old_locus_tag="IRT45_18675"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005516835.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="glutamine synthetase"
+                     /protein_id="WP_194807176.1"
+                     /translation="MKAVPVERFSHAAAWGIGASPVFDAFLVDDSILTEHVAGGPTGDL
+                     RLYPDVDRATAVAALPGWGWAPADRYTQSGTPHARDPRLLLRRLVAELADDGYELRTAI
+                     EFEWTISRPDPHDPDTFIPATSAPAYGMARLGELAPYLRDVVSKVRDSGIGVEQIHPEY
+                     EVGQFELSIASADPVRTADNAVLVREVVRAVSHAHGLRATFSPMVVPGVVGNGGHVHLS
+                     LWRQGVNRMCGGPGPFGIGAEGEHFAAGILDHLPALLAVGCPAVASYLRLQPSHWAGVF
+                     RCWGLENREAALRYITGSEGERDRAANIEIKTFDAAANPYLALAGLLAAGRAGLRAGAT
+                     LPEPVAGDPARLDSATRSARGITPLPTTLADAVAAFDADEVLWTAFGDDLADTIGSVRR
+                     GEIALFADATPEQITDACRWRY"
+     gene            complement(60096..60584)
+                     /GBInterval_from="60584"
+                     /GBInterval_to="60096"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18680"
+                     /old_locus_tag="IRT45_18680"
+     CDS             complement(60096..60584)
+                     /GBInterval_from="60584"
+                     /GBInterval_to="60096"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18680"
+                     /old_locus_tag="IRT45_18680"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807129.1"
+                     /translation="MSVHICPSVRQCGITAELLTLTTLDDVVYIDSHVLETPAATGRTA
+                     EQWARTIMEDVPEEVRARLRAAWAGIELDLTPGAPETVAGWRITFSAPECLLLRADSGL
+                     GFHGELAIEIRDGVVALSTFVAMRGTRAPDVWFGVVPGHLAFVRALLERAGSIEPAAS"
+     gene            60694..61242
+                     /GBInterval_from="60694"
+                     /GBInterval_to="61242"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18685"
+                     /old_locus_tag="IRT45_18685"
+     CDS             60694..61242
+                     /GBInterval_from="60694"
+                     /GBInterval_to="61242"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18685"
+                     /old_locus_tag="IRT45_18685"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_011892365.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TetR/AcrR family transcriptional regulator"
+                     /protein_id="WP_194807130.1"
+                     /translation="MAPPVRTPRRAWVDAGLSVLERQGPDAVRVEALAAQLGVTRGGFY
+                     RQFRSRDELLEAMLDDWERRAVDDVREQVEREGGDPKRKIRRAGTLTFAEDLTPLDLAI
+                     RAWARRDPAVEARLRKVDNARMDYLRTLLRNSGVASQDVEAVALLSFSMVIANHLIKAE
+                     HPGQSRSDVLAHAARLLFD"
+     gene            61291..62070
+                     /GBInterval_from="61291"
+                     /GBInterval_to="62070"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18690"
+                     /old_locus_tag="IRT45_18690"
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+     CDS             61291..62070
+                     /GBInterval_from="61291"
+                     /GBInterval_to="62070"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18690"
+                     /old_locus_tag="IRT45_18690"
+                     /inference="COORDINATES: protein motif:HMM:NF013087.2"
+                     /GO_function="GO:0008168 - methyltransferase activity
+                     [Evidence IEA]"
+                     /note="incomplete; partial in the middle of a contig;
+                     missing N-terminus; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="methyltransferase domain-containing protein"
+     gene            complement(62078..63226)
+                     /GBInterval_from="63226"
+                     /GBInterval_to="62078"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18695"
+                     /old_locus_tag="IRT45_18695"
+     CDS             complement(62078..63226)
+                     /GBInterval_from="63226"
+                     /GBInterval_to="62078"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18695"
+                     /old_locus_tag="IRT45_18695"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_019745768.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="cation:proton antiporter"
+                     /protein_id="WP_194807132.1"
+                     /translation="MSLSTLALVLALGLAGPLLAWREAWHIPVIVGELLAGIICGVTGF
+                     GLLDASDPVFAFLADMGFALVMFVAGTHVPIRDPRIRSALGIGAVRAVLVGAAAAVVGS
+                     LLAGFFDTGHGAIYAVLLTSSSAALVLPIIDSQGLHGRSVLELTAQVAIADTASIVALP
+                     LVIDAGNAERAALGALAVIGTALLLFFLLRWLERSGLRRRAHRVSERRKFALELRVSLA
+                     IVFGIAALATRTHVSIMLAGFAAGLAVAAVGEPRRVARQLFAATDGFLAPLFFVWLGAR
+                     LNLREFADRPRLILLGFAMGAGALLVHLLMRTLGQPVTFGALAAAQIGVPVAAVTVGTQ
+                     LHVLVPAEAAAMMLSALVTIVAAAVAAALAARRPPVADPVAP"
+     gene            complement(63376..64086)
+                     /GBInterval_from="64086"
+                     /GBInterval_to="63376"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18700"
+                     /old_locus_tag="IRT45_18700"
+     CDS             complement(63376..64086)
+                     /GBInterval_from="64086"
+                     /GBInterval_to="63376"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18700"
+                     /old_locus_tag="IRT45_18700"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807133.1"
+                     /translation="MKTTTRTIAVSTLLATAVVAAAGAAQGETVAPAPVAPQSNWTSTD
+                     LGAGIHYQDDTTTGTAALQTPLGAVAVRPGQFDIRDGAGRTLLGTPIEVPATADSAPPA
+                     TPSQTVAGTVETTAAQPNQVADTQLSDLNQAVAAAGPHMGLAMAVGGIAGSVIGAAIGC
+                     PLGIATGGTLISVATAGTMTVPAMAAACLVGLVAVGGLGASVGGIAVAIPVGIAAGTQK
+                     YNQLQAEHAQGVTH"
+     gene            complement(64122..64634)
+                     /GBInterval_from="64634"
+                     /GBInterval_to="64122"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18705"
+                     /old_locus_tag="IRT45_18705"
+     CDS             complement(64122..64634)
+                     /GBInterval_from="64634"
+                     /GBInterval_to="64122"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18705"
+                     /old_locus_tag="IRT45_18705"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807134.1"
+                     /translation="MRHVIRAAAIAVLATSATIGIAAPAFAESGSPATATVAGEQGTPA
+                     DPADPAGTPVDPTTEYLNAFDTIAGAWANDSTVGQVVGTAAGLAVGCPLGAITGGTLTI
+                     PVPVLTPIGIVGGCILGAGTLGFLGGMAGGIVTGGPGLANAVGDQYNSLHSKGLIAQSM
+                     PADANAR"
+     gene            complement(64772..65506)
+                     /GBInterval_from="65506"
+                     /GBInterval_to="64772"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS36990"
+     CDS             complement(64772..65506)
+                     /GBInterval_from="65506"
+                     /GBInterval_to="64772"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS36990"
+                     /inference="COORDINATES: protein motif:HMM:NF012335.2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="zinc-binding dehydrogenase"
+                     /protein_id="WP_228534587.1"
+                     /translation="MVSDVLPTGWFGARLAQVSEGDTVLVLGAGVVGQCAVASAFRQGA
+                     GRVLVVDGIADRLETARAQNAEPIDFHREDPVEVTRELTGGIGADRVIDAVGVDAQRPE
+                     QGPAADHLPVETDVFEEERRLAAPEGNTDSGQWLVGDAPSLAGRWAVQAVAKAGSVGVI
+                     GVYPPTFDRFPLGGVLNRNLTVQGGNCNHHRYVPGLLDKVGRGDLDPTRFITQHAEPQS
+                     MIDAYEAFDLRRTGWLKTVVPM"
+     gene            complement(65555..65971)
+                     /GBInterval_from="65971"
+                     /GBInterval_to="65555"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS36995"
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+     CDS             complement(65555..65971)
+                     /GBInterval_from="65971"
+                     /GBInterval_to="65555"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS36995"
+                     /inference="COORDINATES: protein motif:HMM:NF019845.2"
+                     /note="incomplete; partial in the middle of a contig;
+                     missing N-terminus and C-terminus; Derived by automated
+                     computational analysis using gene prediction method:
+                     Protein Homology."
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="alcohol dehydrogenase catalytic domain-containing
+                     protein"
+     gene            66267..66785
+                     /GBInterval_from="66267"
+                     /GBInterval_to="66785"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18715"
+                     /old_locus_tag="IRT45_18715"
+     CDS             66267..66785
+                     /GBInterval_from="66267"
+                     /GBInterval_to="66785"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18715"
+                     /old_locus_tag="IRT45_18715"
+                     /inference="COORDINATES: protein motif:HMM:NF013868.2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="STAS domain-containing protein"
+                     /protein_id="WP_194807136.1"
+                     /translation="MFPSEGESQPGSGPLFGVAAHAEGVPRPDLRAVVRERSHAAILCF
+                     RGEADTAALAVWREHIRSGAAVARRAGGHLVIDTTRLRFLGWRALAVLAEEADRLPVDL
+                     ALVSTSPTVARMVDAGDIDAHVPLYGTVVEALGPVGPVGPPQPASGAPSVSSRGRSRPS
+                     VRTACPKAE"
+     gene            66795..67832
+                     /GBInterval_from="66795"
+                     /GBInterval_to="67832"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18720"
+                     /old_locus_tag="IRT45_18720"
+     CDS             66795..67832
+                     /GBInterval_from="66795"
+                     /GBInterval_to="67832"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18720"
+                     /old_locus_tag="IRT45_18720"
+                     /inference="COORDINATES: protein motif:HMM:NF013502.2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="chemotaxis protein CheB"
+                     /protein_id="WP_194807137.1"
+                     /translation="MDESLVGDRPESEAGATRPPQDLIVAGASAGGVEALREFVGGLPP
+                     DLDAAVAVVLHMPPHGASALPAILNRTGPLPAVAAADGMPLRSGVVYVAVPDRHLVVTS
+                     THLHLSRGPTENGHRPGVDALFRSAAMSWAPRVACVVLSGTLDDGTAGAALMSHRGGVV
+                     AAQEPHDALYRGMPQSVLDSVAVDVVLPARELGKAVAERLRTRHRAPDPPDASDLQRLE
+                     ASIDAGGVPGDEGVAAMARPSGLTCPDCNGVLYVLEDSGRYRCRVGHAWTAEALLIQQK
+                     VEVDKALWTALRALEEKQRLAERMTEDAARHGDDRLAQRYRDQGAEQAAAIETLRKLLV
+                     DRSTN"
+     gene            67889..69718
+                     /GBInterval_from="67889"
+                     /GBInterval_to="69718"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18725"
+                     /old_locus_tag="IRT45_18725"
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+     CDS             67889..69718
+                     /GBInterval_from="67889"
+                     /GBInterval_to="69718"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18725"
+                     /old_locus_tag="IRT45_18725"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_011725853.1"
+                     /note="incomplete; partial in the middle of a contig;
+                     missing N-terminus; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="PAS domain S-box protein"
+     gene            complement(69711..70487)
+                     /GBInterval_from="70487"
+                     /GBInterval_to="69711"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18730"
+                     /old_locus_tag="IRT45_18730"
+     CDS             complement(69711..70487)
+                     /GBInterval_from="70487"
+                     /GBInterval_to="69711"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18730"
+                     /old_locus_tag="IRT45_18730"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ATP-binding protein"
+                     /protein_id="WP_194807138.1"
+                     /translation="MTTVPPICWEPTEIDRCVVLDPDITLDAVTYRRFTDDLVKFVVEQ
+                     PRAVIVCVDRMAIASETVLTAFTSAWLRTANWPCVPIFLVAEDDELRRRLRRSAIRRFL
+                     AVQPSVAAAVAAAAEPPIRRRAAMTMALSPVTGHRVRRLIDEVCVEWGIAEISEAAQII
+                     ATEFIDNADLHGHFTGVPDIDVRLEYREDLLTIAIADPDPHEAVLREPEPGSAGRRLHG
+                     LHIVAELASAWGCAPRWPTGKVVWATLATTRNRQVS"
+     gene            complement(70662..71576)
+                     /GBInterval_from="71576"
+                     /GBInterval_to="70662"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS37000"
+     CDS             complement(70662..71576)
+                     /GBInterval_from="71576"
+                     /GBInterval_to="70662"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS37000"
+                     /inference="COORDINATES: protein motif:HMM:NF025006.2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="carboxypeptidase-like regulatory
+                     domain-containing protein"
+                     /protein_id="WP_228534589.1"
+                     /translation="MDAEHSSHSAEHAVASESDAVQRNGFAQTPRRPAVSGPVAFGRVH
+                     DSRGAALPDAVLTLISMSGRQIGRSLTDAEGYFELAAPEPGSYVLIASIDGRRPDASTV
+                     QLAHHPVPCDIVLTAMAGLAGTVSRGDDGTAIAGARVSALDARGEVLSSAATTDDGTFG
+                     LAELPEGDFTIAVSANGFHPTALPVRAGGSETPRLDVTLRPCARLHGVVRGRDGRPLPD
+                     ALVTLTDWDGTVIDTMVTGLDGAYTFADLHDGTYTVVASGYAPVHTPVVVGADAEELNV
+                     ELGHDNSRDLGSADQLTSRYSGN"
+     gene            complement(71604..72962)
+                     /GBInterval_from="72962"
+                     /GBInterval_to="71604"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS37005"
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+     CDS             complement(71604..72962)
+                     /GBInterval_from="72962"
+                     /GBInterval_to="71604"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS37005"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_007536695.1"
+                     /note="incomplete; partial in the middle of a contig;
+                     missing C-terminus; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="MFS transporter"
+     gene            73242..73457
+                     /GBInterval_from="73242"
+                     /GBInterval_to="73457"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18740"
+                     /old_locus_tag="IRT45_18740"
+     CDS             73242..73457
+                     /GBInterval_from="73242"
+                     /GBInterval_to="73457"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18740"
+                     /old_locus_tag="IRT45_18740"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807140.1"
+                     /translation="MASQPFRRFLPAAVRAAGIVVADAVGGTAVSCAQVPSAGDIVVPG
+                     GYFEPDLGSSHYRPGTGLVDLLWRLL"
+     gene            73514..74830
+                     /GBInterval_from="73514"
+                     /GBInterval_to="74830"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18745"
+                     /old_locus_tag="IRT45_18745"
+     CDS             73514..74830
+                     /GBInterval_from="73514"
+                     /GBInterval_to="74830"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18745"
+                     /old_locus_tag="IRT45_18745"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_019925711.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="lipase family protein"
+                     /protein_id="WP_194807177.1"
+                     /translation="MTVRPALGRADNGPAPTDSTEWQQWIDRTIPAPNLPPASSPPNAQ
+                     LRPELAALWRSVLSPPAGDPLFDQWPAGLDAMRPGDPIEVRDVTATAAPLAVVPIARAL
+                     LLKFRSTGATGAPSFGTATLLIPAASWTGPGQRSVLVNAIPINSLGLRCTPGYAMAHGL
+                     HPKFSAGDLFPPTTWWALSHGYGVLVPDHEGPWMAYAEPHVAGHVILDAMRAVRTVEPK
+                     TLGDGKFAIGGYSGGAIAAYAADMLLGEYAPELAGSIVGVSVGGLATDYSEVARHFNGN
+                     IASGILMVVALAFAREHPELLDQLNHLGEWLATSPVKDTCGDSNGPLGVTGVPIELATD
+                     TAHPLDTEAARALFAATDLRDRKSAAPLYIYHGLLDIWIPEVESTDLFRAQCARGVPAV
+                     FRSVLGEHSITLMAGFPGAIDWLDQRLAGVPAPNECPVR"
+     gene            complement(74858..76186)
+                     /GBInterval_from="76186"
+                     /GBInterval_to="74858"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18750"
+                     /old_locus_tag="IRT45_18750"
+     CDS             complement(74858..76186)
+                     /GBInterval_from="76186"
+                     /GBInterval_to="74858"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18750"
+                     /old_locus_tag="IRT45_18750"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003944353.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="LLM class flavin-dependent oxidoreductase"
+                     /protein_id="WP_194807141.1"
+                     /translation="MSERQLHLNAFIYPAGHHEAAWRHPDSRPDRIYDVTYYQEIGRTA
+                     EAATLDAVFFADGPALRTDVRYNAAPGLEPITLLTAIAAATTRLGLIATASTTYYEPYN
+                     LARLFSSLDHISGGRAGWNIVTTGTDLAAANFGLDRHPDHTERYARAREFVDAVVGLWN
+                     SWDDDAVLLDRAAGIYADPDKIHRIDFRGEYLRVRGPFNAARTPQGHPVLVQAGASNDG
+                     RAFAARYAEAIFTAHQRLEDAQTFYADIKRRARDFGRDPEHVKILPGISPFIADTEARA
+                     KQLQREFNELTVPEYGLGQLESLAGESLRNLALDEPVPAALFADAGDVTDNAASRRQVI
+                     AGIVTREQPTLRGLLHRLAGARGHRVFAGTPEQVADTIEDWFRHGAADGFNVMPPYYPG
+                     GLEVFTSTVVPILRSRGLFRTEYTGTTLRDHFGLPRPGSAAAN"
+     gene            76433..78028
+                     /GBInterval_from="76433"
+                     /GBInterval_to="78028"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18755"
+                     /old_locus_tag="IRT45_18755"
+     CDS             76433..78028
+                     /GBInterval_from="76433"
+                     /GBInterval_to="78028"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18755"
+                     /old_locus_tag="IRT45_18755"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_020106358.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="FAD-binding protein"
+                     /protein_id="WP_194807142.1"
+                     /translation="MSEAWQIDADVLVIGGGPAACWAAIHAREAGAEVVLVDKGYCGTS
+                     GATAPAGTGVWYVAPDPAARAAAKASREELGGFLADHHWMDRVLDQTYANMHRLAEEGR
+                     YPFPVDPRTGNAIRTGVQGPEYMRRMRAWVQRLGVRIVDHAPALELLVDRDGTVRGAAG
+                     YLLREHRDYRVHAGAVVLATGGCAFLSRALGTNVDTGDGTLMAAEVGARFSGMEFSNAY
+                     GIAAKGSTVTKTAYYRYATFFHEDGSILEGAGSVQGRSVIARTLLQERVFAQLDRADRT
+                     TQEQMRRGQPNFFLQFDRRGIDPFTQRFEVDLLAEGTVRGTGGIEVVSDECATSVSGLY
+                     AAGDAATRERICGGFTGGGSHNAAWAMSSGSWAGRGAARFARRGVRPAGLTRAGRTGLR
+                     PTGSGRVGADEVLAAARAELLPVEKNYLRHGERVRPALAALDTVWTEAAAGLRATGADR
+                     VRAREAAAITAVGRLMYRSALARTESRGMSKRADHPELDPAQHHHILSGGLDEVWTVAA
+                     ALRSADAPAVAAVA"
+     gene            78028..78366
+                     /GBInterval_from="78028"
+                     /GBInterval_to="78366"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18760"
+                     /old_locus_tag="IRT45_18760"
+     CDS             78028..78366
+                     /GBInterval_from="78028"
+                     /GBInterval_to="78366"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18760"
+                     /old_locus_tag="IRT45_18760"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_009474323.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ferredoxin family protein"
+                     /protein_id="WP_194807143.1"
+                     /translation="MIELVHAPACIACDKCVDVCPTNVFDRGGDGIPVIARQSDCQTCF
+                     MCEAYCPTDALYVDPQSTPLPPQQAVPREHIGAYRREIGWGKGRRPGSLTAVGPELPPG
+                     PAPRPSGA"
+     gene            78532..79836
+                     /GBInterval_from="78532"
+                     /GBInterval_to="79836"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18765"
+                     /old_locus_tag="IRT45_18765"
+     CDS             78532..79836
+                     /GBInterval_from="78532"
+                     /GBInterval_to="79836"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18765"
+                     /old_locus_tag="IRT45_18765"
+                     /EC_number="1.14.-.-"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_019925170.1"
+                     /GO_function="GO:0010181 - FMN binding [Evidence IEA];
+                     GO:0016491 - oxidoreductase activity [Evidence IEA]"
+                     /GO_process="GO:0008152 - metabolic process [Evidence IEA]"
+                     /note="This protein belongs to a clade of FMN-dependent
+                     monooxygenases, within a broader family of flavin-dependent
+                     oxidoreductases, the luciferase-like monooxygenase (LMM)
+                     family, some of whose members use coenzyme F420 rather than
+                     FMN; Derived by automated computational analysis using gene
+                     prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="NtaA/DmoA family FMN-dependent monooxygenase"
+                     /protein_id="WP_194807144.1"
+                     /translation="MGSSARRRPLKIVTGVSGSPKIYDAAIDPRRSTLDDALGVAKLAE
+                     EHRFDALFAADLLSFGAQGAIGAQEPLIFLSALSAVTRRVGLIATVTTTFHHPYNLARL
+                     FGTLDHISNGRAAWNAVTSSLGEENYGAGDLPSPEERYARATEVLEVANALFDSWQPGA
+                     LRPDGHGGAVLDAERVRPIDYAGRYFTVRGPLNIPPLPQRRPVQFQAGQSEGGVELGAR
+                     FAEVVFTSLATLDDALTYTKKIRTRAAELGRADGLPYIFSSLHTTYGATEEEARRLVRE
+                     RAEATDFEAGRHALADMLGGEIDLSELPLDRPIPDSLLPDVHAANRRRGRVEIFTALAR
+                     SGKTLRELIIAAKDTGHWAAAGTPGQLADAIEERYDAGVLDVIGLGGLDDPRNRDFLLE
+                     GLLPELRRRGIVGTDYVGETFRDNLELPALPPRNE"
+     gene            complement(79845..80792)
+                     /GBInterval_from="80792"
+                     /GBInterval_to="79845"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18770"
+                     /old_locus_tag="IRT45_18770"
+     CDS             complement(79845..80792)
+                     /GBInterval_from="80792"
+                     /GBInterval_to="79845"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18770"
+                     /old_locus_tag="IRT45_18770"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_019927760.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="NADP-dependent oxidoreductase"
+                     /protein_id="WP_194807145.1"
+                     /translation="MLAIGFEEPGGPEVLRPVEVPEPHAGAGEVRIRVAAAAVNPSDTV
+                     TRSGMAHDRYREVTPPYVPGWDAAGIVDEADPETGWRSGDRVVAITLPVLAGGGAYAEK
+                     IVVPAGQVARLPEGSDFVSAATLPMNGLTAWFALDALDPRAGRTIAVTGAAGAVGGYVI
+                     QLAKTRGYTVIADAKPADEQLVRDFGADIVLPRGEDLASRIRAHAPDGVDALIDTALQG
+                     DAVLAAVRDGGAFVILRPAALGGGATPERGISVHLVMVADHLDEPHALSELSRLAAEGA
+                     LTLRVARTFPADRAAQAHELLEAGGVRGRIVLEF"
+     gene            complement(80929..81798)
+                     /GBInterval_from="81798"
+                     /GBInterval_to="80929"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18775"
+                     /old_locus_tag="IRT45_18775"
+     CDS             complement(80929..81798)
+                     /GBInterval_from="81798"
+                     /GBInterval_to="80929"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18775"
+                     /old_locus_tag="IRT45_18775"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_006895021.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="class I SAM-dependent methyltransferase"
+                     /protein_id="WP_228534572.1"
+                     /translation="MITPRPGRTVTGMQVGQPSRTAMATAQARAHHQLADEPRIFTDPL
+                     AVRIVGGEEAARDNPFDQGVDPELARRRRLFLATRSRFADDAVAEAVAGGTRQVVVLGA
+                     GMDTAAYRNPHADVRFFEVDHPDTQAWKRNRLSEAGIEVPHSMTFAPVDFHRDNLADAL
+                     AQAGLDRTRSAVYVWLGVVVYLEHDAIAATMRYIARQGGGAVLVFDYSYPPDAGQQARG
+                     KRVAAVGEPWVSFFTEEQMRGELESAGFTDIEDHSGIALVRSYTEIPADGPALPGPHLV
+                     RARTAANG"
+     gene            81898..82698
+                     /GBInterval_from="81898"
+                     /GBInterval_to="82698"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18780"
+                     /old_locus_tag="IRT45_18780"
+     CDS             81898..82698
+                     /GBInterval_from="81898"
+                     /GBInterval_to="82698"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18780"
+                     /old_locus_tag="IRT45_18780"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_011211055.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="nuclear transport factor 2 family protein"
+                     /protein_id="WP_194807146.1"
+                     /translation="MSANASAAQLLATVERSPQAVAVHDRAAWVNLFAPDGRVEDPVGS
+                     RPHLGRQAIERFYDTFIGPNHIVFHGDHDVVRGATVFRDLALAPTMSTGVTLRVPMHLR
+                     YDLTPVGGDWKIARLYAHWELPVMVGQLLAAGGRGLSAATKLAPQLLGNQGIGGAVGFS
+                     RGFIRVGAAGKRAATGLLEAAGRGDVAGVRAVLSPRAVVEWPAGSDVGHAEFVKRVRGL
+                     EVGKTIAAGRFVTVSVRTPTERGIAELEVDGRRVVTLRGFVAED"
+     gene            82868..83980
+                     /GBInterval_from="82868"
+                     /GBInterval_to="83980"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18785"
+                     /old_locus_tag="IRT45_18785"
+     CDS             82868..83980
+                     /GBInterval_from="82868"
+                     /GBInterval_to="83980"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18785"
+                     /old_locus_tag="IRT45_18785"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807147.1"
+                     /translation="MAGLVVAASVVCLLPRWWCGREADAWFRGDAARVHGLAEELVAFE
+                     ADDDRQRAAGSGALDGMWGLLAHQMTAQGLAQVVLAHPEWRGRYAPIATRAATKSLLPQ
+                     MRSVFTDAWHGEDGLAHLDSVHGHAYLSYSALALGMARLVDPAFPPDLAEELDAIVAAL
+                     ERRLLAAPTALIDTFPGEAYPTDVAAVAAAIAVHGRATGADHSAVLAHWARQVRAVQID
+                     GGTGLIIQRMGVDGRAHDAPRASGTGLAAYFAGFADRALAAQLANAVFGQERSVLGFSA
+                     VHEYGHGHSGPGDMDSGPVILGISVSATGFALAPARAFGHRDLFTRLFRTTDLLGVPVR
+                     SGDRLRFATGGVIGNALLLAFLTSGPELAR"
+     gene            83977..84351
+                     /GBInterval_from="83977"
+                     /GBInterval_to="84351"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18790"
+                     /old_locus_tag="IRT45_18790"
+     CDS             83977..84351
+                     /GBInterval_from="83977"
+                     /GBInterval_to="84351"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18790"
+                     /old_locus_tag="IRT45_18790"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807148.1"
+                     /translation="MKRPDSTQVLAALRPLRIPLVLLVLYLALYAVMAALSARHGYGSP
+                     DGLGFGYLAVTAAVVVLRVALLIIVPAVLAYRLAVCVPAQFIAKPSVEKVKPFPEASSR
+                     HDTPESRAVQMKPSADRDVL"
+     gene            84628..85035
+                     /GBInterval_from="84628"
+                     /GBInterval_to="85035"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18795"
+                     /old_locus_tag="IRT45_18795"
+     CDS             84628..85035
+                     /GBInterval_from="84628"
+                     /GBInterval_to="85035"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18795"
+                     /old_locus_tag="IRT45_18795"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807149.1"
+                     /translation="MAKYDRASATATPGIAIFDSAADVPAGEAVPTLRTSETASLSPTA
+                     WPAEPPHPTMPIVSTQIDIVTNGERTARLFIARFPKPSRSHQVRVVGRLAAERLPIIAG
+                     LDGVHNKLFDRHPRRSSPSRVRRAECRTARR"
+     gene            complement(85069..85929)
+                     /GBInterval_from="85929"
+                     /GBInterval_to="85069"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18800"
+                     /old_locus_tag="IRT45_18800"
+     CDS             complement(85069..85929)
+                     /GBInterval_from="85929"
+                     /GBInterval_to="85069"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18800"
+                     /old_locus_tag="IRT45_18800"
+                     /EC_number="3.8.1.5"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_019049794.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="haloalkane dehalogenase"
+                     /protein_id="WP_194807150.1"
+                     /translation="MMIDFVPDKSLYPFESRWFDSSAGRMHYIDEGSGPTILFCHGSPT
+                     WSFLYRHIVTELRDRYRCVAVDYPGFGLSERPSDFGYTVAELTAVLGELIDHLRLDEFI
+                     VMGQDWGGPIGIGAAVTRADRVRGIVLGNTVLWPIEAMANKAFSTIMSSRPMQRRILEQ
+                     NFLIERVLLSELGRTLTATEAEHYRAVQPTAAARRGLAVMPGEIRAATPLLEQLSRDVR
+                     TFLGDKPTLLVWGMRDPVFRPKACIPRMRAAFPDIETVELPHARHFIQEHAPDEIARAI
+                     ANRFP"
+     gene            86112..86306
+                     /GBInterval_from="86112"
+                     /GBInterval_to="86306"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18805"
+                     /old_locus_tag="IRT45_18805"
+     CDS             86112..86306
+                     /GBInterval_from="86112"
+                     /GBInterval_to="86306"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18805"
+                     /old_locus_tag="IRT45_18805"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807151.1"
+                     /translation="MSKRFAAAALTAAALVLPLAAAAPSASADTTGTGSSSGSADALSN
+                     LICEFRDYLGMGGCVYHMP"
+     gene            86370..86927
+                     /GBInterval_from="86370"
+                     /GBInterval_to="86927"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18810"
+                     /old_locus_tag="IRT45_18810"
+     CDS             86370..86927
+                     /GBInterval_from="86370"
+                     /GBInterval_to="86927"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18810"
+                     /old_locus_tag="IRT45_18810"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_019047741.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="NADAR family protein"
+                     /protein_id="WP_194807152.1"
+                     /translation="MQARSVPELIDLLAAGVQVQYLPFWGHQPQRDGAIGAGCLSQWWP
+                     AEFVVGELTFRTAEHYMMWRKATLFGDTATAEQVVAAEHPREAKTLGRRVAGIDEKVWE
+                     AERYAIVVAASTAKFGQHEHLREFLVRTSDRVLVEASPVDRIWGIGLAADDPRAEDPAR
+                     WQGLNLLGFALMDARDAVRTAH"
+     gene            86991..87149
+                     /GBInterval_from="86991"
+                     /GBInterval_to="87149"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18815"
+                     /old_locus_tag="IRT45_18815"
+     CDS             86991..87149
+                     /GBInterval_from="86991"
+                     /GBInterval_to="87149"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18815"
+                     /old_locus_tag="IRT45_18815"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807153.1"
+                     /translation="MTTALITGAGAGFGRDTAFRLAERTGFDVIAGVEISARVWELEQE
+                     ANRRGVG"
+     gene            87311..88732
+                     /GBInterval_from="87311"
+                     /GBInterval_to="88732"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18820"
+                     /old_locus_tag="IRT45_18820"
+     CDS             87311..88732
+                     /GBInterval_from="87311"
+                     /GBInterval_to="88732"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18820"
+                     /old_locus_tag="IRT45_18820"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014983421.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="serine hydrolase domain-containing protein"
+                     /protein_id="WP_228534573.1"
+                     /translation="MNDNALHTIADRIRSQVDAFCETDKVPGYVTGVYHAGEQILVSHG
+                     TANLATGAPMREDTDFLFGSVTKVLTTTLVLQQVERGLLKLDAPVVDYLPEFALAEPGA
+                     ADKILVRHLISHTNGIDADLFFPDAEGRDALKHYVEGLATCGALFAPGEQLSYSNGGMI
+                     VAGRLLEVVTGTPYSDLLQRELFDPAGMTTSSTSARQAILRSTAVGHFIDPDTGSVEPT
+                     GMFMLPDTWGPAGGTPIGTVADLLAFGRIHLAGGVAPTGVRVLSAESTATMQRVAHDMH
+                     TPNVPPMGLGWVRYPFGDTTVLAMSGASPGGVSILCVVPEYDLVFTAFGNTSGAIVLHD
+                     RLLRRLLTEHLGVEIPTLVDEFDAEFDLTPYAGTYRSGQLRVDVHVVEGQLEERVTYEP
+                     DDPTQERIFTAFAGGATSAPPQRYVPVRPGLFAPAGYPPEIFDGYLRLLLVSYHDIRDG
+                     RARFRNAGGRLTRRW"
+     gene            88761..89492
+                     /GBInterval_from="88761"
+                     /GBInterval_to="89492"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18825"
+                     /old_locus_tag="IRT45_18825"
+     CDS             88761..89492
+                     /GBInterval_from="88761"
+                     /GBInterval_to="89492"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18825"
+                     /old_locus_tag="IRT45_18825"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014983420.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="MerR family transcriptional regulator"
+                     /protein_id="WP_194807155.1"
+                     /translation="MLTIGQLADYAGVTVKAVRHYHQRGLLAEPDRDASGYRRYTAQHA
+                     IDLVKIRTLAHAGVPLARVAQLLDADPGALAAALAEIDHDLEQRIEQLRRTREQLTQLR
+                     GGDRLYVSADVADHLDELRELGVSERQIQLERDGWILMQTASPAAAVAWVAEKRALLED
+                     SEFRAIYLDYDAVHECSPEDPRLPELAARTREWFARRDNGESAVPDHDATIARLAVQSQ
+                     PGASSPAWDRLAELMREPSVE"
+     gene            89665..90918
+                     /GBInterval_from="89665"
+                     /GBInterval_to="90918"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18830"
+                     /old_locus_tag="IRT45_18830"
+     CDS             89665..90918
+                     /GBInterval_from="89665"
+                     /GBInterval_to="90918"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18830"
+                     /old_locus_tag="IRT45_18830"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014988246.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="cytochrome P450"
+                     /protein_id="WP_194807156.1"
+                     /translation="MLNDADAVHDSGRTSGHGSPARSAEPQIRLDSTDFAADPHRAYES
+                     MRRRGPLVPIELAPGVPATLVIGYQAALQILNDEARFPADPRRWEKNAPPDCPVTPMLG
+                     YRQNALRTAGAEHARYRRTITDALDTVNLHKVHGAVARAADALVNSFCERGTADLRMDY
+                     AFPLTFRVLSELMGFPEDAASAAYQGMAAMLDGVGAEEGQQRFIEALLAVVEQKRERPG
+                     DDLTSRLLTHPEGLDPMEMVNQAALLFSAGTEPTCNLILNTLLLLMADEEYGGNVLSGA
+                     MDTRDAIDEVLFADPPLANFCMTYPRQPQLIGDVWLPADQPVVVSLAACNTDPHIVGGD
+                     RRGNRSHLAWGVGPHSCPAQPLAQTIARQAIDLLLDALPDIRPEVPAQQLSWRTGQFHR
+                     ALAALPVVFPACPPMRLT"
+     gene            90932..92185
+                     /GBInterval_from="90932"
+                     /GBInterval_to="92185"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18835"
+                     /old_locus_tag="IRT45_18835"
+     CDS             90932..92185
+                     /GBInterval_from="90932"
+                     /GBInterval_to="92185"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18835"
+                     /old_locus_tag="IRT45_18835"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_011208825.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="cytochrome P450"
+                     /protein_id="WP_194807157.1"
+                     /translation="MTDTQPLVLDPSAADIQGELARIRARGPVAEVVLPGGVPAWSVTD
+                     AAVLRQLLTDPRVSKDAHQHWPRFLDGEIGPDWVMFPWVAARNMLTTYGEQHQRLRKLV
+                     APAFTNKRTQALRSRIEAFVAELLDELSAAADGEIVDLRAGFATELPIRVIGELMGVPA
+                     GMDEQLRIHADGILDTSLDPAEVGAHFGALFVLMEELLRHKRENPGDDLTTVLMNAHDD
+                     ADGSRLDEQELRDTLLLIITAGHETTANLLDHSIVGLLTHPEQRKAAIAEQTPWSEVIE
+                     EGLRWNAPLAHMPMRFAVEDIDIPGNSDRPGVRINRGDVIIASLAGAGRDRKVHGDNAD
+                     VFDAGRRSKEHLAFGYGVHHCLGAPLARLEATIALPALFERFPDMELAMDPAELRSIPS
+                     IVTNGHREIPVHRTARTS"
+     gene            complement(92433..93272)
+                     /GBInterval_from="93272"
+                     /GBInterval_to="92433"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18840"
+                     /old_locus_tag="IRT45_18840"
+     CDS             complement(92433..93272)
+                     /GBInterval_from="93272"
+                     /GBInterval_to="92433"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18840"
+                     /old_locus_tag="IRT45_18840"
+                     /inference="COORDINATES: protein motif:HMM:NF013429.2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TIM barrel protein"
+                     /protein_id="WP_194807158.1"
+                     /translation="MTLSDLTLRNADVGTRCAAAAAAGFTGIGLSVEHYRAALKDHSTP
+                     ADISAVVTEHGLQVDEVELAAHWADPAAYSEDELESDRLVVRMAAELGATRIHTAMSQQ
+                     FPFGTLARGLRELCYRAADSGAVVALEYMPYAAIDSATSAWKLIEASGADNAGLLIDAW
+                     HWQRAHTADEPVPASSHSAGAGGGDPIVRHPARTVVRPSPRGAALSPAARSRWAALIPM
+                     LRRLARHGVRAPIAVEVVSDELDAQDPYVTARQAYASSRRVLRDSGWPVSSPRRSVR"
+     gene            complement(93913..94863)
+                     /GBInterval_from="94863"
+                     /GBInterval_to="93913"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18845"
+                     /old_locus_tag="IRT45_18845"
+     CDS             complement(93913..94863)
+                     /GBInterval_from="94863"
+                     /GBInterval_to="93913"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18845"
+                     /old_locus_tag="IRT45_18845"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014986263.1"
+                     /GO_function="GO:0003700 - DNA-binding transcription factor
+                     activity [Evidence IEA]; GO:0043565 - sequence-specific DNA
+                     binding [Evidence IEA]"
+                     /GO_process="GO:0006355 - regulation of DNA-templated
+                     transcription [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="helix-turn-helix domain-containing protein"
+                     /protein_id="WP_194807159.1"
+                     /translation="MHRVVALVRPVQSTFELGCAVEVFGTQRDGVPQYYEFEVCTEAPG
+                     AVPTTAGYAISVSRGLAALESADTVIIPGWLPVETPLSGPVRRALVRAHGRGARLVTIC
+                     SGVFALARTGLLDGRSATTHWARAGQLAREFPRVRVEPDRLYVDHGDVATSAGAGAGID
+                     LCLHLVRTDHGAAHAALIARHMVMPPHRDGGQVQYAPPSPVEDGFDGLLEWAEARLETS
+                     LSVADMAAHLNVSPRTLARRFAEQVGTSPGGWLLERRVARARVLLEDTDLPVDAIAVRV
+                     GLGSAVNLRRRFHDQVGTTPGAYRRAFQTPAAGKT"
+     gene            94935..95270
+                     /GBInterval_from="94935"
+                     /GBInterval_to="95270"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18850"
+                     /old_locus_tag="IRT45_18850"
+     CDS             94935..95270
+                     /GBInterval_from="94935"
+                     /GBInterval_to="95270"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18850"
+                     /old_locus_tag="IRT45_18850"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_007621856.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="cupin domain-containing protein"
+                     /protein_id="WP_194807160.1"
+                     /translation="MNPEILTQPGYTWTDLADAPSRELFPGIRLRHLWKGDNGAHAHVL
+                     EMDPGTSWPRRDVHEPGPEEVYVLTGTFNDGARDYSAGTFLHAPAGSWHVPGSETGCTL
+                     FLFYPEG"
+     gene            95377..96549
+                     /GBInterval_from="95377"
+                     /GBInterval_to="96549"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18855"
+                     /old_locus_tag="IRT45_18855"
+     CDS             95377..96549
+                     /GBInterval_from="95377"
+                     /GBInterval_to="96549"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18855"
+                     /old_locus_tag="IRT45_18855"
+                     /inference="COORDINATES: protein motif:HMM:TIGR02679.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TIGR02679 family protein"
+                     /protein_id="WP_228534590.1"
+                     /translation="MIVWRALHRRFGSGTTVTSVRVGPLSVAEREALADLLGMAILPPE
+                     VCSIRVDQLDSALTESVGMTAHQVVKELVGPIENRSAARAEQAGRRRELWNWLDTHPVV
+                     RSQPALGEWAHAMRRAGIIGGSVDTTRDLLAEALAVLHAIPAPGTPLPVFAEQTLRDPH
+                     GLDNGTRLQAIVFRGLAAIHDCDVPRDAARVRSFWETAGVADDELSSTVLAAGLRVAGS
+                     GSVLEAMLAVCAAAGSAASLTLQQVRTAQQLDVVPEVVRVVENPSVLASALRRFGPSCA
+                     PIVCTAGWPSSAGIRLLDLLSTAGARLEYHGDFDGEGLRIAAHVIARTGAHPWRMGSAD
+                     YLASVGPGGPPVGRVSEAPWDSDLASHMRRTGVSVPEERVVEILLDDLAL"
+     gene            96599..98113
+                     /GBInterval_from="96599"
+                     /GBInterval_to="98113"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18860"
+                     /old_locus_tag="IRT45_18860"
+     CDS             96599..98113
+                     /GBInterval_from="96599"
+                     /GBInterval_to="98113"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18860"
+                     /old_locus_tag="IRT45_18860"
+                     /inference="COORDINATES: protein motif:HMM:TIGR02677.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TIGR02677 family protein"
+                     /protein_id="WP_194807162.1"
+                     /translation="MDPIRVPPEMFRFTGAERSGLYTAVLHAFGEANEHLETALSLDNL
+                     RSRLPSVGRLEPVADDELAEVLDQLRAWNLVDVIQNHSENYRTAIDYERRNLLYSLTKM
+                     GEAAFAGVVHALTVLASSGALQTAVLDAIADRLADLIRVSESGTNRQVYVVLAELEGHL
+                     EALRSGTKQFNGELQRLLRADGVDLVVFHEVKAATVAYLQEFLDDLDIRAHTIAMRIRQ
+                     LEDFGVARLQQRALAGADLPAFSGTDPRPAWLEQRRARWAGLRAWFLPADGSVPRVDQL
+                     RHVGRRAIVTLLQFLDRLTESRRRSSNASADFRELARWFAIIPAGDDLNRLWSTVFGLS
+                     PARHAHLAHPDPELVSYTASWIEAPGVPVSPLLRTAGKTERMGRTGAVPDVSALRKERA
+                     AKAIAERAEIQAAWDMLDTGGTARRLSEFEQLDHAMFQRLLDLIGRALGSAPDAEGVRS
+                     ARAHDGRIQIVLRPAADGAVAELRLPHGVFRGPDYLVEIRAVGARR"
+     gene            98110..99366
+                     /GBInterval_from="98110"
+                     /GBInterval_to="99366"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18865"
+                     /old_locus_tag="IRT45_18865"
+     CDS             98110..99366
+                     /GBInterval_from="98110"
+                     /GBInterval_to="99366"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18865"
+                     /old_locus_tag="IRT45_18865"
+                     /inference="COORDINATES: protein motif:HMM:TIGR02678.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TIGR02678 family protein"
+                     /protein_id="WP_194807163.1"
+                     /translation="MSDLTNQLAIAEKEEVGRGIRYLLAEPLLTARSAPDRFDVVRRRR
+                     VPIAAWFDTFCGWGLIVEPRVGYARLRKVRTSVDPTRPARRHRSQRTPFDRRRYVLLCV
+                     VAAELCTVPVTTIGILADNVAAATANEPLISGFDPVDRAERRAFVDVLRLLESFGVLET
+                     VDGSSDTYVDSTQAKVLYRVDNTLLLRLLVTTSGPSQLGVPAEEVPLRLPDVLGELTRE
+                     RRYGAAAEHRGRHTDSPAAPDAQRNLWLRHSVFRRLVEDPVLYFDTLTDAERAYLATPT
+                     GRQMLKRAADTAGFVLEERAEGVMFVDPEALSTDQKFPDDAATAKVAALLLLEELTGPT
+                     TVEQLRRHAAELLQRFPRWARSYRTDDGPGDLVTDALAVLTQFQLVRTTTAGLVVPLPA
+                     AARYRVQQPRLADPTQEQS"
+     gene            99363..103355
+                     /GBInterval_from="99363"
+                     /GBInterval_to="103355"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18870"
+                     /old_locus_tag="IRT45_18870"
+     CDS             99363..103355
+                     /GBInterval_from="99363"
+                     /GBInterval_to="103355"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18870"
+                     /old_locus_tag="IRT45_18870"
+                     /inference="COORDINATES: protein motif:HMM:TIGR02680.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TIGR02680 family protein"
+                     /protein_id="WP_194807164.1"
+                     /translation="MTAAAQVRWTPTRAGILNIWRYYREIFEFHEGRLLLRGANGSGKS
+                     KALELLLPFLFDASLRANRLSTFGTNERTMHWNMMGEGATGVTRVGYVWLEFRQQDRWF
+                     TCGARLQATSRTTSVHPDFFTTSQRIGEPGEEGVLVLTDSERPIGKSELDARIGEYGDV
+                     YENAAEYRNAVRTTLFPELSEQRYDALITALLQLRMPKLSQRLDPGLLSTLLSKALPPL
+                     GTDELADLAEGFERLDAQRERLARLDEESAAVAKLAHQQRTYAQRVLRAHAGELVSVTT
+                     ELDTLSEQAREAAGQHGAAKQQLMDIEQKVIELEQAHAQSVSRREGLMKSHAYQEGAKL
+                     DDLRANVAKAQRWYDDAQGRARREAAAAEKAAQRYQQAQDAAVSWRETVALAATEVRQA
+                     ALSCGMSATVDEMAESLALPECSGLLRNSVAAREDRIRLVERDIAEHEKKRALSEAEEK
+                     RVEQARDKLTAADERLHTAGDERDRALESLRHDIEEWVQSCSELLLDAELLVSVADSDT
+                     GFAERVNEAVTAARETIAAAIEACRRDKEGAVAERERPAADREKLLTEQDVPPAAPGWR
+                     TADRSVMTGAPLWQLVEFAPALDSATAAAIEAALESSGLLDAWIGSRGEIAGHDIFADP
+                     DAVQAVAGESLADVLTVHDEGGVATESVRKVLAAISFGRTLTDGPAMAVAADGSWRIGN
+                     LHGSWAKPAATYIGAEARRRNRERRLAELDSLIAEIDRHIEDYDLQLEMLSNRRRSIDD
+                     DMRAQPDRSAFRSARTAFADADRNRDSVDQELRTAIDALRSAQAAQTAALQNLHMRSAE
+                     SGLPTETAALEALRATLKSFQGKAQTWLDHRRDLRHAESDERATAEDSEDKAEEAQRSA
+                     ENEERAASELRDAGEQLRAVEDSVGMEYREVLNEIATLQGEISTTADSLKAERTRERDW
+                     TGKEAALGTKAEAAAQAHRDKTAERDLIAQRFRELAGGNLPADAEIPESESFRELLTGS
+                     GGVRAALDAARKVTAAWPTVPHTANNIGDALRRLSESVHECRTSLSARADLDLESDGDI
+                     QLFTAVVDGVRVGAAGLKDILRREADQSRNDITQHEHELFDKTLTGDTRRHLASRIRQA
+                     NALVDAMNEHLSRVRTASDVGVQLRWQVGKDLPPGTAAARELLLKDPARLNDADREALH
+                     RFLRDRIEEAKAADSATSWEQQLAEVFDYTRWHQFTVRIDRGRGEGFQELTKKLHGALS
+                     GGEKAIALHLPLFAAVAAHYHASPTAPRVILLDEVFVGVDTANRGQIFALLSALSLDLV
+                     LTSDHEWCTYPELSGIAIHQIVTGDDSDAVTTVRFTWNGAELEAAA"
+     gene            complement(103377..103988)
+                     /GBInterval_from="103988"
+                     /GBInterval_to="103377"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18875"
+                     /old_locus_tag="IRT45_18875"
+     CDS             complement(103377..103988)
+                     /GBInterval_from="103988"
+                     /GBInterval_to="103377"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18875"
+                     /old_locus_tag="IRT45_18875"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014981706.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Uma2 family endonuclease"
+                     /protein_id="WP_194807165.1"
+                     /translation="MTWDELSALPEEIAEHIELWEGRVVWMPHCPPEHHEFTNLVWNGL
+                     SACATTALKADLKQCWRVSTETNVFFGRTGMSDFVTPDFMVYRCLPEPYQDVRSDRVVL
+                     VGEVLSPSNSDADMEAKKARYARAAIPWYWEVTLATHRSEIAHIHAYTLIPEVKPPDPG
+                     ITVLHRANYVLAGAWSPTDAGAVTINHPFPISIPWSELEF"
+     gene            104336..104800
+                     /GBInterval_from="104336"
+                     /GBInterval_to="104800"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS37010"
+     CDS             104336..104800
+                     /GBInterval_from="104336"
+                     /GBInterval_to="104800"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS37010"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_228534574.1"
+                     /translation="MALNRPLDAAQQAEARALSTRARITDTSFVNEHHWRAFGGDPSRV
+                     LERVLDLDAVDRFQLDEHVTAWTLGRHAIIELSTEQDDEPDWTATPSRGCPKSRACGAN
+                     SRSATCARSTWPGWPGTAPGNALDGAARNRAEHERREHTARLALRAEQQA"
+     gene            complement(105335..105783)
+                     /GBInterval_from="105783"
+                     /GBInterval_to="105335"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18885"
+                     /old_locus_tag="IRT45_18885"
+     CDS             complement(105335..105783)
+                     /GBInterval_from="105783"
+                     /GBInterval_to="105335"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18885"
+                     /old_locus_tag="IRT45_18885"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_009476002.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=3
+                     /transl_table=11
+                     /product="phospholipase D-like domain-containing protein"
+                     /protein_id="WP_228534575.1"
+                     /translation="FRRGTLGVDAPRLLRGFRRGDRLVVNASREAVASHSTSPAAIREL
+                     LERGVEVYSLAQLHAKVITTADYAVIGSANASANSEMSDEAVVITDQKSVVREARSFID
+                     ALIADADISPRTITSSRCGTGHRLKFSFPGCPAGPRKRNCYPAE"
+     source          1..105782
+                     /GBInterval_from="1"
+                     /GBInterval_to="105783"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /organism="Nocardia sp. BSTN01"
+                     /mol_type="genomic DNA"
+                     /strain="BSTN01"
+                     /isolation_source="water stored on latex collecting cup
+                     from wastes of rubber industry"
+                     /db_xref="taxon:2783665"
+                     /country="India: Tripura"
+                     /lat_lon="23.61 N 91.32 E"
+                     /collection_date="2016-02-02"
+                     /collected_by="Biraj Sarkar"
+                     /identified_by="S. Mandal & B. Sarkar"
+     gene            complement(191..724)
+                     /GBInterval_from="724"
+                     /GBInterval_to="191"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18405"
+                     /old_locus_tag="IRT45_18405"
+     CDS             complement(191..724)
+                     /GBInterval_from="724"
+                     /GBInterval_to="191"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18405"
+                     /old_locus_tag="IRT45_18405"
+                     /inference="COORDINATES: protein motif:HMM:NF012514.2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="NUDIX hydrolase"
+                     /protein_id="WP_194807087.1"
+                     /translation="MSAVERPLYERDPDAYAAHIAEGNATLPRKLVSADVLLLDQHGQI
+                     LLVDPNYKPGWDLPGGNVKANEPPDIGAQRELHEELGLDLPTSDLHLLCVDWVSPHSKW
+                     DDWLKFIFGGIELTDTQLASLHINDPELTAYELCSPNQAQQRLNTALWKRVDAALHARQ
+                     TGQVAYLHDGLPPR"
+     gene            complement(791..2227)
+                     /GBInterval_from="2227"
+                     /GBInterval_to="791"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18410"
+                     /old_locus_tag="IRT45_18410"
+     CDS             complement(791..2227)
+                     /GBInterval_from="2227"
+                     /GBInterval_to="791"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18410"
+                     /old_locus_tag="IRT45_18410"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="helix-turn-helix transcriptional regulator"
+                     /protein_id="WP_194807088.1"
+                     /translation="MEPASGRHPLSCRGCRRELAADNTTRLCGTCTSNTRQHLIEPPAL
+                     MPGFWDHPPIKQALAERHMGRIIAAYRRHPAHGAAVRQADVARWAGISQVRISRIETGP
+                     PIRHMDSLVFWAKLLGIPYHLLWFQMPGHSYPAPAPPRTSAPAPVTGPYRLLRLDTHLP
+                     AEHRDMAVVQSLRSADLTMGGGHLYSELTHYLTSDLAPRLFFGEDDADPALFVVAAGLV
+                     EMAGWMAHDAGHDERARRQFTRARELAKIGPDRQLPVHILASLSHIDLHNGQPKSAIRH
+                     AYDAESALSKAPSSPELKARLFAMQARGLAALGEARQTHAMLDRAADALHSSTAYPLSP
+                     WVSRFDNASLATEAARCARQLGQLHRAAEHAQHVLELRPPERARARAFAQLTLATILAQ
+                     QGHPEQACTMATEVIANTTDMASHVLVRHLSDLAGHLKPYRSSPTVIAFGEHLRETIRA
+                     RTWIPAMVINQTSTRLTTMT"
+     gene            2407..3594
+                     /GBInterval_from="2407"
+                     /GBInterval_to="3594"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18415"
+                     /old_locus_tag="IRT45_18415"
+     CDS             2407..3594
+                     /GBInterval_from="2407"
+                     /GBInterval_to="3594"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18415"
+                     /old_locus_tag="IRT45_18415"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014349836.1"
+                     /GO_function="GO:0020037 - heme binding [Evidence IEA];
+                     GO:0005506 - iron ion binding [Evidence IEA]; GO:0016705 -
+                     oxidoreductase activity, acting on paired donors, with
+                     incorporation or reduction of molecular oxygen [Evidence
+                     IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="cytochrome P450"
+                     /protein_id="WP_228534566.1"
+                     /translation="MDLDRSTMVCPRRYPFGADHHTLDLEPDYGDCGSVAQVVLPSGLT
+                     AWLVIEHALVRQVLADPVFSRELANRPEVARLSTEVLPAAAILATDPPRHTRLRTLIAR
+                     MFAPGQVDATGPRIAELAVDLLEDLVAAGPPADLLTGWVEPYAAAVVCEIFDVPAHFRE
+                     QVFTLSDALTARDATPQALAAARAECEDLARAMAEENPGGLFGLLGDSAEFDDEVINLV
+                     IACLIGGRGSPTVFLSSAIFALLRERRHYQLLVDRPEAIPAAVEELLRFVPVGVGGGFT
+                     RVARADVQLGPVLVRAGDAVIPAMHAAGRDPAVFDDPDRLVLDRGAKVAHLAFGHGPHY
+                     CVGAHLARLQARIALHTLTTRLPDLRLTDSAEPVSWRHGRVVRALERLEVTWTPA"
+     gene            3579..4328
+                     /GBInterval_from="3579"
+                     /GBInterval_to="4328"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18420"
+                     /old_locus_tag="IRT45_18420"
+     CDS             3579..4328
+                     /GBInterval_from="3579"
+                     /GBInterval_to="4328"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18420"
+                     /old_locus_tag="IRT45_18420"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014349837.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ferredoxin"
+                     /protein_id="WP_194807089.1"
+                     /translation="MDTRLIVDHHRCTGTGVCVSIAPQHLRLVDGTAHPVEGTTLGRDD
+                     ARAAAACCPSEALTIDTNNPAVFRVPEPIVTLGPAGTDAHAEADKHSSTVRLVESFTDT
+                     MACAAADPGVHALVAAGYLALDEAGVAVDSWTDQHFTHSGVLRLERCWESRTKPMCFAI
+                     HRTVPRTSVRAVATHPATRTFAARYAPSARQLSMRAKPLAALAAAHRDVDACIASTDIV
+                     ARFPQLEVVDEFQPTMVWLLYRKASDE"
+     gene            4321..5184
+                     /GBInterval_from="4321"
+                     /GBInterval_to="5184"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18425"
+                     /old_locus_tag="IRT45_18425"
+     CDS             4321..5184
+                     /GBInterval_from="4321"
+                     /GBInterval_to="5184"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18425"
+                     /old_locus_tag="IRT45_18425"
+                     /inference="COORDINATES: protein motif:HMM:NF015411.2"
+                     /GO_function="GO:0050661 - NADP binding [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="NAD(P)-binding domain-containing protein"
+                     /protein_id="WP_194807090.1"
+                     /translation="MSDQSVVAVLGAGIMANTVANTLAANGFELRRYNRTTSAIEGPAI
+                     VCASPAQAAEDATAIWSFVHDDTASRAVWFGTDGALTAVEHGAVVIESSTLSAEYADYW
+                     IRTADSLAARPVLAPVTGSRPAAAHGTLVAFVAGAPDAIDAANPLLRMLSRDVIRVGSA
+                     ADAARLKLVNNALAATILTGLAEALTAAAALGLDRDRVAQVWRQYGWAAPVANAYTSAM
+                     LSGEHELSDCSLKVIAKDLAYTLAGLGAATPPVLAAVADRFQRALAANLGDLEMSAIIE
+                     TYKALS"
+     gene            5181..6341
+                     /GBInterval_from="5181"
+                     /GBInterval_to="6341"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18430"
+                     /old_locus_tag="IRT45_18430"
+     CDS             5181..6341
+                     /GBInterval_from="5181"
+                     /GBInterval_to="6341"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18430"
+                     /old_locus_tag="IRT45_18430"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_194807091.1"
+                     /translation="MTTVTIRDWFTHTATVPAEARCQVNQQLAAYSDTVQACATRYLGK
+                     QVTVCVSGSLARGEPAVRREHNRYRLASDVDLVAIIDTTETAAQAENFRNSVLRHHPQI
+                     ETTVFATGRRDLARVAGRFGADLYSAATRPLAGPVPDPAVMPRLGKREGLEGITHQLAT
+                     RYDPDNSGGDNPWRVKTVLEALRAVADHRPGPHRFSDLPSDPAVRERLDPAIVAQLVRA
+                     RENSTALPITIAEAYRCVIASACWLFGVPATHRDLIDALHTIEQGTHLLDGFQAAVLAA
+                     TIVLDGPITYRRSAASALHVIATAIDPSALITAHDSLRALTAISPIDICRGLEHPNHVL
+                     CQHIQGLRRDYYAWLGPHNFGTHPVAEYRGPALANLAPSTRSADHG"
+     gene            6334..6669
+                     /GBInterval_from="6334"
+                     /GBInterval_to="6669"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18435"
+                     /old_locus_tag="IRT45_18435"
+     CDS             6334..6669
+                     /GBInterval_from="6334"
+                     /GBInterval_to="6669"
+                     /GBInterval_accession="NZ_JADKYP010000021.1"
+                     /locus_tag="IRT45_RS18435"
+                     /old_locus_tag="IRT45_18435"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="cupin domain-containing protein"
+                     /protein_id="WP_194807092.1"
+                     /translation="MDDWPDWIHQLPTVDISFPGEGKLLACKHGQVVLWSFPTGAQVPV
+                     HSHGPQLGFVVTGSVALTLDDQECVIEAGGHFTIGDRVLHGATVAPGTLVVEIFAEHDR
+                     HTAIPTT"
+     CDS             58..163
+                     /Product="Putative tryptorubin precursor"
+                     /Translation="VTPLRPRSPGRPSWRWFATAGRSCQSMRWWAIQS*"
+     gene            58..163
+ORIGIN
+        1 acgaatcagg ccgaaaacac ccttaaatcc acagtcccgg ttgggatgac cgtccgcagt
+       61 gacacccctc aggccgcgat caccggggag gccgtcgtgg cggtggtttg ccacagcggg
+      121 gcgatcgtgt cagtcgatga gatggtgggc tatccagagt taggaccggt tgctgattgg
+      181 cggccgtcgg ttagcgcggg ggaaggccgt cgtggaggta cgcgacttgg ccggtttgcc
+      241 gggcgtggag ggcggcgtcg actcgtttcc atagtgctgt gttgagtcgt tgttgtgctt
+      301 ggttcggtga gcagagctca tatgcggtga gttcggggtc gttgatgtgg aggctggcga
+      361 gttgtgtgtc ggttagttcg atgccgccga agatgaactt cagccagtcg tcccatttgc
+      421 tgtgtggtga tacccagtcc acgcacagca ggtgtaggtc gctcgttggg aggtcgaggc
+      481 cgagttcttc gtggagttcg cgttgcgctc cgatgtcggg gggttcattg gctttgacgt
+      541 ttccgccggg aaggtcccat ccgggcttgt aattcgggtc gacgagcagg atttgaccgt
+      601 gctggtcgag gagtagtaca tcggcgctga caagtttgcg cggaagggtg gcattgcctt
+      661 cggcgatgtg tgccgcgtaa gcgtcggggt cgcgttcgta caggggccgc tccacggcac
+      721 tcataacatc accttcttga ttgaggctgc tacgcgacgg cgtcgcgcac attgctgaac
+      781 tcggggctgg tcatgtcatg gtggtgagac gggtggaagt ctggttgatg accatggcgg
+      841 ggatccaggt gcgggcgcgg atggtttcgc ggaggtgttc gccgaatgcg atcacggtgg
+      901 ggctcgaccg gtagggcttg aggtggccgg ctagatcgct gagatggcgg accaggacgt
+      961 gggaggccat atcggtggtg ttggcaatga cctcggtggc catcgtgcac gcctgttcgg
+     1021 ggtgaccctg ttgggcgagg atcgtggcta gtgtgagttg ggcgaaggcg cgggcgcggg
+     1081 cgcgttcggg tggccggagt tcaaggacat gttgagcgtg ttcggcggcg cggtggagtt
+     1141 ggccgagttg tctggcgcag cgggcggctt cggttgcgag gctggcgttg tcgaatcggc
+     1201 tcacccacgg ggacaacgga tatgcggtgg aggagtggag cgcgtcggcg gcgcggtcga
+     1261 gcatggcgtg cgtttgtcga gcttcgccga gggcggcgag tccgcgggct tgcatcgcga
+     1321 acaggcgggc tttgagttcg gggctgctgg gtgctttgga gagggcggat tcggcgtcgt
+     1381 aggcgtggcg gatggcgctt ttaggttgcc cattgtggag atcgatgtgg ctgagactcg
+     1441 cgagaatgtg aaccggcagc tgccggtcgg gtccgatctt ggcgagctcg cgggctcggg
+     1501 tgaactggcg gcgcgctcgc tcgtcgtggc ctgcgtcatg agccatccag ccggccattt
+     1561 cgaccaagcc cgccgcgacg acgaacaggg cagggtcggc gtcgtcctcg ccgaagaaca
+     1621 ggcggggggc gaggtcgctg gtcaggtaat gggtcaactc gctgtagagg tggccgccgc
+     1681 ccatggtgag gtcggccgac cgcagcgatt gcacgaccgc catatcgcgg tgctcggccg
+     1741 gaagatgggt gtccaggcgc agcagccgat acggtccggt cacgggagcg ggtgcactgg
+     1801 tgcgtggcgg tgcgggcgcg ggatagctgt ggccgggcat ctggaaccac agcaggtggt
+     1861 aggggatgcc gagcagcttg gcccagaaca cgaggctgtc catgtgccgg atcggcggcc
+     1921 cggtctcgat gcggctgatg cgaacttggc tgatccccgc ccagcgggcc acgtcggcct
+     1981 ggcgcacggc ggcgccgtgg gcggggtggc ggcggtaggc ggcgatgatg cggcccatat
+     2041 gccgctcggc cagtgcctgt ttgatcggcg ggtggtccca gaaccccggc atcagtgcgg
+     2101 gcggctcgat gaggtgctgg cgggtattgg aggtgcaggt gccgcacagg cgcgtggtgt
+     2161 tgtcagcggc cagctcgcgt cggcatccac gacagctcag cggatgcctg cctgacgctg
+     2221 gttccatagc ctctgccccc gggatcgtga cgatcgcacc aacactgcga tctgccgagt
+     2281 gtaggcagag ccaagcggtt cgagctggag ttataacccg actcgcatac cgcataacca
+     2341 tttgggcata cgccggccgg ccgcgcgagg tcaaagtgag gtcgattcga actcgaagga
+     2401 gcgacaatgg atctcgaccg atcgaccatg gtgtgccctc ggcggtatcc cttcggcgcc
+     2461 gaccatcaca cgttggatct ggaacccgac tacggcgatt gcggctcggt ggcacaggtg
+     2521 gttctgccta gcggtctgac ggcgtggttg gtgatcgagc acgcgttggt gcggcaggta
+     2581 ctggcagacc cggtcttctc ccgggagctg gccaatcggc cggaggtcgc gcgactgtcc
+     2641 acggaagtgc ttccggcagc agctattctg gcgaccgacc caccgcgaca cacacggctg
+     2701 cggaccctga tcgcgagaat gttcgcaccc gggcaggtcg acgcgacggg cccgcgtatc
+     2761 gcggaactgg cggtggacct tctcgaggat ctggtggctg ccgggccacc agcggacctt
+     2821 ctgaccgggt gggtcgagcc ctacgcggcg gcggtggtgt gcgagatatt cgatgtgcca
+     2881 gcacatttcc gcgaacaggt tttcaccctt agcgatgcgc tcaccgcgcg ggatgccaca
+     2941 ccgcaggccc tggcggcagc acgcgctgag tgcgaggacc tggcgcgtgc gatggcggag
+     3001 gaaaacccgg gcgggttgtt cggtctactc ggcgattcgg ccgagttcga cgacgaggtg
+     3061 atcaatttgg tgatcgcgtg cctgatcggc gggcgcggat caccgacggt ctttctgtcg
+     3121 agcgcaatct tcgctctgtt gcgagagcgc cggcactacc agctgttggt ggataggccc
+     3181 gaggcgatac ctgcggcagt cgaggagctg ctgcggttcg tgccggtcgg tgtcggtggc
+     3241 ggattcaccc gagtcgcccg agcggatgtc cagctcgggc ccgtgctcgt gcgcgccggg
+     3301 gacgcggtga tcccggccat gcacgccgcc ggacgcgatc cagcggtttt cgacgaccct
+     3361 gatcgactgg tgctcgaccg gggggccaag gtggctcatc tggcgttcgg gcacggcccg
+     3421 cactactgcg taggcgcgca cctggctcgt ctgcaagccc gcattgccct gcacaccttg
+     3481 accactcgcc tgcccgatct gcggctgacc gactccgccg agcccgtcag ctggcggcac
+     3541 ggccgcgtcg tgcgagcact ggaacgactg gaggtcacat ggacacccgc ctgatcgtcg
+     3601 accaccaccg ctgcaccggc accggtgtgt gcgtatcgat cgcaccgcag cacctacgcc
+     3661 tggtcgacgg caccgcacac ccggtcgaag gaaccacact gggccgcgac gacgcgcgag
+     3721 ccgccgcagc ctgctgcccg agcgaggcac tcacgatcga cacgaacaat ccggcggtct
+     3781 tccgggtgcc ggagccgata gtcacgttgg gaccggccgg aaccgacgcc cacgccgagg
+     3841 ccgacaagca ctccagcaca gtgcgtctgg tcgagtcgtt caccgacaca atggcctgcg
+     3901 cggcagcaga ccccggggta cacgccctcg tcgccgccgg atacctggcc ctcgatgaag
+     3961 caggcgttgc cgtcgattcg tggaccgatc agcacttcac tcactcggga gtgctacgac
+     4021 tggagcgctg ctgggaaagc cgcaccaagc ccatgtgttt cgcgatccac cgcaccgtgc
+     4081 cacggacatc ggtgcgggcg gtcgcgacgc atccggcgac ccggacgttc gccgctcgct
+     4141 acgcgccctc ggcgcgccag ctttccatgc gagccaagcc gctggccgcg ctcgccgccg
+     4201 cgcaccggga cgttgatgcg tgtatcgcct ccaccgatat cgtcgcccgg ttcccgcaac
+     4261 tcgaggtggt cgacgaattc cagccgacga tggtgtggct gctgtaccga aaggcgagcg
+     4321 atgagtgacc agagcgtcgt cgcggtcctc ggtgccggga tcatggccaa cacggtcgcg
+     4381 aacaccctcg ccgccaacgg gttcgagcta cgccgctaca accgaaccac cagcgccatc
+     4441 gagggaccgg cgatcgtgtg cgcctccccg gcgcaggccg ccgaggacgc caccgcgata
+     4501 tggagcttcg tccacgacga caccgcgagc cgggccgtat ggttcggtac cgacggcgca
+     4561 ctcaccgcag tcgagcacgg ggctgtggta atcgaaagct cgacgctctc tgcggaatac
+     4621 gcggactact ggatacgtac agcggactcg ctcgccgccc gcccggtgct ggccccggtg
+     4681 accggcagcc gcccggccgc cgcgcacggc acgctcgtcg ccttcgtcgc cggtgccccc
+     4741 gacgccatcg acgcggcgaa cccgctgctg aggatgctca gccgcgacgt gatccgggtc
+     4801 ggaagcgccg ccgacgcggc aagactgaaa ctggtgaaca acgctttggc cgcgaccatc
+     4861 ctgaccggac tggctgaagc cctcaccgcg gcagccgcac tcggtctgga ccgtgaccgg
+     4921 gtggcgcagg tgtggagaca atacggctgg gccgccccgg tcgccaacgc ttacacctcg
+     4981 gcgatgctat cgggtgagca tgagttgagc gattgctcgt tgaaagtgat cgccaaggat
+     5041 ctggcctaca ccctcgcggg acttggtgcc gcgaccccac cggtgctggc cgccgtcgcc
+     5101 gaccgcttcc aacgagctct cgcagcgaac ctcggcgacc tcgagatgtc ggcgatcatc
+     5161 gagacctaca aggcactgtc atgaccaccg tcaccatccg cgactggttc acccacaccg
+     5221 ccaccgtgcc ggccgaggca cgctgccaag tcaaccagca actcgccgcc tactccgaca
+     5281 ccgtgcaggc ctgcgcgaca agatatctcg gcaaacaggt caccgtgtgc gtgtccggat
+     5341 cactggcccg cggcgagccc gccgtgcgcc gcgagcacaa cagataccgg ctcgcctccg
+     5401 acgtcgatct ggtcgccatc atcgacacca cggaaaccgc cgcgcaagcc gagaacttcc
+     5461 gcaatagcgt gctgcgacac catccacaga tcgagaccac ggtattcgcc accggtcgcc
+     5521 gcgatctggc tcgcgtggcg ggcaggttcg gtgccgacct gtactcggca gccacacgcc
+     5581 ctctggccgg acctgttccc gacccggcag tgatgcctcg gctcggcaaa cgtgaagggc
+     5641 tggaaggaat aacgcatcaa ctggcgacga gatacgaccc cgataattcc ggcggggaca
+     5701 acccgtggcg agtgaagacg gtgttggagg cattgcgcgc cgtggccgat caccgcccgg
+     5761 ggcctcatcg cttcagcgac ctgccttccg accctgccgt gcgtgagcgg ctggaccccg
+     5821 ccatcgtcgc gcagctggta cgagctcgcg agaacagcac ggccctgccg atcaccatcg
+     5881 ccgaggcgta ccgctgcgtg attgcgtcgg catgctggct gttcggggta ccggcaaccc
+     5941 accgcgacct catcgacgcc ctgcacacaa tcgagcaggg gacccacctg ctcgacggat
+     6001 tccaggccgc cgtgctggcc gcaaccatcg tcctcgacgg gccgatcacc taccgccgct
+     6061 cggcggcatc ggcgctgcac gtcatcgcca ccgcgatcga cccgagcgcg ctcatcaccg
+     6121 cccatgactc gctgcgggca ttgaccgcga tctcgcccat cgacatctgc cgcggcctcg
+     6181 agcaccccaa tcacgttctg tgccagcaca tacagggcct gcgccgcgac tactacgcct
+     6241 ggctcggccc tcacaacttc ggcacccacc ccgtcgccga ataccgaggc cctgccctcg
+     6301 cgaacctcgc gccatcaaca aggagcgccg atcatggatg actggcccga ctggatccat
+     6361 caactcccta ccgtcgacat ctcgttcccc ggcgaaggaa agctgctggc atgcaagcac
+     6421 ggccaggtcg tgctttggtc gttcccaacc ggggcccagg tgcccgtcca ctcccatggc
+     6481 ccgcagctcg gcttcgtcgt cacaggaagc gtcgctctca ccctcgatga ccaggaatgc
+     6541 gtcatcgagg ccggcgggca cttcacgatc ggcgatcgag tcttacacgg cgcgaccgtg
+     6601 gctccgggca cgctcgtggt cgagatattc gccgaacacg accggcacac cgccatccca
+     6661 acgacatga
+//

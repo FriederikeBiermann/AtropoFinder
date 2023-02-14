@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>AJW76719.1</td>
+              <td>DsaQ</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001196/1">BGC0001196</a></td>
+              <td>NRP</td>
+              <td>36.0</td>
+              <td>89.1</td>
+              <td>170.0</td>
+              <td>1.57e-49</td>
+          </tr>
+    
+          <tr>
+              <td>ARW71474.1</td>
+              <td>LacI_transcriptional_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001812/1">BGC0001812</a></td>
+              <td>Polyketide</td>
+              <td>35.0</td>
+              <td>97.7</td>
+              <td>152.0</td>
+              <td>1.51e-42</td>
+          </tr>
+    
+          <tr>
+              <td>EHN79453.1</td>
+              <td>HTH-type_malR-like_transcriptional_regulator_ScarC1</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000804/1">BGC0000804</a></td>
+              <td>Saccharide</td>
+              <td>36.0</td>
+              <td>98.6</td>
+              <td>150.0</td>
+              <td>1.96e-42</td>
+          </tr>
+    
+          <tr>
+              <td>ATJ33995.1</td>
+              <td>LacI_family_transcription_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001497/1">BGC0001497</a></td>
+              <td>Polyketide</td>
+              <td>35.0</td>
+              <td>89.1</td>
+              <td>136.0</td>
+              <td>4.26e-37</td>
+          </tr>
+    
+          <tr>
+              <td>CAH10185.1</td>
+              <td>ChaR3_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000207/1">BGC0000207</a></td>
+              <td>Polyketide</td>
+              <td>34.0</td>
+              <td>91.7</td>
+              <td>134.0</td>
+              <td>4.42e-36</td>
+          </tr>
+    
+          <tr>
+              <td>EHN79426.1</td>
+              <td>lacI/galR-like_protein_ScarC2</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000804/1">BGC0000804</a></td>
+              <td>Saccharide</td>
+              <td>34.0</td>
+              <td>97.1</td>
+              <td>132.0</td>
+              <td>1.66e-35</td>
+          </tr>
+    
+          <tr>
+              <td>ABC87507.1</td>
+              <td>LacI_family_transcription_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001011/1">BGC0001011</a></td>
+              <td>NRP + Polyketide</td>
+              <td>34.0</td>
+              <td>97.7</td>
+              <td>129.0</td>
+              <td>1.48e-34</td>
+          </tr>
+    
+          <tr>
+              <td>ADC45583.1</td>
+              <td>sugar-binding_transcriptional_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000093/1">BGC0000093</a></td>
+              <td>Polyketide</td>
+              <td>29.0</td>
+              <td>87.7</td>
+              <td>116.0</td>
+              <td>1.11e-29</td>
+          </tr>
+    
+          <tr>
+              <td>AKA87333.1</td>
+              <td>putative_LacI_family_transcriptional_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001735/1">BGC0001735</a></td>
+              <td>Other</td>
+              <td>31.0</td>
+              <td>96.6</td>
+              <td>97.0</td>
+              <td>2.8e-22</td>
+          </tr>
+    
+          <tr>
+              <td>AAF25547.1</td>
+              <td>GalR</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000916/1">BGC0000916</a></td>
+              <td>Other</td>
+              <td>21.0</td>
+              <td>100.0</td>
+              <td>47.0</td>
+              <td>9.46e-06</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

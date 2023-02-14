@@ -1,0 +1,1475 @@
+LOCUS       1768789471-0-5449       5449 bp    dna              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   1768789471
+VERSION     1768789471
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     source          1..5449
+                     /GBFeature_key="source"
+                     /GBFeature_location="complement(0..45876)"
+                     /GBFeature_intervals="{'GBInterval_from': '1',
+                     'GBInterval_to': '45876', 'GBInterval_accession':
+                     'NZ_NSGT01000043.1', 'organism': 'Xanthomonas sp. LMG
+                     12459', 'mol_type': 'genomic DNA', 'submitter_seqid':
+                     'LMG12459_contig_43', 'strain': 'LMG 12459',
+                     'isolation_source': 'seed', 'host': 'Oryza sativa',
+                     'culture_collection': 'LMG:12459', 'db_xref':
+                     'taxon:1591131', 'country': 'China', 'collection_date':
+                     '1992'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'organism',
+                     'GBQualifier_value': 'Xanthomonas sp. LMG 12459'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'mol_type',
+                     'GBQualifier_value': 'genomic DNA'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'submitter_seqid',
+                     'GBQualifier_value': 'LMG12459_contig_43'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'strain',
+                     'GBQualifier_value': 'LMG 12459'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'isolation_source',
+                     'GBQualifier_value': 'seed'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'host',
+                     'GBQualifier_value': 'Oryza sativa'}"
+                     /GBFeature_quals="{'GBQualifier_name':
+                     'culture_collection', 'GBQualifier_value': 'LMG:12459'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'db_xref',
+                     'GBQualifier_value': 'taxon:1591131'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'country',
+                     'GBQualifier_value': 'China'}"
+                     /GBFeature_quals="{'GBQualifier_name': 'collection_date',
+                     'GBQualifier_value': '1992'}"
+     source          1..45876
+                     /GBInterval_from="1"
+                     /GBInterval_to="45876"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /organism="Xanthomonas sp. LMG 12459"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="LMG12459_contig_43"
+                     /strain="LMG 12459"
+                     /isolation_source="seed"
+                     /host="Oryza sativa"
+                     /culture_collection="LMG:12459"
+                     /db_xref="taxon:1591131"
+                     /country="China"
+                     /collection_date="1992"
+     gene            204..947
+                     /GBInterval_from="204"
+                     /GBInterval_to="947"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11270"
+                     /old_locus_tag="CEK65_11035"
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+     CDS             204..947
+                     /GBInterval_from="204"
+                     /GBInterval_to="947"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11270"
+                     /old_locus_tag="CEK65_11035"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_006388350.1"
+                     /note="incomplete; partial in the middle of a contig;
+                     missing N-terminus; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="rRNA methyltransferase"
+     gene            1145..1234
+                     /GBInterval_from="1145"
+                     /GBInterval_to="1234"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS21185"
+     CDS             1145..1234
+                     /GBInterval_from="1145"
+                     /GBInterval_to="1234"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS21185"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_017155454.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tryptorubin family RiPP precursor"
+                     /protein_id="WP_017911958.1"
+                     /translation="MSLMKLLFSIKHLLSSKKPLKSYAWYIWY"
+     gene            1323..2396
+                     /GBInterval_from="1323"
+                     /GBInterval_to="2396"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS21300"
+                     /old_locus_tag="CEK65_11040"
+     CDS             1323..2396
+                     /GBInterval_from="1323"
+                     /GBInterval_to="2396"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS21300"
+                     /old_locus_tag="CEK65_11040"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_017155453.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="cytochrome P450"
+                     /protein_id="WP_152181783.1"
+                     /translation="MSATMVDRDARATVFAPRLQALLRAHVGQDAFRLDADTVGVAGAA
+                     LSDRLLAARPATEHERPTFKPLHGRSIARSEAAKLMQAIGRDVREALKRPPPPTLDLSG
+                     PWPHIGHVYLRDLLLGGDPWRLRLLMDRTLELTPRLTWAVIAAGALAPLAPGAEASALA
+                     TLLSAADGYRARRDAMGLYRRTAAPVCFTISTLVANALWLGSPFDARVCNRNILYETLR
+                     LLPPSWNILRNASPEYGALDPRIGAADDVLVLPLLSHRDPALWEEPEAFRPERWDGVDP
+                     DALPGYLPFGHASERCWGRHMVMPLAERLLDLLRGQDLVADPQQRRATVPLTGLLGVAQ
+                     VDVIRHTRARGVACRTR"
+     gene            complement(2404..3455)
+                     /GBInterval_from="3455"
+                     /GBInterval_to="2403"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11280"
+                     /old_locus_tag="CEK65_11045"
+     CDS             complement(2404..3455)
+                     /GBInterval_from="3455"
+                     /GBInterval_to="2403"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11280"
+                     /old_locus_tag="CEK65_11045"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_016903335.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="LacI family DNA-binding transcriptional
+                     regulator"
+                     /protein_id="WP_152181784.1"
+                     /translation="MMGIRQRRAGSAVTLLDVARHAGVSPMTASRVINRHPRVSATMRE
+                     RVEASIKALGYRPNLAGRSLRTAGLARIGVLYSNPSAAYLNQFMLGMLEQSSLEGCQVL
+                     VEKSDDSASQRAATERLLQAGADGLILPPPLCDARQTIAELDARGIPLVAVATGAPMPG
+                     VSSVRIDDYQAACALTRHLLDLGHRDIGFVSGDPGHTPSALRSRAFFDTMAGAGLTVAP
+                     ERVAEGLFTYRSGLLAATALLQVAPRPSAILCSNDDMAAAALAIAHGLRLRVPEDLSIA
+                     GFDDTPVATTIWPELTTIHQPVAAMGRAAVTLLLGEIRQRRDGLPSRGTHQVLDYTLVT
+                     RGSTAPPAPR"
+     gene            complement(3519..4933)
+                     /GBInterval_from="4933"
+                     /GBInterval_to="3518"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11285"
+                     /old_locus_tag="CEK65_11050"
+     CDS             complement(3519..4933)
+                     /GBInterval_from="4933"
+                     /GBInterval_to="3518"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11285"
+                     /old_locus_tag="CEK65_11050"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_017162741.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="M28 family peptidase"
+                     /protein_id="WP_152181785.1"
+                     /translation="MRRLAVVIAAVLSLSSPAVAAEATRIPEAALRDAATLRERALADD
+                     TGWKVVESLTTEIGPRMAGSEADARAVAWATATFKALGFDKVWTEPVTFPKWERRSEHA
+                     QVLGAHAQPLTVTALGGSPGGTVEAEVVRFADLAALQAAPADALRGKIAFVDYQMLRTR
+                     DGKDYGNGGAVRSKGPSEAIRKGAIGFVMRSAGTDSHRVPHTGITRFDEGLTPVPAAAL
+                     SVPDADQLARLLARGPVRLRLALDCGWDGTATSYNVIGQITGRTLPNEVVLIGGHLDSW
+                     DLGTGAIDDGAGVAISMAAGHLLGQLKQAPKRSIRVVAFANEEQGLYGGKAYAQAHAKD
+                     VARHQIAAESDFGAGRIYAFNTGSGDAAGSRAATRQIAEALAPLGIAYAPDAGGPGPDV
+                     GPLAAKGGAWAWLAQDGSDYFDLHHTADDTLDKIDPKALAQNVAAYAVFAYLAAQADGG
+                     FGSQAKTVEPPRE"
+     gene            complement(5031..5449)
+                     /GBInterval_from="5449"
+                     /GBInterval_to="5030"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="mscL"
+                     /locus_tag="CEK65_RS11290"
+                     /old_locus_tag="CEK65_11055"
+     CDS             complement(5031..5449)
+                     /GBInterval_from="5449"
+                     /GBInterval_to="5030"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="mscL"
+                     /locus_tag="CEK65_RS11290"
+                     /old_locus_tag="CEK65_11055"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003477152.1"
+                     /GO_function="GO:0008381 - mechanosensitive ion channel
+                     activity [Evidence IEA]"
+                     /GO_process="GO:0034220 - ion transmembrane transport
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="large-conductance mechanosensitive channel
+                     protein MscL"
+                     /protein_id="WP_019802352.1"
+                     /translation="MSMIREFKEFAMRGNVLDLAVGVVLGAAFGKIVTALVEKIIMPPI
+                     GLLVGGVDFSRWAWTLKAATVDAAGKPVPAVVIGIGDFLNTIIQFVIVAFAIFMLVKAI
+                     NRIARKEPPAPKAPTEEVLLLREIRDSLKHEPRAE"
+     gene            complement(5560..6266)
+                     /GBInterval_from="6266"
+                     /GBInterval_to="5559"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11295"
+                     /old_locus_tag="CEK65_11060"
+     CDS             complement(5560..6266)
+                     /GBInterval_from="6266"
+                     /GBInterval_to="5559"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11295"
+                     /old_locus_tag="CEK65_11060"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_017914737.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="fumarylacetoacetate hydrolase family protein"
+                     /protein_id="WP_017914737.1"
+                     /translation="MKDLFAAAEAPRVPVRGQGLFPVHRIYCVGRNFADHAREMGASAP
+                     ASKAERGQPTFFMKPADALVIGDEAVPYPSATQDLHHEVELVVALGQDAPAGVLPVDGA
+                     EALILAYGVGLDLTRRDLQAAAKAKGLPWDIAKGFDASAPISELIPAGEVGALEALNLS
+                     LEVNGEVRQQSLLEQMIWNVPEILHELSKLFALRAGDLVFMGTPAGVAALRPGDRFSAR
+                     LENVAERHGRIVG"
+     gene            complement(6386..6657)
+                     /GBInterval_from="6657"
+                     /GBInterval_to="6385"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11300"
+                     /old_locus_tag="CEK65_11065"
+     CDS             complement(6386..6657)
+                     /GBInterval_from="6657"
+                     /GBInterval_to="6385"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11300"
+                     /old_locus_tag="CEK65_11065"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003477150.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_010341808.1"
+                     /translation="MRARLFNFDQFRHLFAPRKPRHPLVKLAVGLLGLAILAGLVFVSV
+                     FVGAAMILGGIAMKLLSQRGKRPATARRHVVDGEYRVVRKPALPL"
+     gene            6860..7198
+                     /GBInterval_from="6860"
+                     /GBInterval_to="7198"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11305"
+                     /old_locus_tag="CEK65_11070"
+     CDS             6860..7198
+                     /GBInterval_from="6860"
+                     /GBInterval_to="7198"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11305"
+                     /old_locus_tag="CEK65_11070"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010341809.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Rieske (2Fe-2S) protein"
+                     /protein_id="WP_152181786.1"
+                     /translation="MTESSAVLAPLHDLVSGELAEAEALIGGEPESLLLYREGDRVRAW
+                     LNVCPHAGRRLDWAPGQFLKSREGHVVCAAHGAAFELQGGECVSGPCRGQSLHAVPVDV
+                     RDGQVVLV"
+     gene            complement(7231..9098)
+                     /GBInterval_from="9098"
+                     /GBInterval_to="7230"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11310"
+                     /old_locus_tag="CEK65_11075"
+     CDS             complement(7231..9098)
+                     /GBInterval_from="9098"
+                     /GBInterval_to="7230"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11310"
+                     /old_locus_tag="CEK65_11075"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010341810.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="SLC13 family permease"
+                     /protein_id="WP_010341810.1"
+                     /translation="MDTALTLTTDMKLVLGLVGFTMAMFVFERIRADVVALVVLVVLGV
+                     TGLIAPEELFSGFSGNAVMSIIATTILGAGLERTGALNRLASWLLRRARGVEERLMLLT
+                     TAIAGLNSSFMQNPSVMALYLPVASRLAGRTGLTLQRLLLPIAAAIVMGGALTMVGNSP
+                     LILLNDLLQSANNNLPSGMATIEPLRMFAPLPIGVALLAASLIYFRVRGDKALAEEERL
+                     INDGVTPARTESYFARTYGIEGDVFELIVSADSPLVGMTLGEAETVHNAPLLLALKTGN
+                     DTRLAPPADMRIWVGSVLGVMGARQQVADFAQNQFLRLSSRLRNLGDLFNPSRAGISEA
+                     VIPPTSRFIGKSAAELRLRKQAGISLLAINRDKQVIREDVRKVPLRAGDMLVFHSIWQD
+                     LAQASESRDFVVVTDYPKGEHRPHKFKIAMTIFALTILIALTSRLPVALTLMTGVAGML
+                     LTGVLRMDEAYAAINWKTVFLMAGLIPLGWAMDSSGAAAWVAGHTIARLPEGMPVWALE
+                     IALGLLTTAFSLVISHVGATIVMVPIAVNLALAAGGNPTAFALIVALSASNNLMTASNP
+                     VISMITGPANYQPRELWRVGGPLSLVYTLVVVLMVNLMSMGWWHAL"
+     gene            complement(9166..9950)
+                     /GBInterval_from="9950"
+                     /GBInterval_to="9165"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="trmB"
+                     /locus_tag="CEK65_RS11315"
+                     /old_locus_tag="CEK65_11080"
+     CDS             complement(9166..9950)
+                     /GBInterval_from="9950"
+                     /GBInterval_to="9165"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="trmB"
+                     /locus_tag="CEK65_RS11315"
+                     /old_locus_tag="CEK65_11080"
+                     /EC_number="2.1.1.33"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010341811.1"
+                     /GO_function="GO:0008176 - tRNA
+                     (guanine-N7-)-methyltransferase activity [Evidence IEA]"
+                     /GO_process="GO:0006400 - tRNA modification [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tRNA (guanosine(46)-N7)-methyltransferase TrmB"
+                     /protein_id="WP_152181787.1"
+                     /translation="MTDPFSSAGAKTPPKPFTVEEGHRQVRSFVLRQGRFTPAQQRAFD
+                     ALWPRFGLDYSGQPRDLDATFGRTAPKVLEIGFGNGAALRHAAQHDPSRDYIGIEVHAP
+                     GVGRLLNALAEDGADHVRLYHHDAVEVLQHEIADGSLDEVRIYFPDPWHKKRHNKRRLL
+                     QPAFAALLVRKLRTGGRLHCATDWADYAEQMWDVLDATPGLVNRAGPRGHVPRPDWRPQ
+                     THFETRGQNLGHGVWDLLYDRESGTGNGESEEPSSAAPR"
+     gene            complement(9962..10755)
+                     /GBInterval_from="10755"
+                     /GBInterval_to="9961"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11320"
+                     /old_locus_tag="CEK65_11085"
+     CDS             complement(9962..10755)
+                     /GBInterval_from="10755"
+                     /GBInterval_to="9961"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11320"
+                     /old_locus_tag="CEK65_11085"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003487184.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="thiazole synthase"
+                     /protein_id="WP_152181788.1"
+                     /translation="MNAPAPHDALVIAGKPYRSRLLTGTGKFADLEQTRLATEAAAAQI
+                     VTVAIRRSNIGQNPGEPNLLDVLPPEQYTILPNTAGCYTAEDAVRTCRLARELLDGHNL
+                     TKLEVLGDQRTLFPDVVQTLKAAEILVADGFEVMVYTSDDPILAKRLEEIGCVAVMPLA
+                     APIGSGLGVQNRYNLLEIIDNAKVPIIVDAGVGTASDAAIAMELGCDGVLMNTAIAGAR
+                     NPVLMASAMRKAVEAGREAFLAGRIPRKRYASASSPIDGLIG"
+     gene            complement(10821..11020)
+                     /GBInterval_from="11020"
+                     /GBInterval_to="10820"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="thiS"
+                     /locus_tag="CEK65_RS11325"
+                     /old_locus_tag="CEK65_11090"
+     CDS             complement(10821..11020)
+                     /GBInterval_from="11020"
+                     /GBInterval_to="10820"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="thiS"
+                     /locus_tag="CEK65_RS11325"
+                     /old_locus_tag="CEK65_11090"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_016903326.1"
+                     /GO_function="GO:0003824 - catalytic activity [Evidence
+                     IEA]"
+                     /GO_process="GO:0009228 - thiamine biosynthetic process
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="sulfur carrier protein ThiS"
+                     /protein_id="WP_152181789.1"
+                     /translation="MNIELNGRQCTLAPATTVAALLQAEGLGQRRVAVEVNGQIVPRGA
+                     HAEHELHAGDRVEIVHALGGG"
+     gene            11193..13013
+                     /GBInterval_from="11193"
+                     /GBInterval_to="13013"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11330"
+                     /old_locus_tag="CEK65_11095"
+     CDS             11193..13013
+                     /GBInterval_from="11193"
+                     /GBInterval_to="13013"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11330"
+                     /old_locus_tag="CEK65_11095"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_017910408.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="autotransporter domain-containing esterase"
+                     /protein_id="WP_017911948.1"
+                     /translation="MTSSIRPLRSLLAAAIVLAAAPAFAQSTYSRTVFFGDSLTDAGYY
+                     RPLLPASVRAVTGQFTTNPDFVWAQYVAEYYGTNAAANGNGQIGDDYAAGNARVGVANP
+                     SALGVAPSLATQASNYLAANGGKADPNALYSVWGGANDLFAIAGGAPVQATIGNAVTAE
+                     VGIVASLQNAGARYVMVNNLPDVGITPRFRAGGAAAMAQGTALATAYNTALFSGLKSAG
+                     LRVIPVDTFHLLQEVVANPGAYGFTNVTGTACQPQITAQSLTCNPTSYVSADAADTYVF
+                     ADGVHPTGRTHELLAQYALSILEGPRTQQILTHSAQMVGRSRADQVAWHVDGRPEADGV
+                     RWWGNLRGDMQRYQHGDLYDGMAPAGLFGVDWSRGEWVFGGFGGFGRTDADFGNRGGDY
+                     TQDDSTLGGFAGWYGEHAWVNAQVSYTWLSYDVTRKVNLGPATIEHKGSPDGSNLTAAL
+                     QGGYEFGEGSFKHGPVAAAIWQKVKLDGYTESNPNSSALGYSDRDVESMVGRIGWKASI
+                     DAGTVKPYLQATYDHEFKKNQEATAYLQTMSDLGEYAVPGINFDRNYASVVLGARTKLW
+                     GFESNVGLATTTGQSRAHDTSLFVNFGGSF"
+     gene            13276..13349
+                     /GBInterval_from="13276"
+                     /GBInterval_to="13349"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11335"
+                     /old_locus_tag="CEK65_11100"
+     tRNA            13276..13349
+                     /GBInterval_from="13276"
+                     /GBInterval_to="13349"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11335"
+                     /old_locus_tag="CEK65_11100"
+                     /product="tRNA-Gly"
+                     /inference="COORDINATES: profile:tRNAscan-SE:2.0.9"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: tRNAscan-SE."
+                     /anticodon=(pos:13308..13310,aa:Gly,seq:ccc)
+                     /transcription="GCGGGCGTAGCTCAATGGTAGAGCTGTAGCTTCCCAAGCTACT
+                     GACGTGGGTTCGATTCCCATCGCCCGCTCCA"
+     gene            13664..15688
+                     /GBInterval_from="13664"
+                     /GBInterval_to="15688"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11340"
+                     /old_locus_tag="CEK65_11105"
+     CDS             13664..15688
+                     /GBInterval_from="13664"
+                     /GBInterval_to="15688"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11340"
+                     /old_locus_tag="CEK65_11105"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014404501.1"
+                     /GO_function="GO:0004629 - phospholipase C activity
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phospholipase C, phosphocholine-specific"
+                     /protein_id="WP_255424529.1"
+                     /translation="MPLLPGVIRSALAVPPARVTGTLQDVQHVVILMQENRSFDHYFGC
+                     LRGVRGYGDPRPLRLPSGKPVWYQPERKGSDRYVLPFRLNSQTSSAQWMKDLNHDWKGS
+                     HETWKHHDAWIAQKSAMSMGHFQREDLPFYYALADAFTLCDGYHASLFGPTNPNRMYMF
+                     TGTSGLSVGNDGEQAVNNRDDGNWTADMARDNPRFPGYTWSTYSERLQQAGISWQVYQE
+                     FDNYGDNSHPYFANFRKLDRASPLYRRGRAIVPGSTADNAKASRGEHLVAAFERDVRAG
+                     TLPQVSWIVAPYLLSEHPEATPAYGESLSARLLEVLAASPEVWSKTVFLINYDENDGFF
+                     DHVPPALPAIRPELGASNVDLHGEDYHGVPVGLGPRVPMLVVSPWSRGGWVNSQVFDHT
+                     SVLRFLEQRFGVMEPNINPWRRAVAGDLTSTLDFVGHDPAPVALPDTRDYIARIDATAT
+                     LPPPQRPAQQALPVQEPGQRPARALPYDFDVRLQVQADARVLRMRNRGAAGVALNAYAD
+                     EGVAGPWFYTLAAGSELQDARPWRGAAADAGYALRVHGPNGFLREFHGDGIGDAGLQAE
+                     ADYDVAAQCLLLTLVNAGEQPCALRVRDGYRGDGGEQAITLAAGDRTVLRLPLQAQHHW
+                     YDLTIDSATLPQWRRRLAGHIETGRPSMSDPAIGRAVDA"
+     gene            complement(16099..18407)
+                     /GBInterval_from="18407"
+                     /GBInterval_to="16098"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11345"
+                     /old_locus_tag="CEK65_11110"
+     CDS             complement(16099..18407)
+                     /GBInterval_from="18407"
+                     /GBInterval_to="16098"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11345"
+                     /old_locus_tag="CEK65_11110"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003477114.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="TonB-dependent receptor"
+                     /protein_id="WP_026143299.1"
+                     /translation="MTPTSRSLRPHALVLAIVSALPAFAALAETAPAAATATADAAASA
+                     SGNDATMLDAITVVSSGTTRQVQRITREDIGIAAPGTSALKVLDKLPGVQFQSADPFGA
+                     YEWSTAISLHGFDQSRLGFTLDGVPLGNMSYGVTDGLQVTRAIISENVASVELAQGAGG
+                     LGTPSSSNLGGTVRYYSADPDADAGFRFSQTLGSDSTRRTYLRGDTGDIHGFSLYTSLV
+                     HGEMDKWKGYGNNEYNQANAKALYQWGDGNRVSLYLDSSHRKEYDIMDLSLTSQRVLGW
+                     DWDYLMPDWNSAVQIANALNGKGSYPASLNGLPADYDKADASYYSGAGLRRDNLAALSG
+                     TFNLGGSATLNLTGYYHDNNGEGQWTTPYVASSPSVPLSMRTTDYRLNRHGVTGSLNFT
+                     VAGNEIEIGGWYQNAKTVQERNYFLLDGPFTDLYYFNKNGTLFARGFAQHYDTDTTMVY
+                     AQDTLRLMDERLTLNFGAKKLIVDTTAQSQVPSASNAAGEIKADSDLLPQVGINYKIDD
+                     HQEVYASYNKNMAGFGFTPFQESQAAFNAIKGSLEPETAQTYELGYRVRGAGVEASLAL
+                     YHTTFDDRLLVTSPCSAIQTCSATLNNVGSVRSQGADLAVIWRPIEQLRWLNSLSYDDS
+                     TYQDDYLNGGVVATSGKRVVGIPEWMFSSSLAYENAGWHASLDGKYTGRRYISYLNDSS
+                     VPSYWRFDLSAGYDFGQVGMFQNLGLSANVTNLFDKRYFATVGTNGYVVSDPNGYNQTL
+                     MAGAPRQFFVTFSGKF"
+     gene            18683..19576
+                     /GBInterval_from="18683"
+                     /GBInterval_to="19576"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="rimK"
+                     /locus_tag="CEK65_RS11350"
+                     /old_locus_tag="CEK65_11115"
+     CDS             18683..19576
+                     /GBInterval_from="18683"
+                     /GBInterval_to="19576"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="rimK"
+                     /locus_tag="CEK65_RS11350"
+                     /old_locus_tag="CEK65_11115"
+                     /EC_number="6.3.2.-"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003477113.1"
+                     /GO_function="GO:0005524 - ATP binding [Evidence IEA];
+                     GO:0046872 - metal ion binding [Evidence IEA]"
+                     /GO_process="GO:0036211 - protein modification process
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="30S ribosomal protein S6--L-glutamate ligase"
+                     /protein_id="WP_152181801.1"
+                     /translation="MKLAILSRNTKLYSTRRLVEAGRERGHTVRVLDPLRCYMRIAAGA
+                     FTMHYKGKPITGYDAVIPRIGNSVTRYGTAVLRQLEMMGVCTPNPSDAILRARDKLRAH
+                     QLLAAKGIDMPMTVFGDNPDDTGDLLSMLGPPPHVVKLNEGTQGAGVILTEKASASRGV
+                     VEALRGLYANFLVQEFIGEAEGADLRCFVVGNQVVAAMRRTAPEGDFRSNLHLGGTAEK
+                     TAASRGEQEVAVRSAKALGLGVAGVDLIRSKRGPLVLEVNSTPGLEGIETVCGLDIAGK
+                     VIEHLEACLKRKKSGA"
+     gene            19875..20057
+                     /GBInterval_from="19875"
+                     /GBInterval_to="20057"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11355"
+     CDS             19875..20057
+                     /GBInterval_from="19875"
+                     /GBInterval_to="20057"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11355"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS-2+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS-2+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_148828479.1"
+                     /translation="MNVKKVFARQLSTIRQRSDSGERVQEAGEPGLAQALPKNEWQAAP
+                     FASAVARERIGWSEN"
+     gene            20241..20918
+                     /GBInterval_from="20241"
+                     /GBInterval_to="20918"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11360"
+                     /old_locus_tag="CEK65_11120"
+     CDS             20241..20918
+                     /GBInterval_from="20241"
+                     /GBInterval_to="20918"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11360"
+                     /old_locus_tag="CEK65_11120"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_017169438.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="response regulator transcription factor"
+                     /protein_id="WP_010340533.1"
+                     /translation="MRILVIEDNSDIAANLGDYLEDRGHTVDFAADGVTGLHLAVVHEF
+                     DAIVLDLNLPGMDGIEVCRKLRNEARKQTPVLMLTARDSLDNKLAGFDSGADDYLIKPF
+                     ALQEVEVRLNALSRRGKGVHTRVLETGDLEYNLDTLEVRRQGKLLQLNPTALKILQALM
+                     EAAPAVVTRQELETRVWGEELPDSDSLRVHIHGLRAVVDKPFDVPMIQTRHGIGYRIAA
+                     PDA"
+     gene            20911..22245
+                     /GBInterval_from="20911"
+                     /GBInterval_to="22245"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11365"
+                     /old_locus_tag="CEK65_11125"
+     CDS             20911..22245
+                     /GBInterval_from="20911"
+                     /GBInterval_to="22245"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11365"
+                     /old_locus_tag="CEK65_11125"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_009580404.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="HAMP domain-containing sensor histidine kinase"
+                     /protein_id="WP_048490330.1"
+                     /translation="MPETPALPRVVRRRGRYRRRLRSRIILSFVLLGFGLTALFAFATN
+                     WARARVENQLVEVVLNRNIDEYSHRFFSDPSKNPDLPVQQMVGRVVKSDRFEALRREQP
+                     EWYNFSDGIHNVSGRDETGKPFSYKVAVRKTPNVWFFLAYDMTQTMQGEVQLKRTLILS
+                     VLVFSALSLVIGWWSASRVMRPVSDLAARLRAYRGSSDPKPLAPHFPDDEVGQLAEALD
+                     DYSARLTEVVQRDREFNADVSHELRTPLAVIRGATELLLTRPNLDEKVLQRLQRIQRAE
+                     QQCSDLIGSLLLLSRNERGQGHSNVAKVAEQLIESHRAQLGGKPLQLLLEGERNLTIDA
+                     PEAALSVALGNLIGNAVKYTQEGQVVVRVLSDAVQVIDSGPGLSEEDAAKLFQRGYRGT
+                     HAGHSQGGGIGLSIVSRLCDLYGWQVNVRPGATKGVVATLWFKPA"
+     gene            complement(22356..22984)
+                     /GBInterval_from="22984"
+                     /GBInterval_to="22355"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="coaE"
+                     /locus_tag="CEK65_RS11370"
+                     /old_locus_tag="CEK65_11130"
+     CDS             complement(22356..22984)
+                     /GBInterval_from="22984"
+                     /GBInterval_to="22355"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="coaE"
+                     /locus_tag="CEK65_RS11370"
+                     /old_locus_tag="CEK65_11130"
+                     /EC_number="2.7.1.24"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_017914875.1"
+                     /GO_component="GO:0005737 - cytoplasm [Evidence IEA]"
+                     /GO_function="GO:0004140 - dephospho-CoA kinase activity
+                     [Evidence IEA]"
+                     /GO_process="GO:0015937 - coenzyme A biosynthetic process
+                     [Evidence IEA]"
+                     /note="Dephospho-CoA kinase (CoaE) performs the final step
+                     in coenzyme A biosynthesis; Derived by automated
+                     computational analysis using gene prediction method:
+                     Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="dephospho-CoA kinase"
+                     /protein_id="WP_152181791.1"
+                     /translation="MTDFVVGLTGGVASGKSELSRRFEAKGIVVADADLAARAVVAPGH
+                     PALAQIVARFGPQILQNDGQLDRAALRQRIFEDATARRDLEAITHPAIRRLLQEQCRAA
+                     AGPYAIAAIPLLTEVGARTRYPWLDRILVIDAPEALQHARLMQRDGITADLAQRMLAAQ
+                     ATRAERLAIADDVVVNDGAATALQEAVEKLDEQYRALAAAKASASL"
+     gene            complement(22999..23861)
+                     /GBInterval_from="23861"
+                     /GBInterval_to="22998"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11375"
+                     /old_locus_tag="CEK65_11135"
+     CDS             complement(22999..23861)
+                     /GBInterval_from="23861"
+                     /GBInterval_to="22998"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11375"
+                     /old_locus_tag="CEK65_11135"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_019302544.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="A24 family peptidase"
+                     /protein_id="WP_017910397.1"
+                     /translation="MAFLDQHPGLGFPAAAGLGLLVGSFLNVVILRMPRRMEWQWKRDS
+                     REILELPDIYDPPPPGIVVEPSHCPHCKHKLAWFENIPLFSWLALRGKCRYCHAPISPQ
+                     YPLVELLTSLLVVASVWRFGFGWQGFGAIVFSCFLVALSGIDLRTRLLPDQLTLPLMWL
+                     GLIGSMDNLYMPAKPALLGAAVGYFSLWSVWWLFKQITGKEGMGHGDFKLLAAIGAWCG
+                     LKGILPTILISSLVGAILGSLWLAAKGRDRATPIPFGPYLAIAGWITFFWGTEIVETYM
+                     RWSGLR"
+     gene            complement(23869..25127)
+                     /GBInterval_from="25127"
+                     /GBInterval_to="23868"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11380"
+                     /old_locus_tag="CEK65_11140"
+     CDS             complement(23869..25127)
+                     /GBInterval_from="25127"
+                     /GBInterval_to="23868"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11380"
+                     /old_locus_tag="CEK65_11140"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_012437601.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="type II secretion system F family protein"
+                     /protein_id="WP_152181792.1"
+                     /translation="MSATRSAVKKEPVARAASQQVPFVWEGTDKRGIKMKGEQTAKSAN
+                     LLRAELRRQGITPSLVKPKPKPLFGANGRKIGAKDIAFFSRQMATMMKSGVPIVGSLEI
+                     IASGHKNPRMKQMVDQIRTDIEGGSSLYEAISRHPVQFDELYRNLVRAGEGAGVLETVL
+                     ETVATYKENIEALKGKIRKALFYPAMVMAVALIVSSILLVWVVPQFEDVFKGFGAELPA
+                     FTQMIVSASRFMVSYWWMLLLLLVGSIGGFIFAYKRSPAMQHGMDRLVLKVPIIGQIMH
+                     NSSVARFSRTLGVTFRAGVPLVEALDIVAGATGNSVYEKAVLRMRDDVAVGYPVNMAMK
+                     QTNLFPHMVIQMTAIGEEAGALDAMLFKVAEYFEQEVNNAVDALSSLIEPLIMVFIGTI
+                     VGGMVIGMYLPIFKLASVVG"
+     gene            25501..25926
+                     /GBInterval_from="25501"
+                     /GBInterval_to="25926"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11385"
+                     /old_locus_tag="CEK65_11145"
+     CDS             25501..25926
+                     /GBInterval_from="25501"
+                     /GBInterval_to="25926"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11385"
+                     /old_locus_tag="CEK65_11145"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_006387162.1"
+                     /GO_component="GO:0009289 - pilus [Evidence IEA]"
+                     /GO_process="GO:0007155 - cell adhesion [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="pilin"
+                     /protein_id="WP_152181793.1"
+                     /translation="MKKQEGFTLIELMIVVAIIAILAAIALPAYQDYTIRSRVSELAVM
+                     ASSFKTTVAENIANNGGALSTKNCTGVGATAATTNMASITCADATGVITVTGDATKTKG
+                     TILTYTPTVGAANSAVGTTWKCVGSGSQAKYYPAECR"
+     gene            26128..27861
+                     /GBInterval_from="26128"
+                     /GBInterval_to="27861"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="pilB"
+                     /locus_tag="CEK65_RS11390"
+                     /old_locus_tag="CEK65_11150"
+     CDS             26128..27861
+                     /GBInterval_from="26128"
+                     /GBInterval_to="27861"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="pilB"
+                     /locus_tag="CEK65_RS11390"
+                     /old_locus_tag="CEK65_11150"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003477096.1"
+                     /GO_function="GO:0016887 - ATP hydrolysis activity
+                     [Evidence IEA]"
+                     /GO_process="GO:0009297 - pilus assembly [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="type IV-A pilus assembly ATPase PilB"
+                     /protein_id="WP_152181794.1"
+                     /translation="MNNLTSANLVGITGIARRLVQDGALEEAAARTAMAHAAEAKVPLP
+                     QWFSEKKLVTAAQLAAANAVEFGMPLMDVSVFDASQNAMKLVSEELLQKYQVLPLFKRG
+                     GRLFVGISNPTQTRALDDIKFHTNLTVEPILVDEDQIRRTLEQWQASNDSLGSALGDDE
+                     GMDNLDVGGGDEDMGGGGDTGIDAKGEDTPVVKFVNKVLVDAIRRGASDIHFEPYEDDY
+                     RVRLRIDGLLKSVAKAPVKLNQRIAARLKVMAQLDIAEKRVPQDGRIKLNLSKNKQIDF
+                     RVSTLPTLFGEKIVLRILDGSAAKLGIDKLGYEPEQQKLFLDAIHKPYGMVLVTGPTGS
+                     GKTVSLYTALGILNDDTRNISTAEDPVEIRLPGVNQVQQNNKRGMTFAAALRSFLRQDP
+                     DIIMVGEIRDLETAEIAIKAAQTGHMVLSTLHTNDAPQTIARLMNMGIAPYNITSSVTL
+                     VIAQRLARRLCNNCKRPVQLPEKALLAEGFTEAEIAAGVQLYEAVGCDECTEGYKGRTG
+                     IYQVMPMNDEIAAIVLQGGNALDIASAAQKIGVKDLRQSALLKARNGITSLAEINRVTK
+                     D"
+     gene            complement(28107..29494)
+                     /GBInterval_from="29494"
+                     /GBInterval_to="28106"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11395"
+                     /old_locus_tag="CEK65_11155"
+     CDS             complement(28107..29494)
+                     /GBInterval_from="29494"
+                     /GBInterval_to="28106"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11395"
+                     /old_locus_tag="CEK65_11155"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_012437607.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="sigma-54 dependent transcriptional regulator"
+                     /protein_id="WP_017914870.1"
+                     /translation="MNETRSALVVDDERDIRELLVLTLGRMGLRISTAANLAEARELLA
+                     SNPYDLCITDMRLPDGNGIELVSEIAKHYPRTPVAMITAFGSMDLAVEALKAGAFDFVS
+                     KPVDIQVLRGLVKHALELNSESRAAPPQPAPEQASRLLGASAAMDALRSTIAKVARNQA
+                     PVYILGESGVGKELVARTIHEQGARSAGPFVPVNCGAIPAELMESEFFGHKKGSFTGAH
+                     ADQAGLFQAAHGGTLFLDEVAELPLPMQVKLLRAIQEKSVRPVGAATEVPVDVRILSAT
+                     HKDLADLVAEGRFRHDLYYRINVIELRVPPLRERGGDLPQLAAAILARLAKSHGRPTPL
+                     LSPSALDALSSYAFPGNVRELENILERALAMAEDDQISATDLRLPQPGNHARSAAEAAP
+                     ALPRGVVDIDPSSSALPSYIEQLERAAIQKALEENRWNKTRTAAQLGITFRALRYKLKK
+                     LGME"
+     gene            complement(29578..31190)
+                     /GBInterval_from="31190"
+                     /GBInterval_to="29577"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11400"
+                     /old_locus_tag="CEK65_11160"
+     CDS             complement(29578..31190)
+                     /GBInterval_from="31190"
+                     /GBInterval_to="29577"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11400"
+                     /old_locus_tag="CEK65_11160"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010342228.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ATP-binding protein"
+                     /protein_id="WP_150409178.1"
+                     /translation="MPTSASLIDRIESIPRRELYFFALYRVLVAGLIAALVFSPLSVLV
+                     GEPRYPQLAATLSTAYLAVALALLMWGRNEAHLAPIVGFSALADIVAATLAAHALPAAS
+                     AGIAMMLLFNVAAAAMLLRLRGGIAIALTASAAMLAEYVWSVLDGADNTRSLAELAMFA
+                     TSYLAVAYICNRIGQRARTSQHLAERRGAEVANLYEINELIIRRMRTGVLVVDAQNRVT
+                     LANEAASALLGDTDGNSGSGRLDLASAAPELARRLQRWRNGWNQDESPLQLSPDQPEVQ
+                     PRFARLLAEGDLTLVFLDDATVVSRRAESLTLSALGRFSASLAHEIRNPLAAINYASQL
+                     LEESPAIGDADRRLLQIIHQQCQRTNGIVESVLGLARRERSNPENLDLGAFVRRFVLEY
+                     RQTLSIETDSLEAILAPQPVHALVDPKHLHQILSALVHNALKYGRVMEEPARVRLRVAL
+                     QERNAIVDVMDRGPGIPEAVAAQLFRPFFTTSEHGTGLGLYIARELCRANQARLEYVPV
+                     PAGGACFRVALPGPHAMLSG"
+     gene            31581..32750
+                     /GBInterval_from="31581"
+                     /GBInterval_to="32750"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="sucC"
+                     /locus_tag="CEK65_RS11405"
+                     /old_locus_tag="CEK65_11165"
+     CDS             31581..32750
+                     /GBInterval_from="31581"
+                     /GBInterval_to="32750"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="sucC"
+                     /locus_tag="CEK65_RS11405"
+                     /old_locus_tag="CEK65_11165"
+                     /EC_number="6.2.1.5"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_019183942.1"
+                     /GO_function="GO:0005524 - ATP binding [Evidence IEA];
+                     GO:0003824 - catalytic activity [Evidence IEA]; GO:0046872
+                     - metal ion binding [Evidence IEA]"
+                     /GO_process="GO:0006099 - tricarboxylic acid cycle
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ADP-forming succinate--CoA ligase subunit beta"
+                     /protein_id="WP_010342227.1"
+                     /translation="MNFHEYQAKQLLAEYGIPVPAGKVAATPEEAVEAAKSLGAGPWMV
+                     KAQIHAGGRGKAGGVKFCKTTDDVKAVAEKLLGTKMATYQTAGVELPINLVLVTTAGEI
+                     VKELYLSVLVDRGTRTISYIASSEGGMEIEQVAAETPDKIHTLNVDFVEGVQGYHGRDI
+                     GFKMGLTAKQAGQFASIMVNLYRIFNEKDLALVEINPLAILDDGNLYALDGKFNSDDNA
+                     NFRHKELVAMRDKSQEDETEVTASELDINYVTMDGNIGCMVNGAGLAMATMDVIKLNGG
+                     EPANFLDVGGGANKQRVIEAFKLILSSDKVEGIFVNIFGGIVRCDMIAEGIIAAVKEVG
+                     VKVPVVVRLEGTNVEEGKQLLRDSGMAIIPADNINDGAKKVVEAVKNAA"
+     gene            32773..33648
+                     /GBInterval_from="32773"
+                     /GBInterval_to="33648"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="sucD"
+                     /locus_tag="CEK65_RS11410"
+                     /old_locus_tag="CEK65_11170"
+     CDS             32773..33648
+                     /GBInterval_from="32773"
+                     /GBInterval_to="33648"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="sucD"
+                     /locus_tag="CEK65_RS11410"
+                     /old_locus_tag="CEK65_11170"
+                     /EC_number="6.2.1.5"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_002812253.1"
+                     /GO_function="GO:0003824 - catalytic activity [Evidence
+                     IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="succinate--CoA ligase subunit alpha"
+                     /protein_id="WP_010342226.1"
+                     /translation="MSVLINKNTKVIVQGFTGQQGTFHATQMIEYGTQVVGGVTPGKGG
+                     TTHIDLPVFNTVADAVQSTGADASVIYVPPPFAADAILEAAAAGIKVIVCITEGIPVLD
+                     MLRVKNVLTRSHPDTVLIGPNCPGVITPGECKIGIMPGHIHKPGKIGIVSRSGTLTYEA
+                     VKQTTEVGLGQSTCIGIGGDPINGLNFVDCLKLFNEDPQTEGIIMVGEIGGDAEEAGAE
+                     YIAKHVKKPVVGFIAGASAPAGKRMGHAGAIASGGKGTAEGKFAAMEAAGVKTVRSPGD
+                     LGAAIASLVK"
+     gene            34027..36084
+                     /GBInterval_from="34027"
+                     /GBInterval_to="36084"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11415"
+                     /old_locus_tag="CEK65_11175"
+     CDS             34027..36084
+                     /GBInterval_from="34027"
+                     /GBInterval_to="36084"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11415"
+                     /old_locus_tag="CEK65_11175"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010342225.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="pyrroloquinoline quinone-dependent dehydrogenase"
+                     /protein_id="WP_152181795.1"
+                     /translation="MAMGIGGICAAAPGDWASYAGAPGGGQYSPLTQITPDNVGRLRIA
+                     WSFRTGELGAGLPDPERRRFEANPLVLGGRMYLTTGTGIAFALDATSGRELWSFDAKVA
+                     RNKHYSDPASRGVSFWRDTQATASACRERIVYGTLDARLIALDAADGKPCAGFGKDGMI
+                     DLHAGIDVHDNASDAWANYAVTSPPVVAGDVLVVGSSIGDNRGHALEQGVVRGYDARSG
+                     RELWRWDPVPRDPAKAAAAGWRPEQAATVGGGNAWAPLSVDPALGLVYVPTGSASPDYY
+                     GGERLGDNRDTDSLVALDLHSGRRVWAQQLVHHDLWDYDLASQPVLTTVQTAQGPRAAV
+                     LQATKTGFLFAFDRRDGTPLFPISEVPVPASDVPGERASPTQPMPEPGLRLARHTPLTA
+                     ADAWGATPGARRECAALIAGLRSEGLFTPPSVRGTIALPGWAGGVNWGGIAVDPQRQLA
+                     IMPVSDLPMQVALIPREQFSKAERARHPDQQFNDMEGTPYYMRRGMLSSSGGIPCVKPP
+                     WGRLVAVDLRTRKIAWERPLGTLEEKLPWLPLDVGTPLLGGAVTTASGLTFIAAAADAR
+                     LRALDSATGRTLWEAKLPAGGQATPSVYAVGGKQYVVIAAGGREGMGTMGDYVVAYTLD
+                     GEGKDVVFQHGVGVRMAVLGLAALSLCAGVVMLLRRWRRRRLERTGAGIR"
+     gene            36544..38181
+                     /GBInterval_from="36544"
+                     /GBInterval_to="38181"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11420"
+                     /old_locus_tag="CEK65_11180"
+     CDS             36544..38181
+                     /GBInterval_from="36544"
+                     /GBInterval_to="38181"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11420"
+                     /old_locus_tag="CEK65_11180"
+                     /EC_number="6.3.5.1"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_009580526.1"
+                     /GO_function="GO:0005524 - ATP binding [Evidence IEA];
+                     GO:0003952 - NAD+ synthase (glutamine-hydrolyzing) activity
+                     [Evidence IEA]"
+                     /GO_process="GO:0009435 - NAD biosynthetic process
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="NAD+ synthase"
+                     /protein_id="WP_152181796.1"
+                     /translation="MSDSLRLAMAQFDFPVGAVTQNTDRIIALIEEARDEYGADVVLFP
+                     ELAVSGYPPEDLLLRPGFLADCERAVQRIAAQVRGIVAVVGWPQSAGSVVYNAASVLRG
+                     GRIERTYRKRELPNYAVFDERRYFDVDPDGENCVFEVKGTPVGLVICEDLWFPEPLAAT
+                     VRAGAELVLVPNASPYERGKHAQRDALLAERSRESGAALAYLNVVGGQDALVFDGASVV
+                     ADGDGTVHPAAAAFTDQWLVVEYDTAVRRFAPLRWTDDGDESMDALAWRAVVRGLQDYC
+                     AKNRFSKVWLGLSGGIDSALVLAMAVDALGADNVTAVRLPSRYTADLSNDLAADQCRVL
+                     GVKLETVAIEPAFEGLLSALGPLFAGTEPDVTEENLQSRSRGVILMALANKFGGLLLTT
+                     GNKSEYAVGYATIYGDMCGGYAPLKDLYKTEVFGLAKWRNTVGGAPVIPPAVIARPPSA
+                     ELRANQTDQDSLPPYDVLDGILYRYVDQEESRDEIVAAGYAAEVVDRVVRLVRISEWKR
+                     HQAAPGPKVSRRAFGRERRYPISNGYQA"
+     gene            complement(38385..39367)
+                     /GBInterval_from="39367"
+                     /GBInterval_to="38384"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="egtD"
+                     /locus_tag="CEK65_RS11425"
+                     /old_locus_tag="CEK65_11185"
+     CDS             complement(38385..39367)
+                     /GBInterval_from="39367"
+                     /GBInterval_to="38384"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="egtD"
+                     /locus_tag="CEK65_RS11425"
+                     /old_locus_tag="CEK65_11185"
+                     /EC_number="2.1.1.44"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003466359.1"
+                     /GO_function="GO:0030745 - dimethylhistidine
+                     N-methyltransferase activity [Evidence IEA]"
+                     /GO_process="GO:0052699 - ergothioneine biosynthetic
+                     process [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="L-histidine N(alpha)-methyltransferase"
+                     /protein_id="WP_152181797.1"
+                     /translation="MNAATARALTEAALTDLHPQPDDITADAIAGLSCSPKQLPSKYFY
+                     DAEGSRLFEAITRQPEYYLTRTELDLLEARMPSIAQAVGTGAHVVELGSGSGRKTQLLL
+                     DGLRMPVAYTPIEISRDMLMSSTTRLAERFPHIQMLPVCADFTAPVALPAPQRGARRTL
+                     VFFPGSTLGNFTREDGIALLRSMRQTMGADGCALVGIDLVKDTALLEAAYNDAAGVTAE
+                     FTLNLLRRLNREIGSDFDLAKFRHHAVYSEARERIETFLVSQCAQQVTVAGRRFDFAEG
+                     EAMQVEYSHKYTDQSFAAMAAEAGLRVSHGWNAQDDAFGLRLLQVV"
+     gene            complement(39365..40653)
+                     /GBInterval_from="40653"
+                     /GBInterval_to="39364"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="egtB"
+                     /locus_tag="CEK65_RS11430"
+                     /old_locus_tag="CEK65_11190"
+     CDS             complement(39365..40653)
+                     /GBInterval_from="40653"
+                     /GBInterval_to="39364"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="egtB"
+                     /locus_tag="CEK65_RS11430"
+                     /old_locus_tag="CEK65_11190"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003477073.1"
+                     /GO_process="GO:0052699 - ergothioneine biosynthetic
+                     process [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ergothioneine biosynthesis protein EgtB"
+                     /protein_id="WP_043095012.1"
+                     /translation="MQAISPASPPSPIASVATLADRLRRVRARSRHLTAPLSEEDAMVQ
+                     SMDDASPAKWHLAHTTWFFERFVLGADPAYRPHDPQWDYLFNSYYQSIGPAHARPHRGL
+                     LSRPSLTQVLDYRSEIETRVLAQLQAGALAPQTLQILELGLQHEQQHQELLLTDIKHAF
+                     WRNPLGPAYRADLVMQHAPASPLRWLQRDEQISEIGAAPWPAHAGFAYDNESPRHRVLV
+                     PAHALASRPVSNAEYAEFIADGGYATAGLWLSDGWARRCAEDWQRPLYWHADGAREFTL
+                     GGWRERDPHAPVCHLSLFEADAFARWAGARLPTEAEWEQAAAGVAIVGNFVDTDALHPQ
+                     STAPADTGLQQLFGDVWEWTGSAYLPYPGFRPWSGTLSEYNGKFMNAQWVLRGGSCATP
+                     RDHIRASYRNFFPSDARWQFAGVRLAKDSA"
+     gene            40724..41932
+                     /GBInterval_from="40724"
+                     /GBInterval_to="41932"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11435"
+                     /old_locus_tag="CEK65_11195"
+     CDS             40724..41932
+                     /GBInterval_from="40724"
+                     /GBInterval_to="41932"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11435"
+                     /old_locus_tag="CEK65_11195"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010342221.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="aminotransferase class V-fold PLP-dependent
+                     enzyme"
+                     /protein_id="WP_193314766.1"
+                     /translation="MSTSALHYRAGSASAGALVDLDAAAEAFALPPGVRYLDTASKGPR
+                     LHRALVAGQAALAESIAPWTLSFDAWRAQIEDLRALAAATVFAGDSEGVAMVPSAAYGL
+                     AIAARQVPLAPGDAVLLLDGQFPSNLLAWQQRCAESGAHLAVVRRAPRQDWTDAVLATL
+                     DAEPRVRVATLPNAYWRDGGLLDLDRIAPRVHAAGAMLVLDLSQSLGVLPVRLDAWRPD
+                     FVVSVGHKWLLGPMGLAWLWASPHWRAHGVPFEQHWQARDPGADWQFPAEAPPPYRSGA
+                     RRFDAGGVADPLRLAMASAALQQVQQWQPARIAQRLGALGAAFDAELHALGAGDWTVPG
+                     HAPHLYALRPPASSMPALLPWLQHAQVICTHRHGALRIAPYLQLTPEAMRGLAQEMVAA
+                     ARA"
+     gene            complement(42120..43609)
+                     /GBInterval_from="43609"
+                     /GBInterval_to="42119"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11440"
+                     /old_locus_tag="CEK65_11200"
+     CDS             complement(42120..43609)
+                     /GBInterval_from="43609"
+                     /GBInterval_to="42119"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11440"
+                     /old_locus_tag="CEK65_11200"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010344380.1"
+                     /GO_component="GO:0016020 - membrane [Evidence IEA]"
+                     /GO_process="GO:0055085 - transmembrane transport [Evidence
+                     IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="glycine betaine ABC transporter substrate-binding
+                     protein"
+                     /protein_id="WP_193314767.1"
+                     /translation="MLAFGAAANLLSLPPAAAAAATDTDTDTKIVVGSKNFTEAVVLGE
+                     IAAGAGRQAGVEVEHRRQLGGTRILWRALEQGSIDAYAEYTGTLAAELLHMPGADDAAL
+                     RQALAQRGLAMSAPLGFDNTYAFGMRRQRAQALGIVRLSDLAAHPTLKFGLSNEFVSRA
+                     DGWPGVRDAYGLPQTPTGLDHDLAYRALDSGAIDLTDLYSTDAEIPAHDLLVLQDDRHY
+                     FPRYAAVFLYRADLAQRAPRFVQALQGLGGRIDAATMQRLNAEAKLDKRAESAIAAHWL
+                     GIAAPAEDGRMQRLLQRTREHLALVGLSLGLALLVALPLGILAAHRPRLGQAVLALTGV
+                     LQTLPSLAVFVFMIPLFGIGAKPAIAALFLYSLLPIVRNMHAGITGIPRELRETAAALG
+                     LPPGKRLWRIELPLALRTLLAGIKTAAVINVGTATLGALIGAGGYGQPILTGIRLDDLG
+                     LILEGAVPAALLALLVQGLFELLERVLTPRGLRLAARR"
+     gene            complement(43643..44379)
+                     /GBInterval_from="44379"
+                     /GBInterval_to="43642"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11445"
+                     /old_locus_tag="CEK65_11205"
+     CDS             complement(43643..44379)
+                     /GBInterval_from="44379"
+                     /GBInterval_to="43642"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11445"
+                     /old_locus_tag="CEK65_11205"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_009580605.1"
+                     /GO_function="GO:0005524 - ATP binding [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ATP-binding cassette domain-containing protein"
+                     /protein_id="WP_152181799.1"
+                     /translation="MFELHRVTRRYGDMLALDQVDLRIAPGRTTALIGPSGAGKSSVLR
+                     LLLGLEWPDSGEVRFQGEPLRRATLLAQRRRIGYVIQEGGLFPHLSARDNAALLARTLG
+                     WPRPRIEARLHELAELCRLPEALLARYPAELSGGQRQRVGLMRALLLDPPVLLLDEPLG
+                     ALDPIVRHELQTQMRELFALLGKTVVLVTHDVAEAAYLGDTLVLMRGGRVLQEGSARQL
+                     LEAPTDPFVSQFLQAQRTLEEAR"
+     gene            complement(44433..45382)
+                     /GBInterval_from="45382"
+                     /GBInterval_to="44432"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11450"
+                     /old_locus_tag="CEK65_11210"
+     CDS             complement(44433..45382)
+                     /GBInterval_from="45382"
+                     /GBInterval_to="44432"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11450"
+                     /old_locus_tag="CEK65_11210"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_017914769.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_150409749.1"
+                     /translation="MSLSLLRPLLRLFAALLVVAAAPATAAPAIVYGVNGHDGRPAYPL
+                     SQSEAVFRLLDQRNLRSYRFDVDPRNFTVLDRLVQLSRQYNIALRPMVYPMSREIGYAL
+                     ARRYANDIKVWEIGNEQDLDRAAAPARIAAMTTMYRGMKQASDEVGAGLQFTINITACN
+                     SDDRSANARCPGDRNGSLWFLDQAKAAGFDFDRISFHYYAFHGERGYWMDLYLGQLRAA
+                     AQKYGTKVYVNELNCAEIYTGNTDGGHPGDGACYDSVAELLQTLRNDYADVVAEINLYE
+                     LLDQPDQQGAEAHFGLMYDLGRPKPTLDLLTDAAR"
+     gene            complement(45709..45876)
+                     /GBInterval_from="45876"
+                     /GBInterval_to="45708"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11455"
+                     /old_locus_tag="CEK65_11215"
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+     CDS             complement(45709..45876)
+                     /GBInterval_from="45876"
+                     /GBInterval_to="45708"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11455"
+                     /old_locus_tag="CEK65_11215"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005414301.1"
+                     /note="incomplete; too short partial abutting assembly gap;
+                     missing N-terminus; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="outer membrane protein assembly factor BamD"
+     source          1..45876
+                     /GBInterval_from="1"
+                     /GBInterval_to="45876"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /organism="Xanthomonas sp. LMG 12459"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="LMG12459_contig_43"
+                     /strain="LMG 12459"
+                     /isolation_source="seed"
+                     /host="Oryza sativa"
+                     /culture_collection="LMG:12459"
+                     /db_xref="taxon:1591131"
+                     /country="China"
+                     /collection_date="1992"
+     gene            204..947
+                     /GBInterval_from="204"
+                     /GBInterval_to="947"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11270"
+                     /old_locus_tag="CEK65_11035"
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+     CDS             204..947
+                     /GBInterval_from="204"
+                     /GBInterval_to="947"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11270"
+                     /old_locus_tag="CEK65_11035"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_006388350.1"
+                     /note="incomplete; partial in the middle of a contig;
+                     missing N-terminus; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo="{'GBQualifier_name': 'pseudo'}"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="rRNA methyltransferase"
+     gene            1145..1234
+                     /GBInterval_from="1145"
+                     /GBInterval_to="1234"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS21185"
+     CDS             1145..1234
+                     /GBInterval_from="1145"
+                     /GBInterval_to="1234"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS21185"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_017155454.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tryptorubin family RiPP precursor"
+                     /protein_id="WP_017911958.1"
+                     /translation="MSLMKLLFSIKHLLSSKKPLKSYAWYIWY"
+     gene            1323..2396
+                     /GBInterval_from="1323"
+                     /GBInterval_to="2396"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS21300"
+                     /old_locus_tag="CEK65_11040"
+     CDS             1323..2396
+                     /GBInterval_from="1323"
+                     /GBInterval_to="2396"
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS21300"
+                     /old_locus_tag="CEK65_11040"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_017155453.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="cytochrome P450"
+                     /protein_id="WP_152181783.1"
+                     /translation="MSATMVDRDARATVFAPRLQALLRAHVGQDAFRLDADTVGVAGAA
+                     LSDRLLAARPATEHERPTFKPLHGRSIARSEAAKLMQAIGRDVREALKRPPPPTLDLSG
+                     PWPHIGHVYLRDLLLGGDPWRLRLLMDRTLELTPRLTWAVIAAGALAPLAPGAEASALA
+                     TLLSAADGYRARRDAMGLYRRTAAPVCFTISTLVANALWLGSPFDARVCNRNILYETLR
+                     LLPPSWNILRNASPEYGALDPRIGAADDVLVLPLLSHRDPALWEEPEAFRPERWDGVDP
+                     DALPGYLPFGHASERCWGRHMVMPLAERLLDLLRGQDLVADPQQRRATVPLTGLLGVAQ
+                     VDVIRHTRARGVACRTR"
+     gene            complement(2404..3455)
+                     /GBInterval_from="3455"
+                     /GBInterval_to="2403"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11280"
+                     /old_locus_tag="CEK65_11045"
+     CDS             complement(2404..3455)
+                     /GBInterval_from="3455"
+                     /GBInterval_to="2403"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11280"
+                     /old_locus_tag="CEK65_11045"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_016903335.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="LacI family DNA-binding transcriptional
+                     regulator"
+                     /protein_id="WP_152181784.1"
+                     /translation="MMGIRQRRAGSAVTLLDVARHAGVSPMTASRVINRHPRVSATMRE
+                     RVEASIKALGYRPNLAGRSLRTAGLARIGVLYSNPSAAYLNQFMLGMLEQSSLEGCQVL
+                     VEKSDDSASQRAATERLLQAGADGLILPPPLCDARQTIAELDARGIPLVAVATGAPMPG
+                     VSSVRIDDYQAACALTRHLLDLGHRDIGFVSGDPGHTPSALRSRAFFDTMAGAGLTVAP
+                     ERVAEGLFTYRSGLLAATALLQVAPRPSAILCSNDDMAAAALAIAHGLRLRVPEDLSIA
+                     GFDDTPVATTIWPELTTIHQPVAAMGRAAVTLLLGEIRQRRDGLPSRGTHQVLDYTLVT
+                     RGSTAPPAPR"
+     gene            complement(3519..4933)
+                     /GBInterval_from="4933"
+                     /GBInterval_to="3518"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11285"
+                     /old_locus_tag="CEK65_11050"
+     CDS             complement(3519..4933)
+                     /GBInterval_from="4933"
+                     /GBInterval_to="3518"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /locus_tag="CEK65_RS11285"
+                     /old_locus_tag="CEK65_11050"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_017162741.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="M28 family peptidase"
+                     /protein_id="WP_152181785.1"
+                     /translation="MRRLAVVIAAVLSLSSPAVAAEATRIPEAALRDAATLRERALADD
+                     TGWKVVESLTTEIGPRMAGSEADARAVAWATATFKALGFDKVWTEPVTFPKWERRSEHA
+                     QVLGAHAQPLTVTALGGSPGGTVEAEVVRFADLAALQAAPADALRGKIAFVDYQMLRTR
+                     DGKDYGNGGAVRSKGPSEAIRKGAIGFVMRSAGTDSHRVPHTGITRFDEGLTPVPAAAL
+                     SVPDADQLARLLARGPVRLRLALDCGWDGTATSYNVIGQITGRTLPNEVVLIGGHLDSW
+                     DLGTGAIDDGAGVAISMAAGHLLGQLKQAPKRSIRVVAFANEEQGLYGGKAYAQAHAKD
+                     VARHQIAAESDFGAGRIYAFNTGSGDAAGSRAATRQIAEALAPLGIAYAPDAGGPGPDV
+                     GPLAAKGGAWAWLAQDGSDYFDLHHTADDTLDKIDPKALAQNVAAYAVFAYLAAQADGG
+                     FGSQAKTVEPPRE"
+     gene            complement(5031..5449)
+                     /GBInterval_from="5449"
+                     /GBInterval_to="5030"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="mscL"
+                     /locus_tag="CEK65_RS11290"
+                     /old_locus_tag="CEK65_11055"
+     CDS             complement(5031..5449)
+                     /GBInterval_from="5449"
+                     /GBInterval_to="5030"
+                     /GBInterval_iscomp=""
+                     /GBInterval_accession="NZ_NSGT01000043.1"
+                     /gene="mscL"
+                     /locus_tag="CEK65_RS11290"
+                     /old_locus_tag="CEK65_11055"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_003477152.1"
+                     /GO_function="GO:0008381 - mechanosensitive ion channel
+                     activity [Evidence IEA]"
+                     /GO_process="GO:0034220 - ion transmembrane transport
+                     [Evidence IEA]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="large-conductance mechanosensitive channel
+                     protein MscL"
+                     /protein_id="WP_019802352.1"
+                     /translation="MSMIREFKEFAMRGNVLDLAVGVVLGAAFGKIVTALVEKIIMPPI
+                     GLLVGGVDFSRWAWTLKAATVDAAGKPVPAVVIGIGDFLNTIIQFVIVAFAIFMLVKAI
+                     NRIARKEPPAPKAPTEEVLLLREIRDSLKHEPRAE"
+     CDS             1154..1234
+                     /Product="Putative atropopeptide precursor"
+                     /Translation="MKLLFSIKHLLSSKKPLKSYAWYIWY*"
+     gene            1154..1234
+ORIGIN
+        1 ccggggcgcc ggcccgtttg tcttcgtcgt cggcgccgcg cgctgcccgc tttgcctccg
+       61 gggcgggcgg gccggggccg cgcgccggcg gcgggggcgg gccccccacg cccccgcccg
+      121 gggccccccc ccgcgggggg gccacccccc cccccccccg gggggggggg gggggggggg
+      181 agggtgcggc ggcgaccaac cgcaacgaac tgcgcctcta cggcctcaac gcggtgcgcg
+      241 cggtgtacgc gcggcggccg gaggcgatcc gcaagctgta cctgagcgag gcgcggatcc
+      301 cggcattgca gccgctgctg aagtggtgcg tggccaaccg ggtcggctac cgcgtggtgg
+      361 acgaggccga tctgcacaag ctcgccgcca gcagccacca cgagggcgtg gtcgccgacg
+      421 tgctgcgcgt cgcgccgctg gccctggccg actggctgca ggcgctggcg ccgggtccgg
+      481 cgctggcgct gtggctggat ggcgtgggca atccgcacaa tttcggcgcg atcctgcgct
+      541 cggcggcgca cttcggcgtg ggcgcgatcc tgttgccgga gcaggccgca ctggcgctgt
+      601 ccggtgccgc cgcgcgcgtg gccgagggcg gcgccgaggc ggtgccgctg gtgcggctgc
+      661 cgcccacgat gcaggcgcag gcgcaattgc gcggcgcggg cttcgccctc gccgcgacgc
+      721 tggtggacgg cggcgacgat ctgttcgcca ccgccttgcc gcagcgcctg gtctacgtga
+      781 tgggcgccga gagcgacggg atggaccgcg acttcgcgca ggcctgcgat ctgcgcctgt
+      841 ccatccccgg cagcggcgcg gtggaaagcc tcaacgtcgc cgccgccacc gcggtgttgc
+      901 tgggcacctg gcgcagccgt catccgcacg ggcgtgcggc gcgctgagca cggcgtcacg
+      961 cgctgagatg cggctgcatt tggctacgca atagtgtgcg cgccggccgg tttcgggttt
+     1021 gcgaggggcc cgccggcggc gtagcgtgca ggcgcgcctc gccgatgcga tcgcgccacg
+     1081 cgcgctggcg tcggcgaaac cgcgcagtcc cccgtccgaa agggccatcg tcactcctgc
+     1141 ggagatgtcg ctcatgaagc tgctgttctc catcaagcac ctgctgtcgt cgaagaagcc
+     1201 gctgaagtcg tacgcctggt acatctggta ctgagcgccg tgcgcgatgc cgcgcggcat
+     1261 gccgtgcggc cggtgcccgg cggatgcact gcgccgggcg tcgttcctcc aggagactgg
+     1321 cgatgtccgc caccatggtc gaccgcgatg cgcgcgccac ggtcttcgcg ccgcgtctgc
+     1381 aggcgttgct gcgcgcgcat gtggggcagg acgcgttccg cctggatgcc gacacggtcg
+     1441 gtgtcgccgg cgccgcgctg agcgaccgcc tgctcgcggc ccggcccgcc accgaacacg
+     1501 aacggccgac cttcaagccg ttgcacggcc gctcgatcgc gcgcagcgag gcggcgaaac
+     1561 tgatgcaggc gatcggccgc gacgtgcgcg aggcgctgaa gcgtccgccg ccgcccacgc
+     1621 tcgatctgtc cggcccatgg ccgcacatcg gccatgtcta tctgcgcgac ctgctgctcg
+     1681 gcggcgaccc gtggcggctg cgcctgctga tggaccgcac cctggaactc acgccgcgcc
+     1741 tgacctgggc ggtgatcgcc gccggcgcgc tcgcaccgct ggcgccgggc gcggaggcct
+     1801 cggcgttggc cacgctgttg tccgcggccg atggctaccg cgcgcgccgc gatgcgatgg
+     1861 gcctgtaccg gcgcaccgcc gcgccggtgt gcttcaccat ttccacgctg gtcgccaacg
+     1921 cgctgtggct ggggtcgccg ttcgacgcgc gcgtctgcaa ccgcaacatc ctctacgaaa
+     1981 ccctgcgcct gctgccgccg tcctggaaca tcctgcgcaa tgcctcgccc gagtacggtg
+     2041 cgctggatcc gcgtatcggc gccgccgacg acgtgctggt gctgcccttg ctcagccatc
+     2101 gcgatccggc gctgtgggag gagccggagg cgttccggcc agagcgctgg gacggcgtgg
+     2161 atcccgatgc gttgcccggc tacctgccgt tcggccatgc ctccgagcgc tgctggggcc
+     2221 ggcacatggt catgccgctg gcggagcggc tactggacct gctgcgcggt caggacctag
+     2281 tcgcggaccc gcagcagcgt cgcgccactg tgccgttgac cggtctgctc ggtgtggccc
+     2341 aggtcgacgt gatccggcac acgcgcgctc gaggcgtcgc ctgccgcacg cggtgacggc
+     2401 gctcagcgcg gtgcgggcgg cgcggtggac ccgcgcgtga ccagggtgta gtcgagcacc
+     2461 tgatgggtac cgcggctggg cagtccgtcg cggcgttggc gaatttcgcc gagcagcagc
+     2521 gtcaccgcgg ccctgcccat cgccgcgacc ggctggtgga tggtggtcag ctccggccag
+     2581 atcgtggtgg ccaccggcgt gtcgtcgaaa ccggcgatcg acagatcctc gggcacgcgc
+     2641 aggcgcagtc catgcgcgat cgccagcgct gccgcggcca tgtcgtcgtt gctgcacagg
+     2701 atcgcgctgg gacgcggggc gacctgcagc aacgcagtgg ccgcgagcag gccggagcgg
+     2761 taggtgaaca ggccttcggc cacgcgctcc ggcgccaccg tcagcccggc cccggccatg
+     2821 gtgtcgaaga acgcgcggct gcgcagcgcg ctgggcgtgt gcccgggatc gccgctgacg
+     2881 aagccgatgt cgcggtggcc caggtcgagc aggtgccggg tgagcgcgca cgccgcctgg
+     2941 tagtcgtcga tgcgcaccga gctgaccccg ggcatcggtg cgccggtggc gaccgccacc
+     3001 agcggaatgc cgcgcgcatc cagttcggcg atggtctgcc gcgcatcgca cagcggcggc
+     3061 ggcaggatca ggccatcggc accggcctgg agcaggcgtt cggtggcggc gcgctggctg
+     3121 gcgctgtcgt cgcttttttc caccagcacc tggcagcctt ccaggctgct ctgctcgagc
+     3181 atgccgagca tgaactggtt gaggtaggcc gcgctgggat tgctgtagag aacgccgatg
+     3241 cgcgccagtc ctgcggtgcg cagcgagcgg ccggcgaggt tggggcggta gccgagcgcc
+     3301 ttgatcgacg cttcgacgcg ctcgcgcatg gtagcgctca cgcgcgggtg gcgattgatc
+     3361 acgcgcgaag cagtcatcgg cgacacgccc gcatggcggg ctacatccag caacgtcacc
+     3421 gctgagcccg cgcgacgttg ccgtatgccc atcaaaggtc ctggcgctgc tgcggagggg
+     3481 aagcccctgc gcgcgtcctg cgcaggtccg gtttacttta ctccctgggc ggttccactg
+     3541 tcttggcctg gctgccgaaa ccgccgtcgg cctgcgccgc cagatatgcg aacaccgcat
+     3601 acgcggcgac gttctgcgcc agcgccttcg ggtcgatctt gtccagggtg tcgtcggcgg
+     3661 tgtgatgcag atcgaagtaa tcgctgccgt cctgcgccag ccaggcccag gcaccgccct
+     3721 tggcggcgag cggcccgacg tccgggccgg ggccgccggc gtccggcgca taggcgatgc
+     3781 cgagcggtgc cagcgcctcg gcgatctgcc gggtcgccgc gcgcgagccg gcggcatcgc
+     3841 cggagccggt gttgaaggca tagatgcggc cggcgccgaa gtcgctctcg gcggcgatct
+     3901 ggtgccgcgc cacgtccttg gcatgcgcct gcgcataggc cttgccgccg tacagaccct
+     3961 gctcctcgtt ggcgaaggcg accacgcgga tgctgcgctt gggcgcctgc ttgagctggc
+     4021 cgagcagatg cccggcagcc atgctgatcg ccacgccggc gccgtcgtcg atcgcgccgg
+     4081 tgcccaggtc ccaggaatcc aggtgcccgc cgatcagcac cacctcgttc ggcagcgtgc
+     4141 gcccggtgat ctgcccgatc acgttgtagg aagtcgcggt gccgtcccag ccgcagtcca
+     4201 gcgccaggcg caggcgcacc gggccgcgcg cgagcaggcg cgccagctgg tcggcatcgg
+     4261 gcaccgacag cgccgccgcc ggcaccggcg tcagtccttc gtcgaagcgg gtgatgccgg
+     4321 tatgcggcac gcggtgcgaa tcggtgccgg ccgagcgcat cacgaaaccg atcgcgccct
+     4381 tgcggatcgc ttccgacggc cccttgctgc gcaccgcgcc gccgttgccg tagtccttgc
+     4441 catcgcgggt gcgcagcatc tggtaatcga cgaaggcgat cttgccgcgc agcgcatcgg
+     4501 ccggcgccgc ctgcaatgcg gccaggtcgg cgaagcgcac cacctcggcc tcgaccgtgc
+     4561 cgccggggct gccgcccagc gcggtgacgg tgagcggttg cgcatgcgcg ccgagcacct
+     4621 gcgcgtgttc gctgcgccgc tcccatttcg ggaacgtcac cggctcggtc cacaccttgt
+     4681 cgaagcccag cgccttgaat gtcgccgtgg cccaggccac cgcgcgtgcg tcggcctcgc
+     4741 tgcccgccat ccgcgggccg atctcggtgg tcagcgactc gaccaccttc cagccggtgt
+     4801 cgtcggccag tgcccgctcg cgcaaggtcg ccgcgtcgcg gagtgccgcc tccgggatgc
+     4861 gcgtggcctc ggcggcaacc gcaggagagg acagactcag cacagcagcg atgacgacgg
+     4921 caagacgacg catggaaaac tccgcggaca caggaaccgc gagcttagca gtgcctcacc
+     4981 gccgtgcacg acgcggcctc catggcggaa gccacgtgtg ccgtcgcgct tactccgcgc
+     5041 gcggctcgtg cttgagcgaa tcgcggatct cgcgcagcag cagcacttcc tcggttgggg
+     5101 ccttcggcgc cggcggttcc ttgcgggcga tgcggttgat cgccttgacc agcatgaaga
+     5161 tggcgaaggc cacgatcacg aactggatga tggtgttgag gaaatcgccg atgccgatca
+     5221 ccacggccgg taccggcttg cccgccgcgt ccaccgtcgc cgccttcagc gtccatgccc
+     5281 agcgcgaaaa atccacgccg cccacgagca atccgatcgg cggcatgatg atcttctcga
+     5341 ccagcgcggt gacgatcttg ccgaacgcgg cgccgagcac cacgccgacc gccaggtcca
+     5401 gcacgttgcc gcgcatggcg aattccttga attcgcggat catgctcat
+//
