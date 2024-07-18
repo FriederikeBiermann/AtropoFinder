@@ -60,7 +60,7 @@ Before you start, ensure you have the following software installed:
     -o, --output: Specifies the output directory. Default is Output/.
 ### Example code
   ```bash
-  python corefiner.py -i input.fasta -b 3000 -d True -e your_email@example.com -o Output/
+  python Corefinder.py -i input.fasta -b 3000 -d True -e your_email@example.com -o Output/
 ```
 ### Output Files
   info_precursor_peptides.csv: Information on the identified precursor peptides.
