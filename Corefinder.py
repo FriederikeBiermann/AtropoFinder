@@ -382,8 +382,8 @@ for record in SeqIO.parse(filename_input, "fasta"):
 
     except:
         print("Error")
-tableofproteins = tableofproteins.append(
-    rows, ignore_index=True)
+new_df = pd.DataFrame(rows)
+tableofproteins = pd.concat([tableofproteins, new_df], ignore_index=True)
 tableofproteins.to_csv(filename_output, index=False)
 SeqIO.write(fastalist_openframe,
             args.output[0] + "open_reading_frames.fasta", 'fasta')
