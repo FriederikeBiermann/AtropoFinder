@@ -1,4 +1,36 @@
 # AtropoFinder
+## Overview
+
+This Jupyter Notebook provides an analysis pipeline for identifying and classifying tryptorubin-like peptides using sequence motifs.
+## Prerequisites
+
+    Python 3
+    Biopython 1.76
+    Pandas
+    Numpy
+    Scikit-learn 1.0.2
+    Imbalanced-learn 0.9.0
+
+## Installation
+
+To install the required packages, you can use pip:
+   ```bash
+   pip install biopython==1.76 pandas numpy scikit-learn==1.0.2 imbalanced-learn==0.9.0
+
+   ```
+## Usage
+
+    Prepare Input Files:
+        Place your FASTA files in the Fasta directory.
+        Ensure the files are correctly named and paths are set in the notebook TerP450-TLP Version.ipynb.
+
+    Set Parameters:
+        Adjust the LENGTH variable to set the length of the sequence motif you want to test.
+        Update foldernameoutput to the desired output directory.
+
+    Run the Notebook:
+        Execute the cells in the notebook TerP450-TLP Version.ipynb to process the train the classifier.
+        To run the pretrained classifier on you own sequences, align them using Clustal W version 1.2.3 with the default settings to the reference protein cytochrome P450 with known annotation of functional regions from Mycobacterium tuberculosis H2102 (GenBank: KBE51585.1) in a multiple sequence alignment. Fragment the alignment at positions 92, 192, 275, and 395. Add the respecting files in the cell " Analyse sequences with fragment fastas" and run the cell.
 # Corefiner
 
 ## Overview
