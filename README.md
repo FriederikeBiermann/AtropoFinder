@@ -4,9 +4,9 @@
 This Jupyter Notebook provides an analysis pipeline for identifying and classifying tryptorubin-like peptides using sequence motifs.
 ## Prerequisites
 
-    Python 3
+    Python 3.9
     Biopython 1.76
-    Pandas
+    Pandas 2.2.2
     Numpy
     Scikit-learn 1.0.2
     Imbalanced-learn 0.9.0
@@ -15,7 +15,7 @@ This Jupyter Notebook provides an analysis pipeline for identifying and classify
 
 To install the required packages, you can use pip:
    ```bash
-   pip install biopython==1.76 pandas numpy scikit-learn==1.0.2 imbalanced-learn==0.9.0
+   pip install biopython==1.76 pandas==2.2.2 numpy scikit-learn==1.0.2 imbalanced-learn==0.9.0
 
    ```
 ## Usage
@@ -38,9 +38,9 @@ Corefiner makes identifying RiPP cores easy. It reads a specified FASTA file, fe
 
 ## Prerequisites
 Before you start, ensure you have the following software installed:
-- Python 3.x
-- Biopython
-- pandas
+- Python 3.9
+- Biopython 1.76
+- pandas 2.2.2
 
 ## Installation
 
