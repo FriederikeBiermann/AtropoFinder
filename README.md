@@ -46,8 +46,8 @@ Before you start, ensure you have the following software installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/corefiner.git
-   cd corefiner
+   git clone https://github.com/FriederikeBiermann/AtropoFinder
+   cd AtropoFinder
 2. **Install dependencies:**
    ```bash
    pip install biopython pandas
