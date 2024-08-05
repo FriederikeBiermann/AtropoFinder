@@ -139,7 +139,7 @@ rows =[]
 
 # actually finding in fastas
 for record in SeqIO.parse(filename_input, "fasta"):
-    try:
+    #try:
         if "Mycobacteroides abscessus" in str(record):
             continue
         gi, ref = find_gi_infasta_header(record.id)
@@ -236,8 +236,12 @@ for record in SeqIO.parse(filename_input, "fasta"):
                 chosensequence = complete_sequence[begin_xml_interval:end_xml_interval].upper(
                 )
                 filename_genbank_file = f'{gb_output_directory}{genome_id}.gb'
-                genbank_seq_record = SeqRecord(Seq(chosensequence), id=genome_id, annotations={
-                                               "molecule_type": "dna"}, name=genome_id+"-"+str(begin_xml_interval)+"-"+str(end_xml_interval))
+                genbank_seq_record = SeqRecord(
+                    Seq(chosensequence), 
+                    id=genome_id, 
+                    annotations={"molecule_type": "DNA"}, 
+                    name=genome_id + "-" + str(begin_xml_interval) + "-" + str(end_xml_interval)
+                )
                 seq_feature = SeqFeature(FeatureLocation(
                     0, end_xml_interval-begin_xml_interval), type="source", qualifiers=genome['GBSeq_feature-table'][0])
                 genbank_seq_record.features += [seq_feature]
@@ -380,8 +384,8 @@ for record in SeqIO.parse(filename_input, "fasta"):
                 
                 dnahandle.close()
 
-    except:
-        print("Error")
+   #except:
+    #    print("Error")
 new_df = pd.DataFrame(rows)
 tableofproteins = pd.concat([tableofproteins, new_df], ignore_index=True)
 tableofproteins.to_csv(filename_output, index=False)
